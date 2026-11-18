@@ -1,0 +1,41 @@
+config,direction,facility_id,country,name,rank_A,rank_alt,delta_rank,pop_indicator
+D2-B,improves,FR_node_6102739953,FR,THD Global 1,558,479,-79,0.391
+D2-B,improves,FI_node_9626439921,FI,Easylinehost Finland Oy,358,307,-51,0.556
+D2-B,improves,FR_way_969469076,FR,Advanced Mediomatrix,752,702,-50,0.297
+D2-B,improves,CH_node_10688935368,CH,Datacenter Thurgau,470,422,-48,0.523
+D2-B,improves,BE_way_368995283,BE,Datacenter Gent,509,463,-46,0.497
+D2-B,improves,DE_way_258743341,DE,,399,353,-46,0.669
+D2-B,improves,FR_node_9045173270,FR,Datacenter MGEN,682,637,-45,0.389
+D2-B,improves,DE_node_5807803485,DE,IT- und Medienzentrum,419,375,-44,0.701
+D2-B,improves,DE_node_11698484259,DE,Universitätsrechenzentrum,380,337,-43,0.664
+D2-B,improves,FR_way_81784724,FR,SFR Netcenter Rennes,450,408,-42,0.573
+D2-B,worsens,PT_way_146664358,PT,Equinix,339,421,82,0.824
+D2-B,worsens,NL_node_11426879977,NL,NorthC Datacenter Eindhoven 2,912,983,71,0.492
+D2-B,worsens,GB_way_787209296,GB,,468,537,69,0.794
+D2-B,worsens,GR_way_718195570,GR,Med Nautilus,481,549,68,0.77
+D2-B,worsens,GB_way_984002529,GB,,426,489,63,0.797
+D2-B,worsens,ES_way_1253983162,ES,Data Center KIO Valencia,678,740,62,0.671
+D2-B,worsens,PT_way_193317940,PT,NOS Imopolis I,480,540,60,0.83
+D2-B,worsens,GB_way_194508831,GB,,701,758,57,0.683
+D2-B,worsens,PT_way_193317921,PT,NOS Imopolis II,491,546,55,0.828
+D2-B,worsens,GB_way_735444063,GB,China Mobile Slough,499,553,54,0.792
+D2-C,improves,BE_node_12088526370,BE,LCL Belgium,465,327,-138,0.578
+D2-C,improves,BE_way_29417840,BE,Brussels DC,443,306,-137,0.558
+D2-C,improves,BE_node_6215733985,BE,Colt Telecom,434,300,-134,0.584
+D2-C,improves,BE_way_29448766,BE,Digital Realty Brussel BRU1,498,369,-129,0.524
+D2-C,improves,FR_node_8744063082,FR,Pôle Emploi datacenter Orléans,485,360,-125,0.494
+D2-C,improves,DE_way_234449744,DE,General Logistics Systems Germany GmbH & Co. OHG,1084,977,-107,0.0
+D2-C,improves,NL_way_973134619,NL,Digital Realty (AMS10),614,507,-107,0.497
+D2-C,improves,NO_way_869898955,NO,Signal,921,820,-101,0.0
+D2-C,improves,FR_node_6102739953,FR,THD Global 1,558,461,-97,0.391
+D2-C,improves,FR_way_1038308860,FR,,843,749,-94,0.175
+D2-C,worsens,HU_node_1530992851,HU,,322,568,246,0.991
+D2-C,worsens,HU_node_9379430388,HU,BIX,318,564,246,0.992
+D2-C,worsens,HU_node_9753176163,HU,,270,502,232,0.998
+D2-C,worsens,CZ_node_12015570907,CZ,T-Mobile,379,597,218,0.918
+D2-C,worsens,DK_way_912393044,DK,,653,846,193,0.829
+D2-C,worsens,DK_way_134874582,DK,,657,849,192,0.828
+D2-C,worsens,CZ_node_11436652398,CZ,MasterDC Praha,292,481,189,0.94
+D2-C,worsens,PL_way_666285028,PL,DC 11.11,567,743,176,0.874
+D2-C,worsens,PL_way_328866887,PL,,639,807,168,0.79
+D2-C,worsens,DE_way_676732263,DE,,428,592,164,0.881

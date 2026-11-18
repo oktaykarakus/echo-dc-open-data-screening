@@ -1,0 +1,11 @@
+{
+ "k": 122,
+ "composite_top_decile_in_union_heat_or_pop_top_decile": 105,
+ "composite_top_decile_in_neither": 17,
+ "union_size": 145,
+ "composite_top_decile_in_heat_and_pop": 76,
+ "R2_composite_score_on_heat_pop_indicators": 0.892450797337024,
+ "R2_composite_rank_on_heat_pop_ranks": 0.8924165468561613,
+ "spearman_opportunity_vs_feasibility": 0.773089857725249,
+ "spearman_heat_vs_population_indicator": 0.9586651933056225
+}

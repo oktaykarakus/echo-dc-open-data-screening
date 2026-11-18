@@ -1,0 +1,53 @@
+{
+ "family_influence_order_by_scenario_most_influential_first": {
+  "equal": [
+   "road_accessibility",
+   "anchors",
+   "urban_compactness",
+   "heat_demand"
+  ],
+  "literature_informed": [
+   "road_accessibility",
+   "urban_compactness",
+   "heat_demand",
+   "anchors"
+  ],
+  "entropy": [
+   "road_accessibility",
+   "anchors",
+   "urban_compactness",
+   "heat_demand"
+  ]
+ },
+ "kendall_tau_of_family_spearman_between_scenarios": {
+  "equal_vs_literature_informed": 0.3333333333333334,
+  "equal_vs_entropy": 1.0,
+  "literature_informed_vs_entropy": 0.3333333333333334
+ },
+ "multipliers": [
+  0.0,
+  0.5,
+  2.0
+ ],
+ "groups": {
+  "heat_demand": [
+   "heat_sum",
+   "hdd_2024"
+  ],
+  "anchors": [
+   "anchor_count",
+   "anchor_diversity",
+   "nearest_anchor_distance_m"
+  ],
+  "urban_compactness": [
+   "urban_compactness"
+  ],
+  "road_accessibility": [
+   "major_road_density",
+   "nearest_major_road_distance_m"
+  ],
+  "population_density": [
+   "pop_density"
+  ]
+ }
+}

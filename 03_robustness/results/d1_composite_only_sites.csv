@@ -1,0 +1,132 @@
+comparator,facility_id,country,name,composite_rank,simple_rank,rank_gap
+heat_hotmaps,DE_way_34943239,DE,,120,140,20
+heat_hotmaps,DE_way_387918535,DE,aixit GmbH,106,144,38
+heat_hotmaps,DE_way_764604919,DE,maincubes FRANKFURT-01,122,192,70
+heat_hotmaps,DE_way_1031000203,DE,Verizon,93,147,54
+heat_hotmaps,FR_node_8930909348,FR,Lille Boitelle,40,152,112
+heat_hotmaps,FR_way_37697561,FR,Datacenter SNCF RESARAIL,76,206,130
+heat_hotmaps,FR_way_64201452,FR,,89,235,146
+heat_hotmaps,FR_way_65043676,FR,Cogent Rouen,118,240,122
+heat_hotmaps,FR_way_76296417,FR,Cogent Toulouse,116,253,137
+heat_hotmaps,FR_way_84942310,FR,Cogent Lille,24,174,150
+heat_hotmaps,FR_way_128632388,FR,Extension centre de calcul IN2P3,58,123,65
+heat_hotmaps,FR_way_261420854,FR,Interxion PAR7,45,173,128
+heat_hotmaps,FR_way_757483478,FR,Lille Etix #1,114,236,122
+heat_hotmaps,FR_way_1030533210,FR,PAR8,87,162,75
+heat_hotmaps,FR_way_1084581417,FR,PAR9,65,165,100
+heat_hotmaps,FR_way_1180419924,FR,,97,168,71
+heat_hotmaps,FR_way_1180419925,FR,,83,172,89
+heat_hotmaps,FR_relation_3358244,FR,Centre Régional de Ressources Informatiques (CRRI),98,310,212
+heat_hotmaps,GB_node_11064014638,GB,UoS IT Services,79,221,142
+heat_hotmaps,GB_node_11167049138,GB,Hive IT,104,204,100
+heat_hotmaps,GB_node_12300408592,GB,DataVita DV2,25,151,126
+heat_hotmaps,GB_node_12303136063,GB,Equinix MA1,73,210,137
+heat_hotmaps,GB_node_12303136064,GB,Equinix MA4,63,203,140
+heat_hotmaps,GB_way_34160179,GB,Telehouse West,95,186,91
+heat_hotmaps,GB_way_133868759,GB,iomart Glasgow Data Centre,53,198,145
+heat_hotmaps,GB_way_157178049,GB,Global Switch London East,115,185,70
+heat_hotmaps,GB_way_190297843,GB,Cable & Wireless Data Centre,99,208,109
+heat_hotmaps,GB_way_193806160,GB,Telehouse South,107,201,94
+heat_hotmaps,GB_way_196783604,GB,Global Switch London North,90,176,86
+heat_hotmaps,GB_way_206625800,GB,Telehouse North,84,179,95
+heat_hotmaps,GB_way_206625804,GB,Telehouse East,88,183,95
+heat_hotmaps,GB_way_270023895,GB,IP House London Datacentre,54,150,96
+heat_hotmaps,GB_way_320724394,GB,Digital Realty LHR20,96,211,115
+heat_hotmaps,GB_way_497956675,GB,Telehouse North Two,80,177,97
+heat_hotmaps,GB_way_1001246921,GB,Virtual Internet UK,61,196,135
+population_density,DE_way_34943239,DE,,120,231,111
+population_density,DE_way_150652357,DE,Equinix DU1,102,131,29
+population_density,DE_way_387918535,DE,aixit GmbH,106,182,76
+population_density,DE_way_764604919,DE,maincubes FRANKFURT-01,122,244,122
+population_density,DE_way_1031000203,DE,Verizon,93,183,90
+population_density,FR_node_8670065237,FR,Datacenter RTE,94,123,29
+population_density,FR_node_9068699148,FR,,119,177,58
+population_density,FR_node_9068705141,FR,,85,140,55
+population_density,FR_way_37697561,FR,Datacenter SNCF RESARAIL,76,148,72
+population_density,FR_way_49292264,FR,,109,171,62
+population_density,FR_way_49292266,FR,,108,173,65
+population_density,FR_way_50210667,FR,Green DataCenter Mangin,77,136,59
+population_density,FR_way_64201452,FR,,89,193,104
+population_density,FR_way_65043676,FR,Cogent Rouen,118,200,82
+population_density,FR_way_76296417,FR,Cogent Toulouse,116,218,102
+population_density,FR_way_76727775,FR,OPCORE DC1,100,127,27
+population_density,FR_way_84942310,FR,Cogent Lille,24,130,106
+population_density,FR_way_757483478,FR,Lille Etix #1,114,178,64
+population_density,FR_relation_3358244,FR,Centre Régional de Ressources Informatiques (CRRI),98,385,287
+population_density,GB_node_11064014638,GB,UoS IT Services,79,179,100
+population_density,GB_node_11167049138,GB,Hive IT,104,162,58
+population_density,GB_node_12300408592,GB,DataVita DV2,25,216,191
+population_density,GB_node_12303136063,GB,Equinix MA1,73,139,66
+population_density,GB_node_12303136064,GB,Equinix MA4,63,132,69
+population_density,GB_way_133868759,GB,iomart Glasgow Data Centre,53,292,239
+population_density,AT_way_714122239,AT,B,52,137,85
+population_density,AT_way_714122240,AT,A,78,133,55
+population_density,AT_way_1251362833,AT,C,50,142,92
+opportunity,DE_way_764604919,DE,maincubes FRANKFURT-01,122,164,42
+opportunity,DE_way_1031000203,DE,Verizon,93,130,37
+opportunity,FR_node_6289367991,FR,Ad Valem technologies TDF,33,201,168
+opportunity,FR_node_6289564874,FR,Level (3) Le Capitole Nanterre,51,155,104
+opportunity,FR_node_8930909348,FR,Lille Boitelle,40,173,133
+opportunity,FR_node_9068699148,FR,,119,197,78
+opportunity,FR_node_9068705141,FR,,85,181,96
+opportunity,FR_way_37697561,FR,Datacenter SNCF RESARAIL,76,187,111
+opportunity,FR_way_42742505,FR,Equinix PA3,60,196,136
+opportunity,FR_way_64201452,FR,,89,171,82
+opportunity,FR_way_65043676,FR,Cogent Rouen,118,135,17
+opportunity,FR_way_72995274,FR,Orange - Aubervilliers,62,160,98
+opportunity,FR_way_72996473,FR,Datacenter Completel,64,156,92
+opportunity,FR_way_73003053,FR,Datacenter Atos,31,188,157
+opportunity,FR_way_73005029,FR,Datacenter Atos,27,186,159
+opportunity,FR_way_76296417,FR,Cogent Toulouse,116,206,90
+opportunity,FR_way_76727775,FR,OPCORE DC1,100,234,134
+opportunity,FR_way_81282298,FR,,82,179,97
+opportunity,FR_way_81283176,FR,,86,191,105
+opportunity,FR_way_261420854,FR,Interxion PAR7,45,195,150
+opportunity,FR_way_463443856,FR,Equinix PA2,67,185,118
+opportunity,FR_way_1030533210,FR,PAR8,87,227,140
+opportunity,FR_way_1084581417,FR,PAR9,65,207,142
+opportunity,FR_way_1121454054,FR,Equinix PA10,70,176,106
+opportunity,FR_way_1121454055,FR,Equinix PA9X,59,189,130
+opportunity,FR_way_1180419924,FR,,97,245,148
+opportunity,FR_way_1180419925,FR,,83,231,148
+opportunity,FR_relation_1190245,FR,Digital Realty Paris PAR6,81,146,65
+opportunity,GB_node_11640787539,GB,Netwise,101,235,134
+opportunity,GB_way_34160179,GB,Telehouse West,95,333,238
+opportunity,GB_way_157178049,GB,Global Switch London East,115,359,244
+opportunity,GB_way_190297843,GB,Cable & Wireless Data Centre,99,304,205
+opportunity,GB_way_193806160,GB,Telehouse South,107,351,244
+opportunity,GB_way_196783604,GB,Global Switch London North,90,335,245
+opportunity,GB_way_206625800,GB,Telehouse North,84,322,238
+opportunity,GB_way_206625804,GB,Telehouse East,88,311,223
+opportunity,GB_way_270023895,GB,IP House London Datacentre,54,208,154
+opportunity,GB_way_320724394,GB,Digital Realty LHR20,96,249,153
+opportunity,GB_way_497956675,GB,Telehouse North Two,80,291,211
+opportunity,GB_way_1001246921,GB,Virtual Internet UK,61,175,114
+opportunity,IT_way_1125063250,IT,,111,133,22
+opportunity,IT_way_1125063251,IT,,110,134,24
+opportunity,IT_way_1125369577,IT,,112,132,20
+opportunity,IT_way_1125369579,IT,,113,129,16
+opportunity,AT_way_714122239,AT,B,52,168,116
+opportunity,AT_way_714122240,AT,A,78,148,70
+opportunity,AT_way_1251362833,AT,C,50,150,100
+feasibility,DE_node_10147406397,DE,IPB Internet Provider in Berlin GmbH,91,179,88
+feasibility,DE_way_34943239,DE,,120,184,64
+feasibility,DE_way_150652357,DE,Equinix DU1,102,135,33
+feasibility,DE_way_387918535,DE,aixit GmbH,106,136,30
+feasibility,DE_way_764604919,DE,maincubes FRANKFURT-01,122,138,16
+feasibility,FR_node_6289527565,FR,Alphalink Telco Center,121,232,111
+feasibility,FR_node_6289587203,FR,Prosodie Boulogne,92,125,33
+feasibility,FR_node_7902351616,FR,Datacenter Orange Archives,103,167,64
+feasibility,FR_way_49292264,FR,,109,146,37
+feasibility,FR_way_49292266,FR,,108,145,37
+feasibility,FR_way_50210667,FR,Green DataCenter Mangin,77,131,54
+feasibility,FR_way_62340941,FR,Orange Lyon Lumière - Centrale,105,151,46
+feasibility,FR_way_65043676,FR,Cogent Rouen,118,141,23
+feasibility,FR_way_80158243,FR,Paris St Amand,117,175,58
+feasibility,FR_way_757483478,FR,Lille Etix #1,114,149,35
+feasibility,FR_relation_3358244,FR,Centre Régional de Ressources Informatiques (CRRI),98,134,36
+feasibility,GB_node_11167049138,GB,Hive IT,104,128,24
+feasibility,IT_way_1125063250,IT,,111,126,15
+feasibility,IT_way_1125063251,IT,,110,124,14
+feasibility,IT_way_1125369577,IT,,112,129,17
+feasibility,IT_way_1125369579,IT,,113,133,20

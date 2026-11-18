@@ -1,0 +1,10 @@
+indicator,D2-A,D2-B,D2-C
+norm_heat_sum_2p5km,0.083333,0.1,0.083333
+norm_pop_density_2p5km,0.208333,0.125,0.083333
+norm_hdd_2024,0.083333,0.1,0.083333
+norm_anchor_count_2p5km,0.083333,0.1,0.083333
+norm_anchor_diversity_2p5km,0.083333,0.1,0.083333
+norm_nearest_anchor_distance_m,0.083333,0.1,0.083333
+norm_urban_compactness_2p5km,0.125,0.125,0.166667
+norm_major_road_density_2p5km,0.125,0.125,0.166667
+norm_nearest_major_road_distance_m,0.125,0.125,0.166667

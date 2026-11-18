@@ -1,0 +1,17 @@
+scale,scenario,n_tied_raw_scores
+1km,equal,3
+1km,literature_informed,3
+1km,entropy,3
+1km,entropy_ref,3
+2p5km,equal,1
+2p5km,literature_informed,1
+2p5km,entropy,1
+2p5km,entropy_ref,1
+5km,equal,2
+5km,literature_informed,2
+5km,entropy,2
+5km,entropy_ref,2
+10km,equal,2
+10km,literature_informed,2
+10km,entropy,2
+10km,entropy_ref,2

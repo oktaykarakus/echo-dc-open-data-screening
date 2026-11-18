@@ -1,0 +1,18 @@
+{
+ "robust_priority_sites": {
+  "n_top_decile_in_all_12_cells": 60,
+  "n_in_any_cell": 198,
+  "countries_of_robust": {
+   "FR": 43,
+   "GB": 16,
+   "DE": 1
+  }
+ },
+ "entropy_max_abs_weight_shift_vs_2p5km": {
+  "1km": 0.1497556740057512,
+  "5km": 0.03577766541029781,
+  "10km": 0.0617037621444011
+ },
+ "n_bootstrap": 1000,
+ "seed": 20260707
+}

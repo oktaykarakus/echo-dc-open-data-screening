@@ -1,0 +1,1217 @@
+facility_id,country,name,rank_1km,rank_2p5km,rank_5km,rank_10km,best_rank,worst_rank,rank_range,rank_sd,n_top_decile,top_status_1km_vs_ref,top_status_5km_vs_ref,top_status_10km_vs_ref,top_pattern,dRank_1km_vs_ref,dRank_5km_vs_ref,dRank_10km_vs_ref,largest_single_factor_shift,largest_single_factor_driver
+NL_node_599587508,NL,Cellnex,1164,1132,1035,982,982,1164,182,84.41317037840324,0,stays_out,stays_out,stays_out,none,32,-97,-150,36,population_density
+NL_node_2625645063,NL,WorldStream,522,574,523,488,488,574,86,35.453020557727754,0,stays_out,stays_out,stays_out,none,-52,-51,-86,72,population_density
+NL_node_2727100158,NL,Dataplace datacenter Arnhem,496,512,657,856,496,856,360,167.01771363141896,0,stays_out,stays_out,stays_out,none,-16,145,344,110,urban_compactness
+NL_node_2738247230,NL,Databarn Amsterdam,378,398,265,304,265,398,133,62.37721271960351,0,stays_out,stays_out,stays_out,none,-20,-133,-94,142,road_density
+NL_node_2738247376,NL,NorthC Datacenters Amsterdam,250,223,175,191,175,250,75,33.44024521441193,0,stays_out,stays_out,stays_out,none,27,-48,-32,56,road_density
+NL_node_2745067310,NL,Digital Realty (AMS6),792,753,672,510,510,792,282,124.93298203436913,0,stays_out,stays_out,stays_out,none,39,-81,-243,124,anchors
+NL_node_2749411762,NL,Equinix,448,632,444,555,444,632,188,90.79050978305312,0,stays_out,stays_out,stays_out,none,-184,-188,-77,51,population_density
+NL_node_2765259404,NL,NorthC Datacenter Aalsmeer,568,707,720,688,568,720,152,69.7489545919268,0,stays_out,stays_out,stays_out,none,-139,13,-19,112,anchors
+NL_node_2837886894,NL,Solcon Droten,770,895,1040,1119,770,1119,349,154.8569232119335,0,stays_out,stays_out,stays_out,none,-125,145,224,130,population_density
+NL_node_2837888139,NL,Serverius DC1,863,897,1022,1101,863,1101,238,110.5150819270082,0,stays_out,stays_out,stays_out,none,-34,125,204,108,population_density
+NL_node_3014822814,NL,Datacenter Gemert,1207,1201,1088,1060,1060,1207,147,75.96051605933177,0,stays_out,stays_out,stays_out,none,6,-113,-141,45,population_density
+NL_node_3918634315,NL,NorthC Datacenter Eindhoven,745,504,513,559,504,745,241,112.44368961099299,0,stays_out,stays_out,stays_out,none,241,9,55,113,urban_compactness
+NL_node_4177046902,NL,NorthC Datacenter Delft,586,612,613,331,331,613,282,136.90507660419317,0,stays_out,stays_out,stays_out,none,-26,1,-281,161,urban_compactness
+NL_node_9117956197,NL,databyte,563,490,489,397,397,563,166,67.99203384711085,0,stays_out,stays_out,stays_out,none,73,-1,-93,107,anchors
+NL_node_11386475042,NL,NorthC Datacenter Oude Meer,862,790,612,449,449,862,413,185.46944941597974,0,stays_out,stays_out,stays_out,none,72,-178,-341,142,anchors
+NL_node_11426879977,NL,NorthC Datacenter Eindhoven 2,829,912,628,631,628,912,284,143.2131278898691,0,stays_out,stays_out,stays_out,none,-83,-284,-281,219,anchors
+NL_way_57852902,NL,Equinix AM1,321,261,383,295,261,383,122,51.56226010045202,0,stays_out,stays_out,stays_out,none,60,122,34,140,anchors
+NL_way_57853387,NL,Equinix AM11,387,352,456,387,352,456,104,43.57751713900185,0,stays_out,stays_out,stays_out,none,35,104,35,134,road_density
+NL_way_57853463,NL,Equinix AM2,325,278,405,318,278,405,127,53.194611255903226,0,stays_out,stays_out,stays_out,none,47,127,40,132,anchors
+NL_way_57864798,NL,,379,395,264,302,264,395,131,62.35917467916543,0,stays_out,stays_out,stays_out,none,-16,-131,-93,141,road_density
+NL_way_57865369,NL,,417,506,316,315,315,506,191,91.79143024632891,0,stays_out,stays_out,stays_out,none,-89,-190,-191,130,anchors
+NL_way_57866665,NL,,429,521,326,327,326,521,195,93.60332971285442,0,stays_out,stays_out,stays_out,none,-92,-195,-194,127,anchors
+NL_way_90326566,NL,Microsoft Datacenter,1125,1131,1139,1141,1125,1141,16,7.393691004272944,0,stays_out,stays_out,stays_out,none,-6,8,10,18,anchors
+NL_way_262712514,NL,Serverius DC3,912,879,863,831,831,912,81,33.70830758136635,0,stays_out,stays_out,stays_out,none,33,-16,-48,53,road_density
+NL_way_263802879,NL,Datacenter Almere,655,717,643,837,643,837,194,88.79939939736829,0,stays_out,stays_out,stays_out,none,-62,-74,120,65,anchors
+NL_way_269242039,NL,Digital Realty (AMS3),735,705,591,430,430,735,305,138.20365407614952,0,stays_out,stays_out,stays_out,none,30,-114,-275,134,anchors
+NL_way_269242083,NL,EdgeConnex Amsterdam,805,732,697,549,549,805,256,107.68279033036492,0,stays_out,stays_out,stays_out,none,73,-35,-183,78,anchors
+NL_way_269242186,NL,Maincubes AMS01,587,642,577,424,424,642,218,93.47548698277355,0,stays_out,stays_out,stays_out,none,-55,-65,-218,85,road_density
+NL_way_269243197,NL,Digital Realty (AMS7),819,768,746,624,624,819,195,82.69371197376498,0,stays_out,stays_out,stays_out,none,51,-22,-144,60,anchors
+NL_way_270720089,NL,AMS05,1034,1139,1114,1132,1034,1139,105,48.32787325481366,0,stays_out,stays_out,stays_out,none,-105,-25,-7,25,population_density
+NL_way_271177813,NL,BIT-2 Datacenter,775,734,714,909,714,909,195,87.75344247758413,0,stays_out,stays_out,stays_out,none,41,-20,175,81,anchors
+NL_way_271181136,NL,,580,683,705,892,580,892,312,129.97179181140294,0,stays_out,stays_out,stays_out,none,-103,22,209,62,urban_compactness
+NL_way_271576404,NL,,566,703,718,684,566,718,152,69.24533678643398,0,stays_out,stays_out,stays_out,none,-137,15,-19,111,anchors
+NL_way_273119903,NL,,619,649,498,377,377,649,272,124.34193446567681,0,stays_out,stays_out,stays_out,none,-30,-151,-272,77,anchors
+NL_way_273121433,NL,,594,648,499,373,373,648,275,120.58330453812142,0,stays_out,stays_out,stays_out,none,-54,-149,-275,78,anchors
+NL_way_273579842,NL,Databarn Rivium,440,332,255,283,255,440,185,81.47187653826728,0,stays_out,stays_out,stays_out,none,108,-77,-49,90,anchors
+NL_way_279859729,NL,Digital Realty,197,236,151,235,151,236,85,40.16943282314717,0,stays_out,stays_out,stays_out,none,-39,-85,-1,65,road_density
+NL_way_279860375,NL,Digital Realty (AMS18),172,229,194,279,172,279,107,46.665476175291154,0,stays_out,stays_out,stays_out,none,-57,-35,50,61,anchors
+NL_way_280128049,NL,,652,718,645,840,645,840,195,90.36361730991811,0,stays_out,stays_out,stays_out,none,-66,-73,122,64,anchors
+NL_way_280129257,NL,Dataplace Rotterdam,774,741,631,667,631,774,143,65.73875062193784,0,stays_out,stays_out,stays_out,none,33,-110,-74,77,anchors
+NL_way_282381343,NL,,442,363,400,351,351,442,91,41.02844541697057,0,stays_out,stays_out,stays_out,none,79,37,-12,102,road_density
+NL_way_282381349,NL,Equinix AM7,401,349,433,365,349,433,84,37.59432581299116,0,stays_out,stays_out,stays_out,none,52,84,16,125,anchors
+NL_way_284508077,NL,,519,728,937,1033,519,1033,514,228.8600372862564,0,stays_out,stays_out,stays_out,none,-209,209,305,114,population_density
+NL_way_289816687,NL,,454,631,854,973,454,973,519,231.21851136965657,0,stays_out,stays_out,stays_out,none,-177,223,342,101,population_density
+NL_way_295731026,NL,Digital Realty AMS17,558,356,376,419,356,558,202,91.04348777736202,0,stays_out,stays_out,stays_out,none,202,20,63,188,road_density
+NL_way_435698610,NL,AMS06,1023,1142,1122,1126,1023,1142,119,54.19332677246034,0,stays_out,stays_out,stays_out,none,-119,-20,-16,22,population_density
+NL_way_435698611,NL,AMS06,1026,1140,1118,1127,1026,1140,114,51.95751469550226,0,stays_out,stays_out,stays_out,none,-114,-22,-13,25,population_density
+NL_way_441605807,NL,Equinix AM3,503,365,288,308,288,503,215,96.98453484963466,0,stays_out,stays_out,stays_out,none,138,-77,-57,111,urban_compactness
+NL_way_452352449,NL,,1120,1164,1170,1177,1120,1177,57,25.721262281103805,0,stays_out,stays_out,stays_out,none,-44,6,13,7,anchors
+NL_way_452352450,NL,,1113,1160,1168,1175,1113,1175,62,28.011902232205983,0,stays_out,stays_out,stays_out,none,-47,8,15,8,population_density
+NL_way_452352451,NL,,1122,1166,1174,1179,1122,1179,57,26.056029372616745,0,stays_out,stays_out,stays_out,none,-44,8,13,10,population_density
+NL_way_455499803,NL,QTS Eemshaven Netherlands Data Center,991,1148,1163,1171,991,1171,180,85.36734348293459,0,stays_out,stays_out,stays_out,none,-157,15,23,29,population_density
+NL_way_456832369,NL,Digital Realty (AMS8),660,659,775,496,496,775,279,114.74173899094725,0,stays_out,stays_out,stays_out,none,1,116,-163,115,anchors
+NL_way_482532123,NL,Equinix AM4,466,336,270,298,270,466,196,86.66217937101128,0,stays_out,stays_out,stays_out,none,130,-66,-38,103,urban_compactness
+NL_way_583963691,NL,AMS07,1018,1145,1117,1117,1018,1145,127,55.751681588988866,0,stays_out,stays_out,stays_out,none,-127,-28,-28,22,population_density
+NL_way_583963763,NL,AMS07,1008,1136,1103,1103,1008,1136,128,55.235857918565905,0,stays_out,stays_out,stays_out,none,-128,-33,-33,28,population_density
+NL_way_588634808,NL,d’ROOT,789,831,777,915,777,915,138,62.44997998398398,0,stays_out,stays_out,stays_out,none,-42,-54,84,96,anchors
+NL_way_700738101,NL,Global Switch Amsterdam,192,374,302,222,192,374,182,82.06298394119807,0,stays_out,stays_out,stays_out,none,-182,-72,-152,118,road_density
+NL_way_700854459,NL,QTS Datacenter,827,855,797,923,797,923,126,53.823786563191554,0,stays_out,stays_out,stays_out,none,-28,-58,68,85,anchors
+NL_way_700952519,NL,Dataplace Steenbergen,900,977,1127,1087,900,1127,227,103.53220110992844,0,stays_out,stays_out,stays_out,none,-77,150,110,89,population_density
+NL_way_700957200,NL,Equinix Zwolle ZW1,911,828,844,933,828,933,105,50.87894128877552,0,stays_out,stays_out,stays_out,none,83,16,105,89,anchors
+NL_way_708140435,NL,Iron Mountain AMS1,508,532,471,494,471,532,61,25.552234083669997,0,stays_out,stays_out,stays_out,none,-24,-61,-38,103,road_density
+NL_way_710298085,NL,NTT Amsterdam 1,925,784,860,585,585,925,340,147.39629122425933,0,stays_out,stays_out,stays_out,none,141,76,-199,132,anchors
+NL_way_723863903,NL,AMS08,1019,1146,1125,1130,1019,1146,127,58.02872851728989,0,stays_out,stays_out,stays_out,none,-127,-21,-16,21,population_density
+NL_way_723863905,NL,AMS09,1022,1144,1133,1137,1022,1144,122,58.1778881248423,0,stays_out,stays_out,stays_out,none,-122,-11,-7,18,population_density
+NL_way_723864747,NL,,1076,1110,1151,1166,1076,1166,90,40.74616546375867,0,stays_out,stays_out,stays_out,none,-34,41,56,32,anchors
+NL_way_758138835,NL,CyrusOne Amsterdam I,930,929,594,450,450,930,480,242.50412367627897,0,stays_out,stays_out,stays_out,none,1,-335,-479,121,anchors
+NL_way_776593777,NL,,390,341,434,362,341,434,93,40.202611855450385,0,stays_out,stays_out,stays_out,none,49,93,21,124,anchors
+NL_way_809428256,NL,Overheidsdatacenter Rijswijk,515,285,198,259,198,515,317,138.7116313315746,0,stays_out,stays_out,stays_out,none,230,-87,-26,132,anchors
+NL_way_814210482,NL,Microsoft Datacenter West Europe,1025,1141,1121,1128,1025,1141,116,53.14994512383495,0,stays_out,stays_out,stays_out,none,-116,-20,-13,23,population_density
+NL_way_881474214,NL,,1145,1172,1183,1183,1145,1183,38,17.93274472392147,0,stays_out,stays_out,stays_out,none,-27,11,11,11,population_density
+NL_way_881474215,NL,,1138,1170,1178,1182,1138,1182,44,19.966638842495918,0,stays_out,stays_out,stays_out,none,-32,8,12,12,population_density
+NL_way_881474216,NL,,1132,1168,1173,1178,1132,1178,46,20.902551678363736,0,stays_out,stays_out,stays_out,none,-36,5,10,7,population_density
+NL_way_883367894,NL,,188,204,157,181,157,204,47,19.53629101612347,0,stays_out,stays_out,stays_out,none,-16,-47,-23,58,road_density
+NL_way_891596749,NL,Equinix AM8,435,527,335,333,333,527,194,92.81343293582742,0,stays_out,stays_out,stays_out,none,-92,-192,-194,126,anchors
+NL_way_893800401,NL,Interxion AMS1 - AMS4,600,559,321,335,321,600,279,146.27684938727205,0,stays_out,stays_out,stays_out,none,41,-238,-224,130,anchors
+NL_way_906834712,NL,Gyro Center,626,573,327,340,327,626,299,155.18268803789508,0,stays_out,stays_out,stays_out,none,53,-246,-233,121,anchors
+NL_way_956325143,NL,Google Datacenter Eemshaven,1133,1167,1175,1180,1133,1180,47,21.187653637594387,0,stays_out,stays_out,stays_out,none,-34,8,13,13,population_density
+NL_way_957632961,NL,AMS11,1042,1134,1113,1133,1042,1134,92,43.42426357080413,0,stays_out,stays_out,stays_out,none,-92,-21,-1,24,population_density
+NL_way_957632962,NL,AMS12,1009,1128,1097,1105,1009,1128,119,52.18157401484423,0,stays_out,stays_out,stays_out,none,-119,-31,-23,30,population_density
+NL_way_973134619,NL,Digital Realty (AMS10),590,614,707,414,414,707,293,122.38566092479952,0,stays_out,stays_out,stays_out,none,-24,93,-200,106,anchors
+NL_way_1081886104,NL,NorthC Data center Groningen,1064,1048,1011,870,870,1064,194,88.33411949335697,0,stays_out,stays_out,stays_out,none,16,-37,-178,65,anchors
+NL_way_1090189550,NL,,559,362,381,429,362,559,197,88.76326191993321,0,stays_out,stays_out,stays_out,none,197,19,67,201,road_density
+NL_way_1093524141,NL,Equinix,478,343,278,305,278,478,200,88.76560895602155,0,stays_out,stays_out,stays_out,none,135,-65,-38,107,urban_compactness
+NL_way_1093524157,NL,Equinix AM3,469,347,274,300,274,469,195,86.45037111931138,0,stays_out,stays_out,stays_out,none,122,-73,-47,101,urban_compactness
+NL_way_1093524163,NL,Equinix AM3,511,369,297,314,297,511,214,97.15408723603277,0,stays_out,stays_out,stays_out,none,142,-72,-55,120,urban_compactness
+NL_way_1093524165,NL,Equinix AM3,491,350,283,309,283,491,208,92.69798631397916,0,stays_out,stays_out,stays_out,none,141,-67,-41,110,urban_compactness
+NL_way_1093524166,NL,Equinix,502,360,295,313,295,502,207,93.76033276391462,0,stays_out,stays_out,stays_out,none,142,-65,-47,109,urban_compactness
+NL_way_1093524167,NL,Equinix AM3,490,346,282,310,282,490,208,92.45539465060976,0,stays_out,stays_out,stays_out,none,144,-64,-36,113,urban_compactness
+NL_way_1123595041,NL,,484,693,680,537,484,693,209,104.02724002234542,0,stays_out,stays_out,stays_out,none,-209,-13,-156,103,anchors
+NL_way_1138948050,NL,Google Datacenter Middenmeer,1078,1112,1152,1169,1078,1169,91,40.87684756273001,0,stays_out,stays_out,stays_out,none,-34,40,57,34,anchors
+NL_way_1205462692,NL,NorthC Datacenter Rotterdam Waalhaven,591,643,490,368,368,643,275,121.29578173484298,0,stays_out,stays_out,stays_out,none,-52,-153,-275,78,anchors
+NL_way_1220520621,NL,Equinix AM7,393,337,436,360,337,436,99,42.99224736313901,0,stays_out,stays_out,stays_out,none,56,99,23,125,road_density
+NL_way_1235869010,NL,Switch Datacenters AMS4,718,497,516,599,497,718,221,100.60649415751782,0,stays_out,stays_out,stays_out,none,221,19,102,253,road_density
+NL_way_1309108236,NL,DELTA Fiber,683,744,988,1069,683,1069,386,186.51720206636884,0,stays_out,stays_out,stays_out,none,-61,244,325,105,population_density
+NL_way_1309108238,NL,DELTA Fiber,665,757,990,1073,665,1073,408,191.8304372790373,0,stays_out,stays_out,stays_out,none,-92,233,316,104,population_density
+NL_way_1346509047,NL,Equinix Amsterdam AM8,419,510,319,321,319,510,191,91.32861909974696,0,stays_out,stays_out,stays_out,none,-91,-191,-189,127,anchors
+NL_way_1346509166,NL,Cogent Halfweg,927,923,635,376,376,927,551,264.27810478105573,0,stays_out,stays_out,stays_out,none,4,-288,-547,124,anchors
+NL_way_1346509227,NL,KPN Harlem,550,501,414,417,414,550,136,66.59579566308972,0,stays_out,stays_out,stays_out,none,49,-87,-84,79,road_density
+NL_way_1346509474,NL,KPN Amsterdam,310,311,503,423,310,503,193,93.90908724221882,0,stays_out,stays_out,stays_out,none,-1,192,112,115,road_density
+NL_relation_3590806,NL,,990,1147,1162,1170,990,1170,180,85.36734348293459,0,stays_out,stays_out,stays_out,none,-157,15,23,30,population_density
+NL_relation_3945245,NL,Dataplace Utrecht,731,610,384,345,345,731,386,184.1349143065124,0,stays_out,stays_out,stays_out,none,121,-226,-265,117,urban_compactness
+DE_node_2912338694,DE,GWDG - Außenstelle,214,444,619,917,214,917,703,296.4079396147591,0,stays_out,stays_out,stays_out,none,-230,175,473,161,population_density
+DE_node_4019998661,DE,Informationstechnikzentrum Bund (ITZBund),689,471,348,293,293,689,396,175.7031113365194,0,stays_out,stays_out,stays_out,none,218,-123,-178,151,anchors
+DE_node_4231017085,DE,TelemaxX IPC2,415,438,426,478,415,478,63,27.487876115359175,0,stays_out,stays_out,stays_out,none,-23,-12,40,94,anchors
+DE_node_4370857289,DE,,266,530,661,806,266,806,540,229.4346312133371,0,stays_out,stays_out,stays_out,none,-264,131,276,110,population_density
+DE_node_4370857290,DE,,208,537,673,833,208,833,625,265.64434243301076,0,stays_out,stays_out,stays_out,none,-329,136,296,116,population_density
+DE_node_5262515319,DE,ColocationIX,116,264,311,396,116,396,280,117.3268227360365,1,enters,stays_out,stays_out,some,-148,47,132,85,road_density
+DE_node_5807803485,DE,IT- und Medienzentrum,275,419,621,705,275,705,430,194.7237359269109,0,stays_out,stays_out,stays_out,none,-144,202,286,132,population_density
+DE_node_5812546640,DE,Rechenzentrum Citeq,204,407,470,682,204,682,478,196.84744516164457,0,stays_out,stays_out,stays_out,none,-203,63,275,104,urban_compactness
+DE_node_6172732200,DE,myLoc managed IT AG,492,590,467,479,467,590,123,56.2672195865408,0,stays_out,stays_out,stays_out,none,-98,-123,-111,69,road_density
+DE_node_6412799049,DE,Rechenzentrum Akquinet,729,787,853,832,729,853,124,54.90218574883882,0,stays_out,stays_out,stays_out,none,-58,66,45,76,anchors
+DE_node_6680163795,DE,Rechenzentrum,802,773,581,569,569,802,233,123.35416490739176,0,stays_out,stays_out,stays_out,none,29,-192,-204,95,road_density
+DE_node_7747327592,DE,Open Skies One,761,661,692,798,661,798,137,62.64716008460931,0,stays_out,stays_out,stays_out,none,100,31,137,114,road_density
+DE_node_9258436545,DE,InterXion DUS2,629,595,451,380,380,629,249,117.91345696456081,0,stays_out,stays_out,stays_out,none,34,-144,-215,103,road_density
+DE_node_9258436546,DE,InterXion DUS1,612,565,390,338,338,612,274,132.73626733740358,0,stays_out,stays_out,stays_out,none,47,-175,-227,109,anchors
+DE_node_9416500090,DE,,443,617,709,849,443,849,406,170.2341524684946,0,stays_out,stays_out,stays_out,none,-174,92,232,83,anchors
+DE_node_9773275153,DE,Nepustil RZ4,811,635,605,542,542,811,269,115.21393144928264,0,stays_out,stays_out,stays_out,none,176,-30,-93,144,road_density
+DE_node_9776934144,DE,,1191,1192,1166,1143,1143,1192,49,23.338094752285727,0,stays_out,stays_out,stays_out,none,-1,-26,-49,9,population_density
+DE_node_10147406397,DE,IPB Internet Provider in Berlin GmbH,54,91,90,97,54,97,43,19.578900207451216,4,stays_top,stays_top,stays_top,all_four,-37,-1,6,23,road_density
+DE_node_10853783649,DE,,160,211,290,463,160,463,303,132.5971342073425,0,stays_out,stays_out,stays_out,none,-51,79,252,67,urban_compactness
+DE_node_11014689116,DE,CarrierColo Berlin K,203,248,258,199,199,258,59,30.342489460600735,0,stays_out,stays_out,stays_out,none,-45,10,-49,29,road_density
+DE_node_11698484259,DE,Universitätsrechenzentrum,92,380,656,814,92,814,722,317.7813713860522,1,enters,stays_out,stays_out,some,-288,276,434,194,population_density
+DE_node_11748636180,DE,Iron Mountain FRA-2,698,592,542,401,401,698,297,123.37037731967914,0,stays_out,stays_out,stays_out,none,106,-50,-191,162,anchors
+DE_node_12042899692,DE,Rechenzentrum DATACENTER ONE HAM1,1043,933,982,1022,933,1043,110,48.46304433964778,0,stays_out,stays_out,stays_out,none,110,49,89,45,urban_compactness
+DE_node_12068854679,DE,NIC,536,403,560,759,403,759,356,146.90700006012875,0,stays_out,stays_out,stays_out,none,133,157,356,140,anchors
+DE_node_12219427002,DE,Gauß-IT-Zentrum,75,182,226,410,75,410,335,139.7172740453616,1,enters,stays_out,stays_out,some,-107,44,228,69,urban_compactness
+DE_way_26113850,DE,,211,183,192,187,183,211,28,12.39287429668087,0,stays_out,stays_out,stays_out,none,28,9,4,58,road_density
+DE_way_26225757,DE,,381,517,361,217,217,517,300,122.76807402578245,0,stays_out,stays_out,stays_out,none,-136,-156,-300,127,anchors
+DE_way_26225758,DE,Kyndryl Data Center,405,560,395,248,248,560,312,127.4597975833949,0,stays_out,stays_out,stays_out,none,-155,-165,-312,141,anchors
+DE_way_28260003,DE,Rechenzentrum Garching,939,1090,1053,965,939,1090,151,71.42070194745125,0,stays_out,stays_out,stays_out,none,-151,-37,-125,90,population_density
+DE_way_28994179,DE,Equinix FR4,319,479,275,252,252,479,227,102.34704034150995,0,stays_out,stays_out,stays_out,none,-160,-204,-227,97,road_density
+DE_way_30092556,DE,T-Systems Magdeburg,382,414,531,744,382,744,362,163.8665615676365,0,stays_out,stays_out,stays_out,none,-32,117,330,131,urban_compactness
+DE_way_30324253,DE,NTT,641,754,693,573,573,754,181,76.90849541283893,0,stays_out,stays_out,stays_out,none,-113,-61,-181,99,road_density
+DE_way_31307046,DE,EWE NETZ GmbH,674,740,728,922,674,922,248,107.88883167408942,0,stays_out,stays_out,stays_out,none,-66,-12,182,119,anchors
+DE_way_34137508,DE,NSA Rechenzentrum,1172,951,908,850,850,1172,322,140.72283633677466,0,stays_out,stays_out,stays_out,none,221,-43,-101,113,population_density
+DE_way_34943239,DE,,56,120,130,138,56,138,82,37.398752207348664,2,stays_top,exits,exits,some,-64,10,18,29,road_density
+DE_way_38754135,DE,,721,859,761,655,655,859,204,85.36978388165218,0,stays_out,stays_out,stays_out,none,-138,-98,-204,73,road_density
+DE_way_38754141,DE,Kyndryl Data Center,750,856,757,650,650,856,206,84.14818278885568,0,stays_out,stays_out,stays_out,none,-106,-99,-206,73,road_density
+DE_way_39775468,DE,,1072,872,811,493,493,1072,579,240.11247364516487,0,stays_out,stays_out,stays_out,none,200,-61,-379,95,population_density
+DE_way_42311840,DE,,339,185,206,206,185,339,154,70.69653456853455,0,stays_out,stays_out,stays_out,none,154,21,21,78,anchors
+DE_way_48013134,DE,Interxion FRA4,265,178,200,239,178,265,87,38.94012497839899,0,stays_out,stays_out,stays_out,none,87,22,61,39,road_density
+DE_way_48013154,DE,Interxion FRA6,338,153,177,205,153,338,185,82.61305385147475,0,stays_out,stays_out,stays_out,none,185,24,52,102,anchors
+DE_way_48013155,DE,Interxion FRA2,336,160,179,207,160,336,176,79.38303765078952,0,stays_out,stays_out,stays_out,none,176,19,47,100,anchors
+DE_way_48013156,DE,,358,165,182,210,165,358,193,88.1414582739965,0,stays_out,stays_out,stays_out,none,193,17,45,133,anchors
+DE_way_48017518,DE,Interxion FRA3,276,186,211,249,186,276,90,39.88734135035826,0,stays_out,stays_out,stays_out,none,90,25,63,38,road_density
+DE_way_48018740,DE,iNTERWERK Rechenzentrum,589,313,271,294,271,589,318,149.15847277308788,0,stays_out,stays_out,stays_out,none,276,-42,-19,247,anchors
+DE_way_48018741,DE,Interwerk Rechenzentrum,575,299,260,281,260,575,315,148.35851846119252,0,stays_out,stays_out,stays_out,none,276,-39,-18,250,anchors
+DE_way_51763539,DE,TelemaxX IPC1,201,237,425,509,201,509,308,147.96395957574714,0,stays_out,stays_out,stays_out,none,-36,188,272,75,urban_compactness
+DE_way_54244323,DE,DARZ - Darmstädter Rechenzentrum,29,155,323,452,29,452,423,185.81240539856321,1,enters,stays_out,stays_out,some,-126,168,297,88,urban_compactness
+DE_way_72016873,DE,Equinix,716,630,392,267,267,716,449,207.7680998934469,0,stays_out,stays_out,stays_out,none,86,-238,-363,99,urban_compactness
+DE_way_84268716,DE,,1090,1051,1090,1075,1051,1090,39,18.411952639521967,0,stays_out,stays_out,stays_out,none,39,39,24,56,road_density
+DE_way_86339088,DE,I.T.E.N.O.S. Frankfurt - B,261,154,166,165,154,261,107,49.96331987902058,0,stays_out,stays_out,stays_out,none,107,12,11,54,anchors
+DE_way_87367948,DE,ITSMZ,524,769,993,1099,524,1099,575,255.1017770746936,0,stays_out,stays_out,stays_out,none,-245,224,330,145,population_density
+DE_way_88875243,DE,,217,316,220,221,217,316,99,48.36320915737499,0,stays_out,stays_out,stays_out,none,-99,-96,-95,121,road_density
+DE_way_88875247,DE,,178,294,204,188,178,294,116,53.09111664550546,0,stays_out,stays_out,stays_out,none,-116,-90,-106,72,anchors
+DE_way_88875268,DE,,262,252,227,240,227,262,35,15.129992289048486,0,stays_out,stays_out,stays_out,none,10,-25,-12,164,road_density
+DE_way_88875270,DE,,184,283,207,189,184,283,99,45.9084233374806,0,stays_out,stays_out,stays_out,none,-99,-76,-94,69,anchors
+DE_way_88875303,DE,,182,291,208,192,182,291,109,49.66806485727692,0,stays_out,stays_out,stays_out,none,-109,-83,-99,70,anchors
+DE_way_88875337,DE,,186,295,210,200,186,295,109,49.16214668489026,0,stays_out,stays_out,stays_out,none,-109,-85,-95,83,road_density
+DE_way_88875362,DE,,213,288,213,195,195,288,93,41.379342672401165,0,stays_out,stays_out,stays_out,none,-75,-75,-93,72,anchors
+DE_way_98916098,DE,Equinix FR8.1,268,466,259,230,230,466,236,108.05669808022083,0,stays_out,stays_out,stays_out,none,-198,-207,-236,105,urban_compactness
+DE_way_105283862,DE,"Rechenzentrum PFALZKOM, DCRN I",1017,961,983,891,891,1017,126,53.241587754937086,0,stays_out,stays_out,stays_out,none,56,22,-70,44,road_density
+DE_way_111627511,DE,Euregiocenter,271,305,367,418,271,418,147,65.31653695657785,0,stays_out,stays_out,stays_out,none,-34,62,113,72,road_density
+DE_way_115774245,DE,,397,433,545,764,397,764,367,165.31661541821296,0,stays_out,stays_out,stays_out,none,-36,112,331,129,urban_compactness
+DE_way_115774259,DE,,385,421,537,748,385,748,363,163.5733780295559,0,stays_out,stays_out,stays_out,none,-36,116,327,130,urban_compactness
+DE_way_118952238,DE,Boreus Rechenzentrum GmbH,893,1016,1048,1156,893,1156,263,108.24778673641939,0,stays_out,stays_out,stays_out,none,-123,32,140,94,population_density
+DE_way_129919027,DE,,891,905,818,937,818,937,119,50.32809023464596,0,stays_out,stays_out,stays_out,none,-14,-87,32,48,anchors
+DE_way_129919031,DE,Dernbach 2,903,908,824,938,824,938,114,48.685213360937425,0,stays_out,stays_out,stays_out,none,-5,-84,30,49,anchors
+DE_way_129919032,DE,,913,913,829,944,829,944,115,49.378639106399035,0,stays_out,stays_out,stays_out,none,0,-84,31,43,anchors
+DE_way_129919033,DE,Dernbach 3,884,903,814,926,814,926,112,48.320975431655626,0,stays_out,stays_out,stays_out,none,-19,-89,23,49,anchors
+DE_way_129919034,DE,,901,909,825,940,825,940,115,48.821955443563844,0,stays_out,stays_out,stays_out,none,-8,-84,31,48,anchors
+DE_way_130064180,DE,Dernbach 1,878,910,848,959,848,959,111,47.47894270094902,0,stays_out,stays_out,stays_out,none,-32,-62,49,32,anchors
+DE_way_130064188,DE,Dernbach 1,868,904,842,955,842,955,113,48.95150661624216,0,stays_out,stays_out,stays_out,none,-36,-62,51,38,anchors
+DE_way_130064190,DE,Dernbach 1,873,906,843,956,843,956,113,48.40454524112379,0,stays_out,stays_out,stays_out,none,-33,-63,50,35,anchors
+DE_way_145174885,DE,,330,179,191,194,179,330,151,71.29516112612411,0,stays_out,stays_out,stays_out,none,151,12,15,82,anchors
+DE_way_145174886,DE,I.T.E.N.O.S. Frankfurt - C,298,171,180,176,171,298,127,61.277374834980215,0,stays_out,stays_out,stays_out,none,127,9,5,53,anchors
+DE_way_145174932,DE,,269,162,171,167,162,269,107,51.2989603533379,0,stays_out,stays_out,stays_out,none,107,9,5,49,anchors
+DE_way_150652357,DE,Equinix DU1,55,102,119,156,55,156,101,41.91260749066642,3,stays_top,stays_top,exits,some,-47,17,54,38,urban_compactness
+DE_way_152579228,DE,Datenstelle der Rentenversicherung,668,810,839,845,668,845,177,83.08429454475737,0,stays_out,stays_out,stays_out,none,-142,29,35,89,anchors
+DE_way_164533894,DE,EURaix,297,425,379,563,297,563,266,111.38521745126984,0,stays_out,stays_out,stays_out,none,-128,-46,138,96,road_density
+DE_way_165224274,DE,,697,689,695,731,689,731,42,18.973665961010276,0,stays_out,stays_out,stays_out,none,8,6,42,50,anchors
+DE_way_168961561,DE,DigitalRealty FRA1,255,168,183,213,168,255,87,38.36991008589934,0,stays_out,stays_out,stays_out,none,87,15,45,48,road_density
+DE_way_168961578,DE,,485,213,196,215,196,485,289,138.76208656065484,0,stays_out,stays_out,stays_out,none,272,-17,2,224,anchors
+DE_way_169017126,DE,Interxion FRA9,263,190,215,250,190,263,73,33.231511150312336,0,stays_out,stays_out,stays_out,none,73,25,60,37,road_density
+DE_way_172856848,DE,Vantage Data Center (FRA1),104,136,153,168,104,168,64,27.47574688096152,1,enters,stays_out,stays_out,some,-32,17,32,18,road_density
+DE_way_173170495,DE,CyrusOne FRA1,449,493,365,288,288,493,205,90.94458019402072,0,stays_out,stays_out,stays_out,none,-44,-128,-205,111,anchors
+DE_way_173975695,DE,,457,372,570,765,372,765,393,169.93528179868946,0,stays_out,stays_out,stays_out,none,85,198,393,129,road_density
+DE_way_176018511,DE,,1083,1052,1084,1071,1052,1084,32,14.888474289418197,0,stays_out,stays_out,stays_out,none,31,32,19,55,road_density
+DE_way_176018513,DE,,1080,1046,1082,1068,1046,1082,36,16.532795690182994,0,stays_out,stays_out,stays_out,none,34,36,22,58,road_density
+DE_way_176018515,DE,,1077,1035,1079,1064,1035,1079,44,20.2875166871979,0,stays_out,stays_out,stays_out,none,42,44,29,54,road_density
+DE_way_176018516,DE,,1094,1055,1085,1074,1055,1094,39,16.792855623746664,0,stays_out,stays_out,stays_out,none,39,30,19,57,road_density
+DE_way_176647402,DE,Interxion FRA8,286,238,240,274,238,286,48,24.186773244895647,0,stays_out,stays_out,stays_out,none,48,2,36,46,population_density
+DE_way_184904319,DE,SAP Building 6 / 16,971,1092,991,974,971,1092,121,57.3468976202433,0,stays_out,stays_out,stays_out,none,-121,-101,-118,46,population_density
+DE_way_188308568,DE,NTT DATA Business Solutions Global Managed Services,1086,1124,1142,1047,1047,1142,95,42.20880634812282,0,stays_out,stays_out,stays_out,none,-38,18,-77,31,anchors
+DE_way_190427363,DE,,768,844,771,665,665,844,179,73.59800721939872,0,stays_out,stays_out,stays_out,none,-76,-73,-179,67,population_density
+DE_way_191720187,DE,Planet IC,712,838,907,994,712,994,282,119.05565925230098,0,stays_out,stays_out,stays_out,none,-126,69,156,51,population_density
+DE_way_194023609,DE,,1065,981,1076,1108,981,1108,127,54.163333230762916,0,stays_out,stays_out,stays_out,none,84,95,127,101,population_density
+DE_way_200593314,DE,LRZ SuperMUC-NG,895,1036,1026,913,895,1036,141,73.80379394042016,0,stays_out,stays_out,stays_out,none,-141,-10,-123,74,population_density
+DE_way_207919304,DE,Siemens EAGLE Data Center,318,306,373,307,306,373,67,31.801467471381464,0,stays_out,stays_out,stays_out,none,12,67,1,77,road_density
+DE_way_208484274,DE,,547,568,636,634,547,636,89,45.56588636249711,0,stays_out,stays_out,stays_out,none,-21,68,66,56,anchors
+DE_way_220540453,DE,WKNJ00,813,1105,1180,1174,813,1180,367,173.37243148782335,0,stays_out,stays_out,stays_out,none,-292,75,69,132,population_density
+DE_way_229184178,DE,OVHcloud LIM1-3 Rechenzentrum,702,746,865,999,702,999,297,133.17907743585954,0,stays_out,stays_out,stays_out,none,-44,119,253,54,road_density
+DE_way_230210322,DE,,902,788,744,986,744,986,242,109.81803130633877,0,stays_out,stays_out,stays_out,none,114,-44,198,75,anchors
+DE_way_232770352,DE,SAP Building 13,968,1066,1000,979,968,1066,98,43.88906469725688,0,stays_out,stays_out,stays_out,none,-98,-66,-87,56,population_density
+DE_way_234449744,DE,General Logistics Systems Germany GmbH & Co. OHG,957,1084,1109,1056,957,1109,152,66.61581393833349,0,stays_out,stays_out,stays_out,none,-127,25,-28,92,population_density
+DE_way_248865761,DE,,284,219,209,198,198,284,86,38.63073042712671,0,stays_out,stays_out,stays_out,none,65,-10,-21,37,anchors
+DE_way_256608572,DE,,1111,1075,1044,958,958,1111,153,65.34523701081817,0,stays_out,stays_out,stays_out,none,36,-31,-117,82,anchors
+DE_way_258148708,DE,TelemaxX IPC4,673,681,698,580,580,698,118,53.034579914115156,0,stays_out,stays_out,stays_out,none,-8,17,-101,51,road_density
+DE_way_258743341,DE,,323,399,561,797,323,797,474,209.65050282156096,0,stays_out,stays_out,stays_out,none,-76,162,398,137,urban_compactness
+DE_way_289045423,DE,,603,920,1080,1076,603,1080,477,223.9231639052408,0,stays_out,stays_out,stays_out,none,-317,160,156,104,population_density
+DE_way_291142381,DE,T-Systems Biere Rechenzentrum,1137,1133,1165,1123,1123,1165,42,17.99073835801818,0,stays_out,stays_out,stays_out,none,4,32,-10,22,road_density
+DE_way_295385404,DE,RZ,370,408,526,738,370,738,368,165.57274332852413,0,stays_out,stays_out,stays_out,none,-38,118,330,131,urban_compactness
+DE_way_296921462,DE,,335,566,616,364,335,616,281,141.41281177224832,0,stays_out,stays_out,stays_out,none,-231,50,-202,134,anchors
+DE_way_326082813,DE,Interxion FRA7,333,150,173,204,150,333,183,81.71903083125741,0,stays_out,stays_out,stays_out,none,183,23,54,94,anchors
+DE_way_326082814,DE,Interxion FRA10,287,243,246,276,243,287,44,21.863211109075447,0,stays_out,stays_out,stays_out,none,44,3,33,45,population_density
+DE_way_326823358,DE,Interxion FRA5,357,164,181,209,164,357,193,88.1414582739965,0,stays_out,stays_out,stays_out,none,193,17,45,133,anchors
+DE_way_330751320,DE,Bundesnachrichtendienst Pullach Rechenzentrum,833,796,813,583,583,833,250,116.48569296985217,0,stays_out,stays_out,stays_out,none,37,17,-213,69,road_density
+DE_way_333163639,DE,,1079,984,1074,1102,984,1102,118,51.951098801340734,0,stays_out,stays_out,stays_out,none,95,90,118,99,population_density
+DE_way_334161493,DE,TelemaxX IPC3,801,686,766,645,645,801,156,71.5937613669422,0,stays_out,stays_out,stays_out,none,115,80,-41,53,population_density
+DE_way_348249606,DE,,1085,1060,1015,972,972,1085,113,49.926612809869916,0,stays_out,stays_out,stays_out,none,25,-45,-88,58,population_density
+DE_way_377998104,DE,,1074,1029,1077,1059,1029,1077,48,21.96019125599775,0,stays_out,stays_out,stays_out,none,45,48,30,57,road_density
+DE_way_380134092,DE,Equinix FR2,608,602,422,403,403,608,205,111.43720204671328,0,stays_out,stays_out,stays_out,none,6,-180,-199,94,road_density
+DE_way_387918535,DE,aixit GmbH,190,106,128,136,106,190,84,35.66510900025401,1,exits,exits,exits,some,84,22,30,60,anchors
+DE_way_397803546,DE,GAD-Rechenzentrum 2,1123,1086,974,949,949,1123,174,84.54978809356453,0,stays_out,stays_out,stays_out,none,37,-112,-137,70,anchors
+DE_way_403874334,DE,Interxion FRA11,291,249,248,282,248,291,43,22.24859546128699,0,stays_out,stays_out,stays_out,none,42,-1,33,45,population_density
+DE_way_404645122,DE,Scientific Computing Center,950,1100,1036,969,950,1100,150,68.31483489452835,0,stays_out,stays_out,stays_out,none,-150,-64,-131,113,population_density
+DE_way_410035541,DE,Rechenzentrum KÜS Data,1141,1129,1083,1095,1083,1141,58,27.446918466985203,0,stays_out,stays_out,stays_out,none,12,-46,-34,18,population_density
+DE_way_413681245,DE,noris Munich MUC5,817,674,805,636,636,817,181,91.52413160837237,0,stays_out,stays_out,stays_out,none,143,131,-38,84,population_density
+DE_way_416139055,DE,,564,477,345,366,345,564,219,102.02940752547768,0,stays_out,stays_out,stays_out,none,87,-132,-111,108,road_density
+DE_way_432584964,DE,,657,389,357,531,357,657,300,138.19189556555045,0,stays_out,stays_out,stays_out,none,268,-32,142,190,road_density
+DE_way_499619543,DE,CyrusOne FRA2,450,487,355,277,277,487,210,94.83801980218693,0,stays_out,stays_out,stays_out,none,-37,-132,-210,110,anchors
+DE_way_499619544,DE,Digital Realty FRA30,534,463,337,275,275,534,259,117.61342043604832,0,stays_out,stays_out,stays_out,none,71,-126,-188,122,anchors
+DE_way_549728082,DE,TelemaxX IPC5,976,960,984,708,708,984,276,133.04134695650072,0,stays_out,stays_out,stays_out,none,16,24,-252,102,anchors
+DE_way_568657795,DE,Servergebäude,163,286,338,551,163,551,388,161.91458653664694,0,stays_out,stays_out,stays_out,none,-123,52,265,90,population_density
+DE_way_580201100,DE,,207,320,214,218,207,320,113,53.692799020601136,0,stays_out,stays_out,stays_out,none,-113,-106,-102,110,road_density
+DE_way_606528332,DE,Hetzner – Rechenzentrumspark Falkenstein,1071,1022,1073,1055,1022,1073,51,23.58495283014151,0,stays_out,stays_out,stays_out,none,49,51,33,56,road_density
+DE_way_607098496,DE,Interxion FRA12,277,225,223,256,223,277,54,26.004807247891687,0,stays_out,stays_out,stays_out,none,52,-2,31,42,road_density
+DE_way_607098498,DE,Interxion FRA13,307,255,249,284,249,307,58,26.924276530051213,0,stays_out,stays_out,stays_out,none,52,-6,29,45,population_density
+DE_way_613862765,DE,Interxion FRA14,282,210,236,272,210,282,72,33.186342572409714,0,stays_out,stays_out,stays_out,none,72,26,62,42,road_density
+DE_way_619486957,DE,Equinix FR2.6,593,571,404,395,395,593,198,105.81233387464809,0,stays_out,stays_out,stays_out,none,22,-167,-176,109,road_density
+DE_way_620369478,DE,Equinix FR6,308,522,306,278,278,522,244,113.16507117186528,0,stays_out,stays_out,stays_out,none,-214,-216,-244,115,anchors
+DE_way_621526300,DE,Equinix Germany GmbH,384,220,234,243,220,384,164,76.42152838042432,0,stays_out,stays_out,stays_out,none,164,14,23,61,road_density
+DE_way_622117974,DE,,512,520,587,581,512,587,75,39.4715087119811,0,stays_out,stays_out,stays_out,none,-8,67,61,59,anchors
+DE_way_628235780,DE,Telekom Vermittlungsstelle,1171,1207,1207,1201,1171,1207,36,17.233687939614086,0,stays_out,stays_out,stays_out,none,-36,0,-6,20,population_density
+DE_way_643236943,DE,SAP WDF51,890,786,933,805,786,933,147,69.66826154474265,0,stays_out,stays_out,stays_out,none,104,147,19,65,road_density
+DE_way_660060853,DE,RZ5 Dortmund-Huckarde,460,636,340,289,289,636,347,154.17603575134495,0,stays_out,stays_out,stays_out,none,-176,-296,-347,81,road_density
+DE_way_676732263,DE,,521,428,304,273,273,521,248,114.60221056623064,0,stays_out,stays_out,stays_out,none,93,-124,-155,133,road_density
+DE_way_686613449,DE,VegaSystems GmbH & Co. KG,975,972,929,1004,929,1004,75,30.90846701687635,0,stays_out,stays_out,stays_out,none,3,-43,32,46,anchors
+DE_way_688146819,DE,LEITWERK Rechenzentrum Appenweier,886,941,1052,992,886,1052,166,70.91015442092902,0,stays_out,stays_out,stays_out,none,-55,111,51,66,anchors
+DE_way_691308613,DE,,352,577,778,946,352,946,594,256.5350853197278,0,stays_out,stays_out,stays_out,none,-225,201,369,102,population_density
+DE_way_700575943,DE,,459,473,459,505,459,505,46,21.694853460363973,0,stays_out,stays_out,stays_out,none,-14,-14,32,97,anchors
+DE_way_705780985,DE,,1201,1196,1194,1196,1194,1201,7,2.9860788111948193,0,stays_out,stays_out,stays_out,none,5,-2,0,6,anchors
+DE_way_720877720,DE,,516,535,593,584,516,593,77,37.37200378179723,0,stays_out,stays_out,stays_out,none,-19,58,49,61,anchors
+DE_way_723038882,DE,Hetzner Online GmbH - NBG1,659,391,364,536,364,659,295,137.02676137650386,0,stays_out,stays_out,stays_out,none,268,-27,145,192,road_density
+DE_way_749252262,DE,Interxion FRA15,246,139,161,193,139,246,107,46.46414388177906,0,stays_out,stays_out,stays_out,none,107,22,54,44,road_density
+DE_way_749551415,DE,Equinix FR9,578,556,391,388,388,578,190,102.87978421439267,0,stays_out,stays_out,stays_out,none,22,-165,-168,100,road_density
+DE_way_759986149,DE,,692,857,764,643,643,857,214,93.04837451562494,0,stays_out,stays_out,stays_out,none,-165,-93,-214,80,anchors
+DE_way_759989363,DE,,168,239,167,152,152,239,87,39.02563260217571,0,stays_out,stays_out,stays_out,none,-71,-72,-87,68,anchors
+DE_way_764604919,DE,maincubes FRANKFURT-01,93,122,147,158,93,158,65,28.902133715927157,2,stays_top,exits,exits,some,-29,25,36,20,road_density
+DE_way_769203416,DE,hex/AC,425,462,408,571,408,571,163,73.22340245213047,0,stays_out,stays_out,stays_out,none,-37,-54,109,78,anchors
+DE_way_771374487,DE,"Rechenzentrum PFALZKOM, DCRN II",1166,1009,1020,890,890,1166,276,113.03502407071299,0,stays_out,stays_out,stays_out,none,157,11,-119,69,population_density
+DE_way_818712545,DE,PoP-Hauptverteiler,1020,1179,1198,1208,1020,1208,188,88.32279811388828,0,stays_out,stays_out,stays_out,none,-159,19,29,36,population_density
+DE_way_818738768,DE,PoP Hauptverteiler,1107,1195,1201,1207,1107,1207,100,47.25462940284264,0,stays_out,stays_out,stays_out,none,-88,6,12,39,population_density
+DE_way_818834286,DE,PoP-Hauptverteiler,1160,1208,1208,1202,1160,1208,48,23.173260452512935,0,stays_out,stays_out,stays_out,none,-48,0,-6,22,population_density
+DE_way_820412639,DE,PoP-Hauptverteiler,866,1018,1089,1018,866,1089,223,93.99423741201727,0,stays_out,stays_out,stays_out,none,-152,71,0,73,population_density
+DE_way_822085523,DE,Interxion FRA16,296,227,225,257,225,296,71,33.23025729662652,0,stays_out,stays_out,stays_out,none,69,-2,30,41,road_density
+DE_way_854827558,DE,CyrusOne FRA3,312,420,276,183,183,420,237,97.96045120353418,0,stays_out,stays_out,stays_out,none,-108,-144,-237,119,anchors
+DE_way_881232573,DE,Datacenter One GmbH,531,536,546,369,369,546,177,84.56358554366058,0,stays_out,stays_out,stays_out,none,-5,10,-167,183,road_density
+DE_way_881246010,DE,,972,969,925,1001,925,1001,76,31.35150182473986,0,stays_out,stays_out,stays_out,none,3,-44,32,46,anchors
+DE_way_887871067,DE,Digital Realty FRA31,510,474,347,290,290,510,220,103.88254585508257,0,stays_out,stays_out,stays_out,none,36,-127,-184,115,anchors
+DE_way_887871068,DE,Digital Realty FRA32,495,496,366,296,296,496,200,99.18123142342338,0,stays_out,stays_out,stays_out,none,-1,-130,-200,112,anchors
+DE_way_922927451,DE,Iron Mountain FRA-1,557,401,344,371,344,557,213,95.38474720834563,0,stays_out,stays_out,stays_out,none,156,-57,-30,122,road_density
+DE_way_967401206,DE,,743,874,781,673,673,874,201,83.77499626977013,0,stays_out,stays_out,stays_out,none,-131,-93,-201,80,anchors
+DE_way_967735675,DE,Digital Realty FRA29,565,469,346,286,286,565,279,124.91196900217369,0,stays_out,stays_out,stays_out,none,96,-123,-183,112,anchors
+DE_way_974080218,DE,Rechenzentrum Thüringer Netkom,997,934,1072,1158,934,1158,224,96.66566091430813,0,stays_out,stays_out,stays_out,none,63,138,224,160,population_density
+DE_way_981463618,DE,Colt FRA74,552,416,303,263,263,552,289,129.67780586258132,0,stays_out,stays_out,stays_out,none,136,-113,-153,113,anchors
+DE_way_1005216757,DE,Datacenter One,434,342,463,441,342,463,121,53.44779384283945,0,stays_out,stays_out,stays_out,none,92,121,99,157,road_density
+DE_way_1016166666,DE,CA31,1003,953,872,1007,872,1007,135,62.83510165504628,0,stays_out,stays_out,stays_out,none,50,-81,54,47,road_density
+DE_way_1018795132,DE,,1175,1203,1199,1193,1175,1203,28,12.36931687685298,0,stays_out,stays_out,stays_out,none,-28,-4,-10,12,population_density
+DE_way_1031000203,DE,Verizon,173,93,121,128,93,173,80,33.14991201597173,2,exits,stays_top,exits,some,80,28,35,67,anchors
+DE_way_1040002048,DE,,260,196,221,255,196,260,64,30.144098372097094,0,stays_out,stays_out,stays_out,none,64,25,59,33,road_density
+DE_way_1040002049,DE,,259,194,217,253,194,259,65,30.728651125618907,0,stays_out,stays_out,stays_out,none,65,23,59,34,road_density
+DE_way_1047444549,DE,Equinix FR11,545,475,341,344,341,545,204,100.84765738479005,0,stays_out,stays_out,stays_out,none,70,-134,-131,96,road_density
+DE_way_1053522066,DE,,1096,1007,997,1006,997,1096,99,46.551047249229526,0,stays_out,stays_out,stays_out,none,89,-10,-1,75,road_density
+DE_way_1062433549,DE,,715,876,784,671,671,876,205,89.38493534520606,0,stays_out,stays_out,stays_out,none,-161,-92,-205,75,anchors
+DE_way_1062433550,DE,,704,877,787,675,675,877,202,90.8785820018483,0,stays_out,stays_out,stays_out,none,-173,-90,-202,74,anchors
+DE_way_1062433551,DE,Digital Realty FRA33,691,871,779,660,660,871,211,94.97850634046982,0,stays_out,stays_out,stays_out,none,-180,-92,-211,79,anchors
+DE_way_1062506403,DE,,1059,1004,1067,1049,1004,1067,63,28.146935890075138,0,stays_out,stays_out,stays_out,none,55,63,45,56,anchors
+DE_way_1062506404,DE,,1066,1015,1071,1054,1015,1071,56,25.357444666211933,0,stays_out,stays_out,stays_out,none,51,56,39,55,road_density
+DE_way_1062506407,DE,,1092,1056,1092,1078,1056,1092,36,17.0,0,stays_out,stays_out,stays_out,none,36,36,22,57,road_density
+DE_way_1062506409,DE,,1106,1071,1094,1079,1071,1106,35,15.588457268119896,0,stays_out,stays_out,stays_out,none,35,23,8,49,road_density
+DE_way_1076405301,DE,rockenstein AG,985,1103,992,1023,985,1103,118,54.082498709533255,0,stays_out,stays_out,stays_out,none,-118,-111,-80,35,anchors
+DE_way_1077411992,DE,,853,743,750,947,743,947,204,96.61737248894045,0,stays_out,stays_out,stays_out,none,110,7,204,61,population_density
+DE_way_1094348761,DE,,650,384,359,533,359,650,291,136.08453255238084,0,stays_out,stays_out,stays_out,none,266,-25,149,192,road_density
+DE_way_1094348766,DE,,658,390,362,535,362,658,296,137.3277709229516,0,stays_out,stays_out,stays_out,none,268,-28,145,192,road_density
+DE_way_1094348767,DE,,656,385,356,525,356,656,300,138.3244977097935,0,stays_out,stays_out,stays_out,none,271,-29,140,192,road_density
+DE_way_1118500773,DE,InterXion FRA17,391,382,322,328,322,391,69,35.78058132562969,0,stays_out,stays_out,stays_out,none,9,-60,-54,69,road_density
+DE_way_1125276312,DE,,821,669,534,447,447,821,374,163.40823112683154,0,stays_out,stays_out,stays_out,none,152,-135,-222,79,road_density
+DE_way_1132430543,DE,IRZ-HIP-Heidelberg,334,268,450,553,268,553,285,126.07239983438087,0,stays_out,stays_out,stays_out,none,66,182,285,72,population_density
+DE_way_1145623809,DE,Vantage Data Center FRA2,670,798,748,659,659,798,139,66.03723697026298,0,stays_out,stays_out,stays_out,none,-128,-50,-139,64,population_density
+DE_way_1192381985,DE,Vantage Data Center FRA22,695,811,765,697,695,811,116,56.34418041525377,0,stays_out,stays_out,stays_out,none,-116,-46,-114,58,road_density
+DE_way_1220064079,DE,,108,147,170,178,108,178,70,31.383382014478087,1,enters,stays_out,stays_out,some,-39,23,31,14,road_density
+DE_way_1228560057,DE,CyrusOne FRA 4,247,345,239,157,157,345,188,76.95886347047146,0,stays_out,stays_out,stays_out,none,-98,-106,-188,85,road_density
+DE_way_1234079003,DE,,236,242,219,229,219,242,23,9.882644720249063,0,stays_out,stays_out,stays_out,none,-6,-23,-13,142,road_density
+DE_way_1241878548,DE,Wavehaus,181,383,491,638,181,638,457,192.36488764844793,0,stays_out,stays_out,stays_out,none,-202,108,255,82,population_density
+DE_way_1251320340,DE,,1097,989,986,989,986,1097,111,54.51834553615874,0,stays_out,stays_out,stays_out,none,108,-3,0,75,road_density
+DE_way_1251320341,DE,,1124,1058,1007,1013,1007,1124,117,54.0277706369604,0,stays_out,stays_out,stays_out,none,66,-51,-45,77,anchors
+DE_way_1265263013,DE,Equinix FR13,584,494,352,363,352,584,232,111.13467805625149,0,stays_out,stays_out,stays_out,none,90,-142,-131,103,road_density
+DE_way_1265942209,DE,InterXion FRA18,439,378,318,329,318,439,121,55.214732333559915,0,stays_out,stays_out,stays_out,none,61,-60,-49,103,anchors
+DE_way_1266882484,DE,Digital Realty,624,837,759,632,624,837,213,103.23759005323593,0,stays_out,stays_out,stays_out,none,-213,-78,-205,93,anchors
+DE_way_1266882485,DE,Digital Realty,615,830,760,633,615,830,215,103.04206260875539,0,stays_out,stays_out,stays_out,none,-215,-70,-197,92,anchors
+DE_way_1267104292,DE,Equinix FR8.2,301,492,277,245,245,492,247,111.22462257372091,0,stays_out,stays_out,stays_out,none,-191,-215,-247,106,road_density
+DE_way_1293351084,DE,Destination Earth Data Bridge,452,375,575,769,375,769,394,171.85725665989978,0,stays_out,stays_out,stays_out,none,77,200,394,127,road_density
+DE_way_1304045627,DE,,1063,980,1075,1106,980,1106,126,53.80830171389294,0,stays_out,stays_out,stays_out,none,83,95,126,101,population_density
+DE_way_1316627597,DE,,1041,992,1059,1042,992,1059,67,28.873286384938357,0,stays_out,stays_out,stays_out,none,49,67,50,60,anchors
+DE_way_1316627599,DE,,1027,978,1055,1029,978,1055,77,32.13902093509799,0,stays_out,stays_out,stays_out,none,49,77,51,68,anchors
+DE_relation_331652,DE,DVZ Datenverarbeitungszentrum Mecklenburg-Vorpommern GmbH,776,755,954,1053,755,1053,298,143.48635242884018,0,stays_out,stays_out,stays_out,none,21,199,298,92,population_density
+DE_relation_1314773,DE,,187,271,195,171,171,271,100,44.467216388406115,0,stays_out,stays_out,stays_out,none,-84,-76,-100,70,anchors
+DE_relation_6409888,DE,E43,177,303,522,528,177,528,351,172.41519654601214,0,stays_out,stays_out,stays_out,none,-126,219,225,68,anchors
+DE_relation_7513782,DE,Höchstleistungsrechenzentrum der Universität Stuttgart,347,545,603,372,347,603,256,126.49736492644159,0,stays_out,stays_out,stays_out,none,-198,58,-173,75,anchors
+DE_relation_11982077,DE,VegaSystems NCPB,973,970,926,1002,926,1002,76,31.35150182473986,0,stays_out,stays_out,stays_out,none,3,-44,32,46,anchors
+DE_relation_13018876,DE,NTT Global Datacenters Frankfurt 4,711,869,774,654,654,869,215,92.11948762341224,0,stays_out,stays_out,stays_out,none,-158,-95,-215,79,anchors
+FR_node_2161096396,FR,Association ReptiGo,800,1070,1081,1082,800,1082,282,138.93973513721696,0,stays_out,stays_out,stays_out,none,-270,11,12,129,population_density
+FR_node_3979838931,FR,LyonIX 1 IN2P3,80,57,86,133,57,133,76,31.88521078284832,3,stays_top,stays_top,exits,some,23,29,76,41,road_density
+FR_node_4975162489,FR,,360,247,315,499,247,499,252,106.4968700635532,0,stays_out,stays_out,stays_out,none,113,68,252,102,urban_compactness
+FR_node_6015635281,FR,Telehouse Paris Voltaire,78,56,42,56,42,78,36,14.877275736280932,4,stays_top,stays_top,stays_top,all_four,22,-14,0,60,road_density
+FR_node_6015712298,FR,Scitis-Zen DataCenter Hitachi,786,807,939,885,786,939,153,70.75485849042452,0,stays_out,stays_out,stays_out,none,-21,132,78,51,anchors
+FR_node_6016440346,FR,TelecityGroup Paris Courbevoie,228,124,87,80,80,228,148,68.28555240068478,2,stays_out,enters,enters,some,104,-37,-44,121,road_density
+FR_node_6102460998,FR,SFR Netcenter Strasbourg,202,232,262,367,202,367,165,71.80703308172536,0,stays_out,stays_out,stays_out,none,-30,30,135,56,road_density
+FR_node_6102483146,FR,Telehouse 1,46,36,9,12,9,46,37,18.117670931993437,4,stays_top,stays_top,stays_top,all_four,10,-27,-24,39,road_density
+FR_node_6102606448,FR,Interxion PAR6,68,43,10,11,10,68,58,27.91654228828014,4,stays_top,stays_top,stays_top,all_four,25,-33,-32,19,road_density
+FR_node_6102739953,FR,THD Global 1,127,558,826,918,127,918,791,354.72183938028587,0,stays_out,stays_out,stays_out,none,-431,268,360,172,population_density
+FR_node_6103694303,FR,TDF ProxiCenter Bordeaux Bouliac,943,901,699,575,575,943,368,173.00770695742622,0,stays_out,stays_out,stays_out,none,42,-202,-326,93,population_density
+FR_node_6110614473,FR,TDF ProxiCenter Lille Lambersart,372,192,186,311,186,372,186,91.53278101314305,0,stays_out,stays_out,stays_out,none,180,-6,119,50,urban_compactness
+FR_node_6110817631,FR,TDF ProxiCenter de Rennes-Cesson,507,550,423,597,423,597,174,73.9476165944515,0,stays_out,stays_out,stays_out,none,-43,-127,47,138,road_density
+FR_node_6121864803,FR,Colt Paris 2,1,1,1,1,1,1,0,0.0,4,stays_top,stays_top,stays_top,all_four,0,0,0,2,road_density
+FR_node_6121873072,FR,Colt Paris 1,26,37,45,40,26,45,19,8.04155872120988,4,stays_top,stays_top,stays_top,all_four,-11,8,3,15,road_density
+FR_node_6121906640,FR,Colt Lyon,143,129,92,153,92,153,61,26.712980614924522,1,stays_out,enters,stays_out,some,14,-37,24,71,road_density
+FR_node_6121968632,FR,,145,138,94,100,94,145,51,25.96632434519757,2,stays_out,enters,enters,some,7,-44,-38,44,urban_compactness
+FR_node_6174610289,FR,Bouygues Telecom Montigny-le-Bretonneux,239,222,437,411,222,437,215,112.43479591893843,0,stays_out,stays_out,stays_out,none,17,215,189,83,road_density
+FR_node_6174794770,FR,TelecityGroup Paris Aubervilliers,7,11,15,18,7,18,11,4.7871355387816905,4,stays_top,stays_top,stays_top,all_four,-4,4,7,6,anchors
+FR_node_6175277339,FR,Cogent Nantes,164,187,190,306,164,306,142,63.897704705776924,0,stays_out,stays_out,stays_out,none,-23,3,119,49,anchors
+FR_node_6175333480,FR,Cogent Paris 1,90,19,25,24,19,90,71,33.768821912132694,4,stays_top,stays_top,stays_top,all_four,71,6,5,67,road_density
+FR_node_6175354710,FR,Cogent Poitiers,474,622,681,990,474,990,516,217.06277893733878,0,stays_out,stays_out,stays_out,none,-148,59,368,147,urban_compactness
+FR_node_6205137527,FR,,797,764,849,910,764,910,146,63.78610088935258,0,stays_out,stays_out,stays_out,none,33,85,146,65,road_density
+FR_node_6212420800,FR,LASOTEL PIXEL69,105,170,131,163,105,170,65,30.081832834231804,1,enters,stays_out,stays_out,some,-65,-39,-7,67,road_density
+FR_node_6212483563,FR,ELB Group - DATACENTER LYON 3,65,30,69,123,30,123,93,38.39596332949598,3,stays_top,stays_top,exits,some,35,39,93,99,road_density
+FR_node_6212512538,FR,"SynAApS - SaaS, PaaS, Housing",175,166,133,155,133,175,42,18.117670931993437,0,stays_out,stays_out,stays_out,none,9,-33,-11,43,urban_compactness
+FR_node_6212785490,FR,Adista Saint-Étienne,231,405,432,753,231,753,522,217.568954586816,0,stays_out,stays_out,stays_out,none,-174,27,348,161,urban_compactness
+FR_node_6213121089,FR,Etix Vendée #2,758,711,799,1015,711,1015,304,134.3983506843245,0,stays_out,stays_out,stays_out,none,47,88,304,74,anchors
+FR_node_6222911368,FR,OVHcloud Paris,32,13,18,23,13,32,19,8.103497187428813,4,stays_top,stays_top,stays_top,all_four,19,5,10,43,road_density
+FR_node_6229455977,FR,Scaleway Datacenter DC4,9,21,7,6,6,21,15,6.946221994724902,4,stays_top,stays_top,stays_top,all_four,-12,-14,-15,15,road_density
+FR_node_6289312996,FR,Telia ROSY Villepinte,576,580,354,251,251,580,329,164.5324182848677,0,stays_out,stays_out,stays_out,none,-4,-226,-329,152,population_density
+FR_node_6289367991,FR,Ad Valem technologies TDF,61,33,19,19,19,61,42,19.79898987322333,4,stays_top,stays_top,stays_top,all_four,28,-14,-14,39,anchors
+FR_node_6289527565,FR,Alphalink Telco Center,216,121,79,73,73,216,143,66.04733151308992,3,exits,stays_top,stays_top,some,95,-42,-48,112,road_density
+FR_node_6289564874,FR,Level (3) Le Capitole Nanterre,140,51,99,77,51,140,89,37.6773583645846,3,exits,stays_top,stays_top,some,89,48,26,71,road_density
+FR_node_6289587203,FR,Prosodie Boulogne,36,92,126,81,36,126,90,37.151715976519846,3,stays_top,exits,stays_top,some,-56,34,-11,34,urban_compactness
+FR_node_6289605233,FR,KHEOPS Organisation Vélizy-Villacoublay,209,359,281,103,103,359,256,108.86689120205463,1,stays_out,stays_out,enters,some,-150,-78,-256,128,population_density
+FR_node_6289632564,FR,Cogent Paris 2,623,591,442,164,164,623,459,209.4198335083539,0,stays_out,stays_out,stays_out,none,32,-149,-427,189,urban_compactness
+FR_node_6289682223,FR,KHEOPS Organisation Plessis-Robinson,218,279,325,114,114,325,211,91.21768834314246,1,stays_out,stays_out,enters,some,-61,46,-165,92,urban_compactness
+FR_node_6289753941,FR,Acropolis Telecom Paris-Nation,5,15,28,14,5,28,23,9.46924847422786,4,stays_top,stays_top,stays_top,all_four,-10,13,-1,15,road_density
+FR_node_6289858502,FR,Sungard AS IT,409,505,586,500,409,586,177,72.34638899074369,0,stays_out,stays_out,stays_out,none,-96,81,-5,102,anchors
+FR_node_6289873866,FR,Alionis DC1,639,547,595,469,469,639,170,72.78049189171504,0,stays_out,stays_out,stays_out,none,92,48,-78,119,anchors
+FR_node_7522025783,FR,Cogent,102,149,187,442,102,442,340,152.02850609891115,1,enters,stays_out,stays_out,some,-47,38,293,75,population_density
+FR_node_7900883632,FR,Datacenter Aqua Ray,23,12,12,5,5,23,18,7.438637868140466,4,stays_top,stays_top,stays_top,all_four,11,0,-7,18,anchors
+FR_node_7902341447,FR,Salle Technique TV5MONDE,37,47,54,63,37,63,26,10.996211468804457,4,stays_top,stays_top,stays_top,all_four,-10,7,16,15,anchors
+FR_node_7902351616,FR,Datacenter Orange Archives,98,103,67,68,67,103,36,19.165942015286735,4,stays_top,stays_top,stays_top,all_four,-5,-36,-35,56,road_density
+FR_node_7902360503,FR,Salle technique TDF,350,142,112,92,92,350,258,119.11898813091611,2,stays_out,enters,enters,some,208,-30,-50,141,road_density
+FR_node_7902383102,FR,Salle technique TF1,4,6,20,8,4,20,16,7.187952884282608,4,stays_top,stays_top,stays_top,all_four,-2,14,2,8,urban_compactness
+FR_node_7902383458,FR,Salle technique TDF,38,48,31,32,31,48,17,7.804912982645397,4,stays_top,stays_top,stays_top,all_four,-10,-17,-16,20,road_density
+FR_node_7902392228,FR,Salle Technique France Télévisions,2,3,4,2,2,4,2,0.9574271077563381,4,stays_top,stays_top,stays_top,all_four,-1,1,-1,2,road_density
+FR_node_7902398865,FR,Salle technique Eurosport,11,7,30,17,7,30,23,10.04572877727976,4,stays_top,stays_top,stays_top,all_four,4,23,10,9,urban_compactness
+FR_node_7902413338,FR,Salle technique Groupe M6,22,16,13,13,13,22,9,4.242640687119285,4,stays_top,stays_top,stays_top,all_four,6,-3,-3,18,anchors
+FR_node_7902421304,FR,Salle technique Groupe M6,27,20,16,16,16,27,11,5.188127472091127,4,stays_top,stays_top,stays_top,all_four,7,-4,-4,16,anchors
+FR_node_7902526435,FR,Data Center Bluecom,815,870,832,792,792,870,78,32.877297131404625,0,stays_out,stays_out,stays_out,none,-55,-38,-78,48,population_density
+FR_node_7902527604,FR,Datacenter Thales Nungesser,413,518,468,593,413,593,180,76.48529270389177,0,stays_out,stays_out,stays_out,none,-105,-50,75,54,anchors
+FR_node_7902546622,FR,Salle technique Groupe CANAL,19,14,41,29,14,41,27,11.926860441876563,4,stays_top,stays_top,stays_top,all_four,5,27,15,12,road_density
+FR_node_7902551102,FR,Salle technique Euronews,254,191,127,159,127,254,127,54.21177608847239,0,stays_out,stays_out,stays_out,none,63,-64,-32,56,urban_compactness
+FR_node_8048285522,FR,Techcréa Solutions,541,561,646,879,541,879,338,155.00188170900807,0,stays_out,stays_out,stays_out,none,-20,85,318,129,road_density
+FR_node_8074063731,FR,dc2scale Vélizy,561,562,410,150,150,562,412,194.11573008560296,0,stays_out,stays_out,stays_out,none,-1,-152,-412,195,urban_compactness
+FR_node_8297362166,FR,Datacenter RTE,44,41,34,39,34,44,10,4.203173404306164,4,stays_top,stays_top,stays_top,all_four,3,-7,-2,17,road_density
+FR_node_8297551605,FR,Datacenter EDF,43,42,32,36,32,43,11,5.188127472091127,4,stays_top,stays_top,stays_top,all_four,1,-10,-6,17,road_density
+FR_node_8670043375,FR,Datacenter RTE,118,143,380,301,118,380,262,125.87427589993649,1,enters,stays_out,stays_out,some,-25,237,158,93,road_density
+FR_node_8670065237,FR,Datacenter RTE,101,94,96,149,94,149,55,26.166135875720485,3,stays_top,stays_top,exits,some,7,2,55,27,road_density
+FR_node_8744063082,FR,Pôle Emploi datacenter Orléans,581,485,483,554,483,581,98,49.45957945636012,0,stays_out,stays_out,stays_out,none,96,-2,69,117,anchors
+FR_node_8904810128,FR,Datacenter de l'Université de Strasbourg,103,193,294,512,103,512,409,175.91380465064893,1,enters,stays_out,stays_out,some,-90,101,319,84,population_density
+FR_node_8930909347,FR,Lyon Sévigné,49,29,59,135,29,135,106,46.37528077183648,3,stays_top,stays_top,exits,some,20,30,106,43,population_density
+FR_node_8930909348,FR,Lille Boitelle,16,40,93,169,16,169,153,67.7864293203293,3,stays_top,stays_top,exits,some,-24,53,129,47,urban_compactness
+FR_node_9002117313,FR,Salle Technique France Télévisions,3,4,5,3,3,5,2,0.9574271077563381,4,stays_top,stays_top,stays_top,all_four,-1,1,-1,2,road_density
+FR_node_9002195217,FR,Salle Technique France Télévisions,24,38,43,57,24,57,33,13.625955623979797,4,stays_top,stays_top,stays_top,all_four,-14,5,19,15,anchors
+FR_node_9002203858,FR,Salle Technique Groupe Canal,14,23,74,27,14,74,60,26.888659319497503,4,stays_top,stays_top,stays_top,all_four,-9,51,4,22,road_density
+FR_node_9002215626,FR,Datacenter Bouygues Télécom,892,745,622,473,473,892,419,178.27506836347027,0,stays_out,stays_out,stays_out,none,147,-123,-272,128,road_density
+FR_node_9045173270,FR,Datacenter MGEN,662,682,497,514,497,682,185,96.7242644496888,0,stays_out,stays_out,stays_out,none,-20,-185,-168,74,population_density
+FR_node_9045239635,FR,,636,663,809,787,636,809,173,86.90751789498229,0,stays_out,stays_out,stays_out,none,-27,146,124,110,road_density
+FR_node_9068699148,FR,,107,119,114,83,83,119,36,15.945218719101975,4,stays_top,stays_top,stays_top,all_four,-12,-5,-36,40,road_density
+FR_node_9068704649,FR,,199,189,152,99,99,199,100,45.26496069441203,1,stays_out,stays_out,enters,some,10,-37,-90,56,road_density
+FR_node_9068705141,FR,,52,85,101,71,52,101,49,20.822663934601003,4,stays_top,stays_top,stays_top,all_four,-33,16,-14,30,road_density
+FR_node_9373660259,FR,zColo Poissonnière,41,44,17,20,17,44,27,13.96424004376894,4,stays_top,stays_top,stays_top,all_four,-3,-27,-24,30,road_density
+FR_node_9403059298,FR,,999,1079,1050,912,912,1079,167,73.22567855609124,0,stays_out,stays_out,stays_out,none,-80,-29,-167,93,population_density
+FR_node_9969529152,FR,DTC,1213,1213,1212,1214,1212,1214,2,0.816496580927726,0,stays_out,stays_out,stays_out,none,0,-1,1,2,anchors
+FR_node_10241762412,FR,DTiX,501,484,517,669,484,669,185,85.23839119395282,0,stays_out,stays_out,stays_out,none,17,33,185,74,anchors
+FR_node_11209760563,FR,,309,276,199,173,173,309,136,63.835073953639835,0,stays_out,stays_out,stays_out,none,33,-77,-103,50,road_density
+FR_node_11691867437,FR,Crypteo,1149,1114,1146,1036,1036,1149,113,52.60782578032791,0,stays_out,stays_out,stays_out,none,35,32,-78,57,anchors
+FR_node_11942572541,FR,Microsoft,1195,1180,1171,1157,1157,1195,38,15.945218719101975,0,stays_out,stays_out,stays_out,none,15,-9,-23,12,population_density
+FR_node_12097993555,FR,Datacenter Martha,481,576,500,467,467,576,109,48.586692279539534,0,stays_out,stays_out,stays_out,none,-95,-76,-109,62,anchors
+FR_node_12150464472,FR,Telehouse THM1,302,453,602,484,302,602,300,123.49460177135948,0,stays_out,stays_out,stays_out,none,-151,149,31,61,anchors
+FR_node_12154384214,FR,Datacenter Sud,292,333,351,497,292,497,205,89.31358612588942,0,stays_out,stays_out,stays_out,none,-41,18,164,75,urban_compactness
+FR_way_37697561,FR,Datacenter SNCF RESARAIL,42,76,100,177,42,177,135,57.337451402493755,3,stays_top,stays_top,exits,some,-34,24,101,43,road_density
+FR_way_38354559,FR,OVHcloud Roubaix - RBX1,234,197,268,336,197,336,139,59.10090241837824,0,stays_out,stays_out,stays_out,none,37,71,139,28,urban_compactness
+FR_way_42016630,FR,Data4 Campus Paris Saclay,1002,1008,961,664,664,1008,344,164.49797364506753,0,stays_out,stays_out,stays_out,none,-6,-47,-344,88,road_density
+FR_way_42742505,FR,Equinix PA3,64,60,47,55,47,64,17,7.32575365861197,4,stays_top,stays_top,stays_top,all_four,4,-13,-5,23,road_density
+FR_way_45423103,FR,Interoute Strasbourg,810,713,688,795,688,810,122,60.08050155139075,0,stays_out,stays_out,stays_out,none,97,-25,82,77,urban_compactness
+FR_way_48199846,FR,Datadock,215,240,272,378,215,378,163,71.73272149677115,0,stays_out,stays_out,stays_out,none,-25,32,138,58,road_density
+FR_way_49261097,FR,B4,1157,1098,994,866,866,1157,291,127.72202890130843,0,stays_out,stays_out,stays_out,none,59,-104,-232,63,population_density
+FR_way_49292264,FR,,169,109,105,90,90,169,79,34.807805638007885,3,exits,stays_top,stays_top,some,60,-4,-19,48,urban_compactness
+FR_way_49292266,FR,,174,108,102,89,89,174,85,38.00328933131973,3,exits,stays_top,stays_top,some,66,-6,-19,51,urban_compactness
+FR_way_50210667,FR,Green DataCenter Mangin,109,77,229,460,77,460,383,173.6325142362455,2,stays_top,exits,exits,some,32,152,383,65,urban_compactness
+FR_way_58495009,FR,,867,806,708,704,704,867,163,79.36991453525279,0,stays_out,stays_out,stays_out,none,61,-98,-102,40,road_density
+FR_way_61091773,FR,,627,772,903,1040,627,1040,413,176.90016016574623,0,stays_out,stays_out,stays_out,none,-145,131,268,94,anchors
+FR_way_62340941,FR,Orange Lyon Lumière - Centrale,83,105,78,140,78,140,62,28.219378684395824,3,stays_top,stays_top,exits,some,-22,-27,35,56,road_density
+FR_way_62777045,FR,Datacenter Société Generale,1015,966,702,520,520,1015,495,232.22313264042697,0,stays_out,stays_out,stays_out,none,49,-264,-446,75,population_density
+FR_way_63259490,FR,Datacenter Groupe Casino,305,250,502,827,250,827,577,260.8281682129699,0,stays_out,stays_out,stays_out,none,55,252,577,213,urban_compactness
+FR_way_63868212,FR,,331,400,572,544,331,572,241,115.2226106282964,0,stays_out,stays_out,stays_out,none,-69,172,144,98,road_density
+FR_way_63979423,FR,Interxion PAR3,69,28,33,38,28,69,41,18.457157599876172,4,stays_top,stays_top,stays_top,all_four,41,5,10,23,road_density
+FR_way_63983178,FR,Interxion PAR5,82,32,36,43,32,82,50,22.954665466232928,4,stays_top,stays_top,stays_top,all_four,50,4,11,25,road_density
+FR_way_63996094,FR,Datacenter Vega,772,531,710,804,531,804,273,121.9135622753542,0,stays_out,stays_out,stays_out,none,241,179,273,119,road_density
+FR_way_64108260,FR,Zayo Toulouse,546,488,363,379,363,546,183,87.79901290257577,0,stays_out,stays_out,stays_out,none,58,-125,-109,69,population_density
+FR_way_64201452,FR,,25,89,205,454,25,454,429,189.12495869133718,2,stays_top,exits,exits,some,-64,116,365,92,road_density
+FR_way_65043676,FR,Cogent Rouen,63,118,243,491,63,491,428,190.36521916218484,2,stays_top,exits,exits,some,-55,125,373,73,road_density
+FR_way_66670655,FR,Datacenter IBO,326,267,329,578,267,578,311,138.31124321616085,0,stays_out,stays_out,stays_out,none,59,62,311,118,anchors
+FR_way_66911687,FR,Datacenter IBM,757,626,550,589,550,757,207,89.86100377805714,0,stays_out,stays_out,stays_out,none,131,-76,-37,113,road_density
+FR_way_68937644,FR,Marseille Nedelec,96,131,189,370,96,370,274,121.85920837863122,1,enters,stays_out,stays_out,some,-35,58,239,55,population_density
+FR_way_68940404,FR,Digital Realty MRS1,50,158,212,383,50,383,333,138.91814136389817,1,enters,stays_out,stays_out,some,-108,54,225,49,anchors
+FR_way_68947782,FR,Marseille St-Mauront,67,205,267,456,67,456,389,161.48555146926716,1,enters,stays_out,stays_out,some,-138,62,251,57,anchors
+FR_way_69380828,FR,,643,694,675,723,643,723,80,33.57950763982899,0,stays_out,stays_out,stays_out,none,-51,-19,29,34,urban_compactness
+FR_way_69382833,FR,Groupe ADISTA,437,604,604,672,437,672,235,100.10452870208553,0,stays_out,stays_out,stays_out,none,-167,0,68,68,anchors
+FR_way_69428487,FR,,837,868,833,768,768,868,100,42.01983658543506,0,stays_out,stays_out,stays_out,none,-31,-35,-100,31,population_density
+FR_way_69633445,FR,Free Pro - Datacenter Marseille (MAR02),311,460,606,486,311,606,295,121.18958976193733,0,stays_out,stays_out,stays_out,none,-149,146,26,62,anchors
+FR_way_70206291,FR,Datacenter Bouygues Télécom,132,262,313,109,109,313,204,99.08582138732059,1,stays_out,stays_out,enters,some,-130,51,-153,87,urban_compactness
+FR_way_70207931,FR,Datacenter Bouygues Télécom,133,259,310,107,107,310,203,97.80720832331326,1,stays_out,stays_out,enters,some,-126,51,-152,86,urban_compactness
+FR_way_70456520,FR,Datacenter Bouygues Télécom,699,329,387,130,130,699,569,235.76453649068316,0,stays_out,stays_out,stays_out,none,370,58,-199,181,anchors
+FR_way_70894641,FR,,150,251,293,483,150,483,333,139.41156097445193,0,stays_out,stays_out,stays_out,none,-101,42,232,69,urban_compactness
+FR_way_72995274,FR,Orange - Aubervilliers,123,62,55,64,55,123,68,31.57002798013753,3,exits,stays_top,stays_top,some,61,-7,2,100,road_density
+FR_way_72996440,FR,Digital Realty Paris PAR5,12,10,11,15,10,15,5,2.160246899469287,4,stays_top,stays_top,stays_top,all_four,2,1,5,5,anchors
+FR_way_72996473,FR,Datacenter Completel,135,64,57,66,57,135,78,36.53765181289022,3,exits,stays_top,stays_top,some,71,-7,2,100,road_density
+FR_way_73003053,FR,Datacenter Atos,99,31,29,31,29,99,70,34.346275877694026,4,stays_top,stays_top,stays_top,all_four,68,-2,0,78,road_density
+FR_way_73005029,FR,Datacenter Atos,94,27,27,30,27,94,67,33.03028912982749,4,stays_top,stays_top,stays_top,all_four,67,0,3,74,road_density
+FR_way_73005728,FR,Interxion PAR2 - Bâtiment 501,39,34,37,48,34,48,14,6.027713773341708,4,stays_top,stays_top,stays_top,all_four,5,3,14,5,road_density
+FR_way_73007043,FR,Equinix PA5,18,18,24,26,18,26,8,4.123105625617661,4,stays_top,stays_top,stays_top,all_four,0,6,8,9,anchors
+FR_way_73008524,FR,Equinix PA6,126,55,68,69,55,126,71,31.649117944528353,3,exits,stays_top,stays_top,some,71,13,14,79,road_density
+FR_way_73120395,FR,Equinix PA4,416,134,98,87,87,416,329,156.12895311248326,2,stays_out,enters,enters,some,282,-36,-47,99,anchors
+FR_way_73131890,FR,SFR,787,845,882,970,787,970,183,76.71158104658427,0,stays_out,stays_out,stays_out,none,-58,37,125,51,road_density
+FR_way_73137489,FR,Datacenter BNP,923,1083,1107,1107,923,1107,184,88.72429205127534,0,stays_out,stays_out,stays_out,none,-160,24,24,90,population_density
+FR_way_74475616,FR,Global Switch,122,68,77,72,68,122,54,25.104780421266383,4,stays_top,stays_top,stays_top,all_four,54,9,4,31,road_density
+FR_way_74704589,FR,,476,508,374,358,358,508,150,74.19793348425098,0,stays_out,stays_out,stays_out,none,-32,-134,-150,96,anchors
+FR_way_75757106,FR,Zayo Montpellier,433,323,411,612,323,612,289,121.20609170609646,0,stays_out,stays_out,stays_out,none,110,88,289,154,road_density
+FR_way_75758209,FR,,380,340,418,608,340,608,268,118.68585987106187,0,stays_out,stays_out,stays_out,none,40,78,268,141,road_density
+FR_way_75759038,FR,Cogent Montpellier,245,218,241,501,218,501,283,133.6971079218495,0,stays_out,stays_out,stays_out,none,27,23,283,92,population_density
+FR_way_76181813,FR,,244,328,353,465,244,465,221,91.15737307901466,0,stays_out,stays_out,stays_out,none,-84,25,137,70,anchors
+FR_way_76296417,FR,Cogent Toulouse,113,116,124,185,113,185,72,33.98529093593286,2,stays_top,exits,exits,some,-3,8,69,40,road_density
+FR_way_76322800,FR,,480,459,330,390,330,480,150,68.33922738808216,0,stays_out,stays_out,stays_out,none,21,-129,-69,87,anchors
+FR_way_76329433,FR,Fullsave Toulouse,152,132,136,219,132,219,87,40.43410276816671,0,stays_out,stays_out,stays_out,none,20,4,87,46,anchors
+FR_way_76727775,FR,OPCORE DC1,95,100,89,75,75,100,25,10.812801055539063,4,stays_top,stays_top,stays_top,all_four,-5,-11,-25,53,road_density
+FR_way_79145624,FR,Colt Paris 3,765,684,665,522,522,765,243,101.10390694725896,0,stays_out,stays_out,stays_out,none,81,-19,-162,107,anchors
+FR_way_79891578,FR,,144,135,88,98,88,144,56,27.402858731648173,2,stays_out,enters,enters,some,9,-47,-37,45,urban_compactness
+FR_way_80144821,FR,OVHcloud Roubaix - RBX6,317,208,300,354,208,354,146,62.07186695006576,0,stays_out,stays_out,stays_out,none,109,92,146,79,anchors
+FR_way_80148463,FR,OVHcloud Roubaix - RBX5,226,188,266,334,188,334,146,62.40459384799595,0,stays_out,stays_out,stays_out,none,38,78,146,34,urban_compactness
+FR_way_80150630,FR,OVHcloud Roubaix - RBX7,198,176,254,316,176,316,140,62.63119563497624,0,stays_out,stays_out,stays_out,none,22,78,140,29,urban_compactness
+FR_way_80158243,FR,Paris St Amand,149,117,85,78,78,149,71,32.602402774437756,3,exits,stays_top,stays_top,some,32,-32,-39,87,road_density
+FR_way_80330028,FR,Comarch Data Center,622,174,148,260,148,622,474,219.28672250427445,0,stays_out,stays_out,stays_out,none,448,-26,86,163,anchors
+FR_way_80469752,FR,SFR Netcenter Vénissieux,161,172,123,162,123,172,49,21.579311079519353,0,stays_out,stays_out,stays_out,none,-11,-49,-10,33,road_density
+FR_way_80703263,FR,,340,353,441,550,340,550,210,96.9982817717235,0,stays_out,stays_out,stays_out,none,-13,88,197,81,urban_compactness
+FR_way_81282298,FR,,128,82,50,47,47,128,81,37.659660115301094,3,exits,stays_top,stays_top,some,46,-32,-35,22,population_density
+FR_way_81283176,FR,,115,86,62,58,58,115,57,26.25991876098122,4,stays_top,stays_top,stays_top,all_four,29,-24,-28,37,road_density
+FR_way_81617496,FR,Orange Eastview,8,17,23,10,8,23,15,6.855654600401044,4,stays_top,stays_top,stays_top,all_four,-9,6,-7,10,road_density
+FR_way_81708992,FR,,189,377,291,386,189,386,197,91.76918509681414,0,stays_out,stays_out,stays_out,none,-188,-86,9,105,road_density
+FR_way_81727062,FR,Oxya Datacenter,142,263,218,322,142,322,180,75.9050942515279,0,stays_out,stays_out,stays_out,none,-121,-45,59,74,anchors
+FR_way_81784724,FR,SFR Netcenter Rennes,348,450,420,457,348,457,109,49.82218381404011,0,stays_out,stays_out,stays_out,none,-102,-30,7,107,road_density
+FR_way_82894448,FR,Datacenter IBM - Grabels,530,656,644,703,530,703,173,73.39107575175609,0,stays_out,stays_out,stays_out,none,-126,-12,47,132,anchors
+FR_way_82943291,FR,BT Blue,820,944,1087,1100,820,1100,280,132.2935498553627,0,stays_out,stays_out,stays_out,none,-124,143,156,106,anchors
+FR_way_83087845,FR,Albiréo,1030,1087,1006,1025,1006,1087,81,34.899856733230294,0,stays_out,stays_out,stays_out,none,-57,-81,-62,89,anchors
+FR_way_83651931,FR,,850,779,626,746,626,850,224,93.5106945755404,0,stays_out,stays_out,stays_out,none,71,-153,-33,57,urban_compactness
+FR_way_83795984,FR,Datacenter Colt,81,66,46,35,35,81,46,20.51016008388688,4,stays_top,stays_top,stays_top,all_four,15,-20,-31,38,road_density
+FR_way_83943560,FR,,389,319,438,297,297,438,141,64.73728961477046,0,stays_out,stays_out,stays_out,none,70,119,-22,76,anchors
+FR_way_83944350,FR,,373,307,415,280,280,415,135,61.5,0,stays_out,stays_out,stays_out,none,66,108,-27,76,anchors
+FR_way_84607738,FR,Euclyde DC5,76,46,82,134,46,134,88,36.565010597564445,3,stays_top,stays_top,exits,some,30,36,88,97,road_density
+FR_way_84699719,FR,,264,206,216,326,206,326,120,54.85739087245522,0,stays_out,stays_out,stays_out,none,58,10,120,39,anchors
+FR_way_84942310,FR,Cogent Lille,40,24,52,139,24,139,115,51.46115039522533,3,stays_top,stays_top,exits,some,16,28,115,38,population_density
+FR_way_87682410,FR,,388,526,664,750,388,750,362,158.871016865884,0,stays_out,stays_out,stays_out,none,-138,138,224,127,anchors
+FR_way_88505134,FR,TAS Group,941,1082,981,811,811,1082,271,112.1468531286842,0,stays_out,stays_out,stays_out,none,-141,-101,-271,105,population_density
+FR_way_88763366,FR,,825,887,944,737,737,944,207,88.66932953394877,0,stays_out,stays_out,stays_out,none,-62,57,-150,50,road_density
+FR_way_88765054,FR,TDF ProxiCenter Aix Marseille,1176,1152,1100,927,927,1176,249,112.40217969416786,0,stays_out,stays_out,stays_out,none,24,-52,-225,44,anchors
+FR_way_91286607,FR,Datacenter IBM,953,937,928,874,874,953,79,34.26368339802363,0,stays_out,stays_out,stays_out,none,16,-9,-63,77,road_density
+FR_way_91288538,FR,Datacenter IBM,956,943,930,875,875,956,81,35.61834733205159,0,stays_out,stays_out,stays_out,none,13,-13,-68,74,road_density
+FR_way_91290220,FR,DC Free,937,919,910,869,869,937,68,28.77933286231632,0,stays_out,stays_out,stays_out,none,18,-9,-50,63,road_density
+FR_way_95431893,FR,,915,645,668,921,645,921,276,151.28863143012433,0,stays_out,stays_out,stays_out,none,270,23,276,167,anchors
+FR_way_97768560,FR,Interoute Marseille,375,381,511,587,375,587,212,103.51650432016464,0,stays_out,stays_out,stays_out,none,-6,130,206,108,road_density
+FR_way_97770086,FR,Verizon Marseille,422,368,512,611,368,611,243,106.58447354094311,0,stays_out,stays_out,stays_out,none,54,144,243,124,road_density
+FR_way_101166171,FR,Datacenter des Douanes,526,297,465,610,297,610,313,132.42482143968832,0,stays_out,stays_out,stays_out,none,229,168,313,78,road_density
+FR_way_102446449,FR,OPCORE DC6-2,400,431,369,393,369,431,62,25.552234083669997,0,stays_out,stays_out,stays_out,none,-31,-62,-38,122,road_density
+FR_way_102449117,FR,OPCORE DC5,343,597,480,474,343,597,254,103.80269746013347,0,stays_out,stays_out,stays_out,none,-254,-117,-123,97,road_density
+FR_way_102453250,FR,OPCORE DC6-5,686,575,454,471,454,686,232,107.28311454589053,0,stays_out,stays_out,stays_out,none,111,-121,-104,82,anchors
+FR_way_102453433,FR,OPCORE DC6-6,571,500,386,409,386,571,185,85.30142632648842,0,stays_out,stays_out,stays_out,none,71,-114,-91,100,anchors
+FR_way_102465235,FR,OPCORE DC6-3,556,513,403,437,403,556,153,69.79195273573212,0,stays_out,stays_out,stays_out,none,43,-110,-76,94,anchors
+FR_way_102467679,FR,OPCORE DC6-6,675,503,382,402,382,675,293,133.9166407384335,0,stays_out,stays_out,stays_out,none,172,-121,-101,103,anchors
+FR_way_103670545,FR,Datecenter Pole Emploi,253,354,334,446,253,446,193,79.27746632345578,0,stays_out,stays_out,stays_out,none,-101,-20,92,74,anchors
+FR_way_113167016,FR,Datacenter IBM,877,730,752,547,547,877,330,136.05513588247965,0,stays_out,stays_out,stays_out,none,147,22,-183,81,anchors
+FR_way_113174337,FR,Euroclear,790,794,770,735,735,794,59,26.961392150010848,0,stays_out,stays_out,stays_out,none,-4,-24,-59,47,anchors
+FR_way_113457880,FR,Datacenter Sirius,648,671,747,588,588,747,159,65.74952471311104,0,stays_out,stays_out,stays_out,none,-23,76,-83,122,road_density
+FR_way_113714402,FR,Datacenter Bouygues Télécom,229,215,412,392,215,412,197,104.39987228600107,0,stays_out,stays_out,stays_out,none,14,197,177,77,road_density
+FR_way_115424116,FR,Datacenter Oxya,528,600,421,342,342,600,258,114.04494727957044,0,stays_out,stays_out,stays_out,none,-72,-179,-258,144,urban_compactness
+FR_way_116113997,FR,Sungard AS IT,406,511,592,507,406,592,186,76.17086057016817,0,stays_out,stays_out,stays_out,none,-105,81,-4,102,anchors
+FR_way_116116518,FR,Euclyde DC6,248,388,431,355,248,431,183,78.13023315806329,0,stays_out,stays_out,stays_out,none,-140,43,-33,72,road_density
+FR_way_116118031,FR,Sungard AS IT,396,502,584,498,396,584,188,76.98484699385112,0,stays_out,stays_out,stays_out,none,-106,82,-4,100,anchors
+FR_way_116137046,FR,Datacenter Banque de France,166,355,331,269,166,355,189,84.3460135394673,0,stays_out,stays_out,stays_out,none,-189,-24,-86,67,urban_compactness
+FR_way_116195927,FR,,537,582,649,725,537,725,188,81.96899820460578,0,stays_out,stays_out,stays_out,none,-45,67,143,127,population_density
+FR_way_117845346,FR,Datacenter,569,620,679,606,569,679,110,45.712872001950025,0,stays_out,stays_out,stays_out,none,-51,59,-14,75,road_density
+FR_way_120350699,FR,,185,228,201,132,132,228,96,40.43513323831146,0,stays_out,stays_out,stays_out,none,-43,-27,-96,51,road_density
+FR_way_124592519,FR,Datacenter ArteOne,345,555,755,998,345,998,653,278.97237019700236,0,stays_out,stays_out,stays_out,none,-210,200,443,121,population_density
+FR_way_125557451,FR,Datacenter IBM,881,840,871,576,576,881,305,145.054012928518,0,stays_out,stays_out,stays_out,none,41,31,-264,102,anchors
+FR_way_125563590,FR,Worldline,842,737,726,444,444,842,398,170.3865702845542,0,stays_out,stays_out,stays_out,none,105,-11,-293,146,anchors
+FR_way_126029978,FR,Cogent Dijon,111,133,188,421,111,421,310,142.23542690436398,1,enters,stays_out,stays_out,some,-22,55,288,103,urban_compactness
+FR_way_126666046,FR,SM4,1182,938,751,552,552,1182,630,268.60178083301435,0,stays_out,stays_out,stays_out,none,244,-187,-386,93,population_density
+FR_way_126667399,FR,SM3,1184,952,769,560,560,1184,624,265.55900160479086,0,stays_out,stays_out,stays_out,none,232,-183,-392,97,population_density
+FR_way_128632388,FR,Extension centre de calcul IN2P3,77,58,84,131,58,131,73,31.01075082397501,3,stays_top,stays_top,exits,some,19,26,73,39,road_density
+FR_way_129565687,FR,,708,687,479,391,391,708,317,155.99011720832402,0,stays_out,stays_out,stays_out,none,21,-208,-296,75,urban_compactness
+FR_way_130810461,FR,Datacenter Groupama,1061,833,874,1000,833,1061,228,106.50508595054667,0,stays_out,stays_out,stays_out,none,228,41,167,131,anchors
+FR_way_132582436,FR,Datacenter Bouygues Télécom,720,873,850,625,625,873,248,116.18663147425066,0,stays_out,stays_out,stays_out,none,-153,-23,-248,78,road_density
+FR_way_134684836,FR,,463,616,552,529,463,616,153,63.166446789415026,0,stays_out,stays_out,stays_out,none,-153,-64,-87,60,population_density
+FR_way_134884282,FR,CNAF Sophia-Antipolis,952,1093,955,784,784,1093,309,126.45157175772866,0,stays_out,stays_out,stays_out,none,-141,-138,-309,105,population_density
+FR_way_135461168,FR,Albiréo,1170,1094,1086,1062,1062,1170,108,46.69047011971501,0,stays_out,stays_out,stays_out,none,76,-8,-32,31,anchors
+FR_way_137139149,FR,Greenfield,936,878,861,991,861,991,130,59.14107427724548,0,stays_out,stays_out,stays_out,none,58,-17,113,45,population_density
+FR_way_137239340,FR,Webaxys,1183,1111,1126,1122,1111,1183,72,32.29551052391029,0,stays_out,stays_out,stays_out,none,72,15,11,29,population_density
+FR_way_138943505,FR,Datacenter Orange,206,424,251,108,108,424,316,132.0943475954466,1,stays_out,stays_out,enters,some,-218,-173,-316,155,urban_compactness
+FR_way_139560714,FR,OPCORE DC2,520,253,149,117,117,520,403,182.95605118898544,1,stays_out,stays_out,enters,some,267,-104,-136,145,road_density
+FR_way_139560858,FR,OPCORE DC3,349,184,135,94,94,349,255,111.8883371938291,1,stays_out,stays_out,enters,some,165,-49,-90,69,road_density
+FR_way_139706219,FR,Interoute Bordeaux,875,858,732,640,640,875,235,110.99061521888535,0,stays_out,stays_out,stays_out,none,17,-126,-218,63,population_density
+FR_way_140910921,FR,,773,791,528,394,394,791,397,193.374420921348,0,stays_out,stays_out,stays_out,none,-18,-263,-397,138,population_density
+FR_way_146090469,FR,DATA4 Paris Marcoussis PAR2,1150,1019,896,754,754,1150,396,169.3150416629702,0,stays_out,stays_out,stays_out,none,131,-123,-265,101,anchors
+FR_way_146091115,FR,,1084,1039,972,701,701,1084,383,171.6177923953885,0,stays_out,stays_out,stays_out,none,45,-67,-338,80,road_density
+FR_way_146091133,FR,,1057,1033,970,698,698,1057,359,165.12722367919832,0,stays_out,stays_out,stays_out,none,24,-63,-335,81,road_density
+FR_way_146091136,FR,,984,1021,960,680,680,1021,341,156.19512369682565,0,stays_out,stays_out,stays_out,none,-37,-61,-341,82,road_density
+FR_way_146091140,FR,,1001,1031,966,695,695,1031,336,154.46763415032936,0,stays_out,stays_out,stays_out,none,-30,-65,-336,79,population_density
+FR_way_149298432,FR,,751,446,578,819,446,819,373,168.87174620600885,0,stays_out,stays_out,stays_out,none,305,132,373,156,road_density
+FR_way_149301089,FR,,738,452,583,808,452,808,356,159.48955033690035,0,stays_out,stays_out,stays_out,none,286,131,356,147,road_density
+FR_way_149302427,FR,,764,456,589,813,456,813,357,164.11479722031973,0,stays_out,stays_out,stays_out,none,308,133,357,159,road_density
+FR_way_150378390,FR,Zayo Velizy,141,437,332,121,121,437,316,152.72497067168376,1,stays_out,stays_out,enters,some,-296,-105,-316,158,road_density
+FR_way_150382252,FR,DC2SCALE Vélizy Latécoère,539,542,385,141,141,542,401,188.6608509115409,0,stays_out,stays_out,stays_out,none,-3,-157,-401,192,urban_compactness
+FR_way_153973376,FR,La Pointe 1,947,886,890,618,618,947,329,147.48870013213443,0,stays_out,stays_out,stays_out,none,61,4,-268,97,anchors
+FR_way_154149196,FR,SFR Netcenter Bordeaux,573,710,556,482,482,710,228,95.09425149117409,0,stays_out,stays_out,stays_out,none,-137,-154,-228,80,road_density
+FR_way_159862898,FR,Digital Realty MRS2,412,525,462,427,412,525,113,50.242744086418426,0,stays_out,stays_out,stays_out,none,-113,-63,-98,84,anchors
+FR_way_159863825,FR,Digital Realty MRS3,487,583,509,472,472,583,111,49.23667332385485,0,stays_out,stays_out,stays_out,none,-96,-74,-111,65,anchors
+FR_way_160165248,FR,,299,331,460,628,299,628,329,149.51588544365444,0,stays_out,stays_out,stays_out,none,-32,129,297,174,road_density
+FR_way_160165252,FR,,313,334,466,635,313,635,322,148.35767590522573,0,stays_out,stays_out,stays_out,none,-21,132,301,175,road_density
+FR_way_160165278,FR,,270,321,440,607,270,607,337,149.69858605433342,0,stays_out,stays_out,stays_out,none,-51,119,286,165,road_density
+FR_way_176779630,FR,OVHcloud Roubaix - RBX3,220,181,257,323,181,323,142,60.41178141168603,0,stays_out,stays_out,stays_out,none,39,76,142,31,urban_compactness
+FR_way_191691715,FR,,1004,1081,1096,932,932,1096,164,75.77323626012902,0,stays_out,stays_out,stays_out,none,-77,15,-149,119,anchors
+FR_way_226246636,FR,,942,974,1132,1146,942,1146,204,105.46879475307692,0,stays_out,stays_out,stays_out,none,-32,158,172,131,anchors
+FR_way_226246780,FR,,924,965,1128,1142,924,1142,218,111.39830938274304,0,stays_out,stays_out,stays_out,none,-41,163,177,138,anchors
+FR_way_226247994,FR,,938,967,1130,1144,938,1144,206,107.32932187120784,0,stays_out,stays_out,stays_out,none,-29,163,177,137,anchors
+FR_way_226250681,FR,Datacenter EDF,946,991,1137,1152,946,1152,206,103.44241554281945,0,stays_out,stays_out,stays_out,none,-45,146,161,119,anchors
+FR_way_234729371,FR,OVHcloud Roubaix - RBX4,289,209,299,347,209,347,138,57.23635208501674,0,stays_out,stays_out,stays_out,none,80,90,138,62,anchors
+FR_way_249274111,FR,Datacenter Groupama,822,1002,1057,975,822,1057,235,100.62802790475425,0,stays_out,stays_out,stays_out,none,-180,55,-27,78,population_density
+FR_way_261420854,FR,Interxion PAR7,89,45,26,9,9,89,80,34.46133098609706,4,stays_top,stays_top,stays_top,all_four,44,-19,-36,70,anchors
+FR_way_313238933,FR,Etix Vendée #2,763,719,803,1016,719,1016,297,131.71275564652043,0,stays_out,stays_out,stays_out,none,44,84,297,78,anchors
+FR_way_320306630,FR,,1105,1047,973,706,706,1105,399,176.31293202712047,0,stays_out,stays_out,stays_out,none,58,-74,-341,90,road_density
+FR_way_320306631,FR,Data4 Marcoussis,1033,1025,964,685,685,1033,348,164.08610544467194,0,stays_out,stays_out,stays_out,none,8,-61,-340,90,road_density
+FR_way_359652564,FR,Ecocenter,766,685,597,503,503,766,263,113.28246407395395,0,stays_out,stays_out,stays_out,none,81,-88,-182,65,road_density
+FR_way_406798589,FR,,1185,1169,1189,1187,1169,1189,20,9.146948489341495,0,stays_out,stays_out,stays_out,none,16,20,18,9,population_density
+FR_way_421253670,FR,CNRS,1006,1014,962,676,676,1014,338,160.63519747137198,0,stays_out,stays_out,stays_out,none,-8,-52,-338,82,road_density
+FR_way_421253671,FR,,1110,1053,976,709,709,1110,401,177.3790667844809,0,stays_out,stays_out,stays_out,none,57,-77,-344,90,road_density
+FR_way_463443856,FR,Equinix PA2,62,67,56,60,56,67,11,4.573474244670748,4,stays_top,stays_top,stays_top,all_four,-5,-11,-7,19,road_density
+FR_way_468717472,FR,Greenfield,1117,1191,1200,1205,1117,1205,88,41.242170974218446,0,stays_out,stays_out,stays_out,none,-74,9,14,18,population_density
+FR_way_481746975,FR,Nexeren,1148,1127,1037,1027,1027,1148,121,61.64616776410355,0,stays_out,stays_out,stays_out,none,21,-90,-100,28,anchors
+FR_way_482853508,FR,Centre de Calcul de l’Université de Bourgogne,304,317,389,670,304,670,366,170.80788428328867,0,stays_out,stays_out,stays_out,none,-13,72,353,101,population_density
+FR_way_509892105,FR,Castle IT,1169,1122,1005,902,902,1169,267,120.10134609292825,0,stays_out,stays_out,stays_out,none,47,-117,-220,30,road_density
+FR_way_525667518,FR,Sigma Carquefou,871,704,840,692,692,871,179,91.93974476072177,0,stays_out,stays_out,stays_out,none,167,136,-12,140,anchors
+FR_way_537371615,FR,,344,230,115,88,88,344,256,117.2927249804238,2,stays_out,enters,enters,some,114,-115,-142,148,road_density
+FR_way_540389197,FR,,554,641,555,570,554,641,87,41.31989028704376,0,stays_out,stays_out,stays_out,none,-87,-86,-71,84,road_density
+FR_way_551480870,FR,OVHcloud Gravelines,1159,1162,1150,1161,1150,1162,12,5.477225575051661,0,stays_out,stays_out,stays_out,none,-3,-12,-1,19,population_density
+FR_way_551480895,FR,OVHcloud Gravelines,1156,1161,1149,1160,1149,1161,12,5.446711546122731,0,stays_out,stays_out,stays_out,none,-5,-12,-1,18,anchors
+FR_way_600607931,FR,CIV Anzin,706,593,667,884,593,884,291,123.56509755320607,0,stays_out,stays_out,stays_out,none,113,74,291,82,urban_compactness
+FR_way_650560924,FR,Bouygues Telecom,734,423,563,809,423,809,386,173.37315247753904,0,stays_out,stays_out,stays_out,none,311,140,386,164,road_density
+FR_way_664619554,FR,Free Pro - Datacenter Rock (LYO03),66,39,66,102,39,102,63,25.85053190942113,4,stays_top,stays_top,stays_top,all_four,27,27,63,35,road_density
+FR_way_664793692,FR,Ariane.Network Albi,864,802,885,1067,802,1067,265,113.9195622650766,0,stays_out,stays_out,stays_out,none,62,83,265,84,urban_compactness
+FR_way_667259766,FR,CIV Sainghin-en-Mélantois,785,792,562,352,352,792,440,209.73534911088942,0,stays_out,stays_out,stays_out,none,-7,-230,-440,133,anchors
+FR_way_683531738,FR,Station d'atterrage,1174,1175,1169,1148,1148,1175,27,12.609520212918492,0,stays_out,stays_out,stays_out,none,-1,-6,-27,12,anchors
+FR_way_700504282,FR,Interxion PAR4,294,167,160,120,120,294,174,75.39838636646455,1,stays_out,stays_out,enters,some,127,-7,-47,47,anchors
+FR_way_700526670,FR,Telehouse 3,1007,1080,1029,911,911,1080,169,70.77841007915714,0,stays_out,stays_out,stays_out,none,-73,-51,-169,90,population_density
+FR_way_700652111,FR,Le Prologue,196,125,91,84,84,196,112,51.23150072627842,2,stays_out,enters,enters,some,71,-34,-41,88,road_density
+FR_way_724757970,FR,,33,35,39,49,33,49,16,7.118052168020874,4,stays_top,stays_top,stays_top,all_four,-2,4,14,10,anchors
+FR_way_757483478,FR,Lille Etix #1,124,114,142,226,114,226,112,51.0,1,exits,exits,exits,some,10,28,112,24,urban_compactness
+FR_way_778874555,FR,Euclyde DC2,138,445,554,699,138,699,561,237.95097534296147,0,stays_out,stays_out,stays_out,none,-307,109,254,132,road_density
+FR_way_813676827,FR,Aquitem group,669,594,599,605,594,669,75,35.12240500497273,0,stays_out,stays_out,stays_out,none,75,5,11,78,road_density
+FR_way_843118512,FR,Cogent Tours,272,451,494,579,272,579,307,129.43209287756522,0,stays_out,stays_out,stays_out,none,-179,43,128,80,anchors
+FR_way_843508896,FR,Euclyde DC3,965,1101,979,815,815,1101,286,117.1779273868021,0,stays_out,stays_out,stays_out,none,-136,-122,-286,82,population_density
+FR_way_846772885,FR,Equinix PA13X,428,478,269,118,118,478,360,163.28987517091602,1,stays_out,stays_out,enters,some,-50,-209,-360,181,population_density
+FR_way_846779443,FR,Digital Realty PAR12,918,846,897,766,766,918,152,67.63320190557297,0,stays_out,stays_out,stays_out,none,72,51,-80,57,population_density
+FR_way_846872233,FR,Thésée DataCenter,744,736,935,904,736,935,199,104.45533335673515,0,stays_out,stays_out,stays_out,none,8,199,168,65,anchors
+FR_way_847106822,FR,Site technique SFR,828,714,617,767,617,828,211,89.42221946101166,0,stays_out,stays_out,stays_out,none,114,-97,53,61,road_density
+FR_way_847113959,FR,Site technique SFR,701,690,607,757,607,757,150,61.89439931582394,0,stays_out,stays_out,stays_out,none,11,-83,67,54,road_density
+FR_way_847120472,FR,Site technique SFR,678,691,653,268,268,691,423,203.61155828357747,0,stays_out,stays_out,stays_out,none,-13,-38,-423,98,urban_compactness
+FR_way_847239871,FR,Site Technique SFR,818,964,985,843,818,985,167,84.20015835297858,0,stays_out,stays_out,stays_out,none,-146,21,-121,64,anchors
+FR_way_847461128,FR,Equinix PA8X,426,130,97,86,86,426,340,161.9163878879055,2,stays_out,enters,enters,some,296,-33,-44,104,anchors
+FR_way_849203405,FR,Bâtiment Data Center,106,246,298,101,101,298,197,99.59375817121607,2,enters,stays_out,enters,some,-140,52,-145,85,urban_compactness
+FR_way_875153822,FR,Centre de données,1187,990,804,574,574,1187,613,261.6962297524874,0,stays_out,stays_out,stays_out,none,197,-186,-416,90,population_density
+FR_way_899899348,FR,,279,169,129,91,91,279,188,81.17470870494907,1,stays_out,stays_out,enters,some,110,-40,-78,53,population_density
+FR_way_902091581,FR,,664,722,767,780,664,780,116,52.43011221298946,0,stays_out,stays_out,stays_out,none,-58,45,58,88,road_density
+FR_way_920174789,FR,Equinix,922,803,730,623,623,922,299,125.6993768215791,0,stays_out,stays_out,stays_out,none,119,-73,-180,59,anchors
+FR_way_937369189,FR,Datacenter Data17,1101,1017,1069,1114,1017,1114,97,43.19239902266756,0,stays_out,stays_out,stays_out,none,84,52,97,75,population_density
+FR_way_944210675,FR,Nexeren,1144,1126,1033,1024,1024,1144,120,62.034264725230685,0,stays_out,stays_out,stays_out,none,18,-93,-102,27,anchors
+FR_way_952744491,FR,,1054,931,1038,1070,931,1070,139,62.87222492219173,0,stays_out,stays_out,stays_out,none,123,107,139,85,population_density
+FR_way_969469076,FR,Advanced Mediomatrix,617,752,662,647,617,752,135,58.09475019311125,0,stays_out,stays_out,stays_out,none,-135,-90,-105,72,population_density
+FR_way_980368572,FR,,170,163,120,161,120,170,50,22.6642155537461,1,stays_out,enters,stays_out,some,7,-43,-2,31,road_density
+FR_way_1030533210,FR,PAR8,136,87,71,46,46,136,90,37.95611501018863,3,exits,stays_top,stays_top,some,49,-16,-41,56,anchors
+FR_way_1038308860,FR,,760,843,845,822,760,845,85,39.719852299154724,0,stays_out,stays_out,stays_out,none,-83,2,-21,57,road_density
+FR_way_1060567996,FR,Equinix,932,809,734,629,629,932,303,127.53822956274719,0,stays_out,stays_out,stays_out,none,123,-75,-180,65,anchors
+FR_way_1061336199,FR,DC7 - Euclyde Datacenters,814,712,678,604,604,814,210,87.2238499494261,0,stays_out,stays_out,stays_out,none,102,-34,-108,70,population_density
+FR_way_1084581417,FR,PAR9,151,65,38,28,28,151,123,55.89573627150226,3,exits,stays_top,stays_top,some,86,-27,-37,97,anchors
+FR_way_1099624277,FR,,960,1003,949,648,648,1003,355,163.0071573070745,0,stays_out,stays_out,stays_out,none,-43,-54,-355,86,road_density
+FR_way_1099624278,FR,,978,1006,951,652,652,1006,354,164.7045334328516,0,stays_out,stays_out,stays_out,none,-28,-55,-354,90,road_density
+FR_way_1099624279,FR,,982,1010,957,662,662,1010,348,161.9534398111589,0,stays_out,stays_out,stays_out,none,-28,-53,-348,82,road_density
+FR_way_1099624280,FR,,1024,1011,963,674,674,1024,350,164.76852450230496,0,stays_out,stays_out,stays_out,none,13,-48,-337,88,road_density
+FR_way_1099624281,FR,,1130,1062,978,716,716,1130,414,181.32383553557798,0,stays_out,stays_out,stays_out,none,68,-84,-346,97,road_density
+FR_way_1099624283,FR,,955,995,946,644,644,995,351,162.0720004607006,0,stays_out,stays_out,stays_out,none,-40,-49,-351,83,road_density
+FR_way_1117375128,FR,Digital Realty MRS4,432,540,481,455,432,540,108,46.5259784063341,0,stays_out,stays_out,stays_out,none,-108,-59,-85,79,anchors
+FR_way_1118414289,FR,SostraData,1127,1157,1153,1125,1125,1157,32,16.842406795546374,0,stays_out,stays_out,stays_out,none,-30,-4,-32,38,anchors
+FR_way_1121454054,FR,Equinix PA10,70,70,58,61,58,70,12,6.18465843842649,4,stays_top,stays_top,stays_top,all_four,0,-12,-9,21,road_density
+FR_way_1121454055,FR,Equinix PA9X,48,59,44,54,44,59,15,6.601767440112787,4,stays_top,stays_top,stays_top,all_four,-11,-15,-5,23,road_density
+FR_way_1122298171,FR,,1082,1049,1001,707,707,1082,375,171.75054585066098,0,stays_out,stays_out,stays_out,none,33,-48,-342,86,population_density
+FR_way_1141021688,FR,Colt Paris 3,736,664,634,490,490,736,246,103.28601066940286,0,stays_out,stays_out,stays_out,none,72,-30,-174,118,anchors
+FR_way_1180419924,FR,,219,97,81,62,62,219,157,70.95714669197646,3,exits,stays_top,stays_top,some,122,-16,-35,109,anchors
+FR_way_1180419925,FR,,193,83,65,41,41,193,152,67.23838189605696,3,exits,stays_top,stays_top,some,110,-18,-42,103,anchors
+FR_way_1257814939,FR,OVHcloud Strasbourg - SBG-5,887,673,676,782,673,887,214,101.84465294424315,0,stays_out,stays_out,stays_out,none,214,3,109,95,anchors
+FR_way_1273311891,FR,,998,1037,998,702,702,1037,335,155.59000610579074,0,stays_out,stays_out,stays_out,none,-39,-39,-335,83,population_density
+FR_way_1288320747,FR,Centre de Calculs et de Données LyonTech-la Doua,86,71,103,142,71,142,71,30.599564267050166,3,stays_top,stays_top,exits,some,15,32,71,40,road_density
+FR_way_1342103498,FR,Centre de Calculs et de Données LyonTech-la Doua,91,69,104,144,69,144,75,31.506613062445584,3,stays_top,stays_top,exits,some,22,35,75,41,road_density
+FR_way_1342103499,FR,Centre de Calculs et de Données LyonTech-la Doua,87,72,106,145,72,145,73,31.564748269760262,3,stays_top,stays_top,exits,some,15,34,73,41,road_density
+FR_way_1342103500,FR,Centre de Calculs et de Données LyonTech-la Doua,84,75,107,146,75,146,71,31.675437381878933,3,stays_top,stays_top,exits,some,9,32,71,41,road_density
+FR_way_1342103501,FR,Centre de Calculs et de Données LyonTech-la Doua,88,74,108,147,74,147,73,31.731950249971504,3,stays_top,stays_top,exits,some,14,34,73,41,road_density
+FR_way_1342264087,FR,,1031,1028,965,687,687,1031,344,163.35926664869672,0,stays_out,stays_out,stays_out,none,3,-63,-341,83,road_density
+FR_relation_1074421,FR,Euclyde DC1,858,785,686,726,686,858,172,74.84372607863222,0,stays_out,stays_out,stays_out,none,73,-99,-59,116,anchors
+FR_relation_1190245,FR,Digital Realty Paris PAR6,45,81,35,37,35,81,46,21.439838307848003,4,stays_top,stays_top,stays_top,all_four,-36,-46,-44,35,road_density
+FR_relation_1227851,FR,Equinix PA7,200,123,83,76,76,200,124,56.90049794744038,2,stays_out,enters,enters,some,77,-40,-47,101,road_density
+FR_relation_1547056,FR,,240,666,530,622,240,666,426,191.5715706117864,0,stays_out,stays_out,stays_out,none,-426,-136,-44,120,road_density
+FR_relation_1604367,FR,Datacenter IBM,475,662,600,435,435,662,227,105.98427556324884,0,stays_out,stays_out,stays_out,none,-187,-62,-227,110,road_density
+FR_relation_3358244,FR,Centre Régional de Ressources Informatiques (CRRI),125,98,232,480,98,480,382,174.0658400337834,1,exits,exits,exits,some,27,134,382,94,road_density
+FR_relation_3718269,FR,CINES,153,266,343,443,153,443,290,122.55168977483201,0,stays_out,stays_out,stays_out,none,-113,77,177,82,anchors
+FR_relation_3820004,FR,,654,766,687,773,654,773,119,58.79342366852492,0,stays_out,stays_out,stays_out,none,-112,-79,7,67,anchors
+FR_relation_5888279,FR,SFR,529,544,402,148,148,544,396,183.26006111534505,0,stays_out,stays_out,stays_out,none,-15,-142,-396,189,urban_compactness
+FR_relation_8812014,FR,OVHcloud Roubaix - RBX2,283,207,286,341,207,341,134,55.05376160324258,0,stays_out,stays_out,stays_out,none,76,79,134,60,anchors
+FR_relation_9701471,FR,Free Pro - Datacenter Limonest (LYO02 - DCForData),392,541,371,228,228,541,313,128.0807037249041,0,stays_out,stays_out,stays_out,none,-149,-170,-313,152,population_density
+FR_relation_13829451,FR,,280,335,396,586,280,586,306,133.21004716862265,0,stays_out,stays_out,stays_out,none,-55,61,251,123,road_density
+GB_node_7778067710,GB,Next Generation Data,917,1034,828,802,802,1034,232,104.78986910320418,0,stays_out,stays_out,stays_out,none,-117,-206,-232,172,anchors
+GB_node_7829977772,GB,Redcentric Cambridge,445,376,475,649,376,649,273,116.14753548827457,0,stays_out,stays_out,stays_out,none,69,99,273,168,anchors
+GB_node_8242627702,GB,,724,581,582,603,581,724,143,68.4227057829977,0,stays_out,stays_out,stays_out,none,143,1,22,137,anchors
+GB_node_8325036723,GB,Serverhouse,703,715,822,817,703,822,119,64.01757571167468,0,stays_out,stays_out,stays_out,none,-12,107,102,84,road_density
+GB_node_8721229187,GB,,823,814,700,620,620,823,203,97.23296766015115,0,stays_out,stays_out,stays_out,none,9,-114,-194,53,road_density
+GB_node_9253910552,GB,brightsolid Data Centre,139,258,314,527,139,527,388,162.32580406905942,0,stays_out,stays_out,stays_out,none,-119,56,269,71,population_density
+GB_node_9458930462,GB,CityFibre Cabinets,258,557,476,562,258,562,304,142.39703882688949,0,stays_out,stays_out,stays_out,none,-299,-81,5,104,anchors
+GB_node_10029665515,GB,Insight Data Ltd,427,670,776,950,427,950,523,218.76376147189765,0,stays_out,stays_out,stays_out,none,-243,106,280,100,population_density
+GB_node_11064014638,GB,UoS IT Services,28,79,140,261,28,261,233,100.38260141412289,2,stays_top,exits,exits,some,-51,61,182,40,urban_compactness
+GB_node_11161995738,GB,Centerprise International Newport,899,940,820,796,796,940,144,67.23280449304491,0,stays_out,stays_out,stays_out,none,-41,-120,-144,98,anchors
+GB_node_11162004018,GB,Centerprise International (Distribution),748,820,782,740,740,820,80,36.528527664461556,0,stays_out,stays_out,stays_out,none,-72,-38,-80,60,anchors
+GB_node_11167049138,GB,Hive IT,34,104,176,332,34,332,298,127.59702190882042,2,stays_top,exits,exits,some,-70,72,228,43,urban_compactness
+GB_node_11640787539,GB,Netwise,180,101,118,93,93,180,87,39.403891516786345,3,exits,stays_top,stays_top,some,79,17,-8,29,road_density
+GB_node_11902288339,GB,AWS Bracknell Data Centre,795,668,706,730,668,795,127,53.33776023294067,0,stays_out,stays_out,stays_out,none,127,38,62,107,anchors
+GB_node_11902392009,GB,AWS Swindon Data Centre,1178,999,904,967,904,1178,274,117.4932622181658,0,stays_out,stays_out,stays_out,none,179,-95,-32,88,population_density
+GB_node_12292494768,GB,,322,371,482,539,322,539,217,99.53391381835641,0,stays_out,stays_out,stays_out,none,-49,111,168,132,road_density
+GB_node_12300408592,GB,DataVita DV2,30,25,64,124,25,124,99,45.5878273226527,3,stays_top,stays_top,exits,some,5,39,99,44,road_density
+GB_node_12303136063,GB,Equinix MA1,47,73,116,122,47,122,75,35.76310948449533,4,stays_top,stays_top,stays_top,all_four,-26,43,49,24,anchors
+GB_node_12303136064,GB,Equinix MA4,73,63,113,116,63,116,53,27.183021661814323,4,stays_top,stays_top,stays_top,all_four,10,50,53,72,road_density
+GB_way_23439047,GB,Digital Realty LHR17,855,778,429,246,246,855,609,288.1839690197912,0,stays_out,stays_out,stays_out,none,77,-349,-532,147,anchors
+GB_way_23571724,GB,Digital Realty,804,427,289,242,242,804,562,254.7345023091035,0,stays_out,stays_out,stays_out,none,377,-138,-185,137,population_density
+GB_way_26794336,GB,Vantage Data Centers - CWL1,898,947,837,816,816,947,131,59.545500809604974,0,stays_out,stays_out,stays_out,none,-49,-110,-131,88,anchors
+GB_way_27618472,GB,,441,198,137,95,95,441,346,154.72421702284788,1,stays_out,stays_out,enters,some,243,-61,-103,82,population_density
+GB_way_27618478,GB,Equinix LD3,431,200,139,96,96,431,335,149.23024715742673,1,stays_out,stays_out,enters,some,231,-61,-104,72,population_density
+GB_way_27756169,GB,Digital Realty LHR13,551,529,448,356,356,551,195,88.540009788419,0,stays_out,stays_out,stays_out,none,22,-81,-173,77,urban_compactness
+GB_way_28073975,GB,Astrohouse,696,709,819,810,696,819,123,64.98461356351979,0,stays_out,stays_out,stays_out,none,-13,110,101,84,road_density
+GB_way_28074414,GB,SCC,671,706,817,800,671,817,146,71.07976739785614,0,stays_out,stays_out,stays_out,none,-35,111,94,94,road_density
+GB_way_29120456,GB,,747,624,472,241,241,747,506,217.9342408464841,0,stays_out,stays_out,stays_out,none,123,-152,-383,166,road_density
+GB_way_30914305,GB,Iron Mountain,597,615,514,416,416,615,199,91.00366292994292,0,stays_out,stays_out,stays_out,none,-18,-101,-199,74,road_density
+GB_way_32295873,GB,The Babbage Centre,688,749,725,789,688,789,101,42.39005386487102,0,stays_out,stays_out,stays_out,none,-61,-24,40,103,anchors
+GB_way_33503496,GB,Verne Global London Data Centre,6,2,2,4,2,6,4,1.9148542155126762,4,stays_top,stays_top,stays_top,all_four,4,0,2,5,anchors
+GB_way_34160179,GB,Telehouse West,129,95,72,65,65,129,64,28.8371866404012,3,exits,stays_top,stays_top,some,34,-23,-30,26,anchors
+GB_way_34520874,GB,Digital Realty LGW14,746,760,877,788,746,877,131,58.81822279985458,0,stays_out,stays_out,stays_out,none,-14,117,28,72,road_density
+GB_way_37943653,GB,Pulsant Edinburgh South Gyle SC-1,329,310,473,538,310,538,228,110.88883322198558,0,stays_out,stays_out,stays_out,none,19,163,228,152,road_density
+GB_way_37943663,GB,Pulsant Edinburgh South Gyle SC-1,293,282,445,517,282,517,235,115.60673279124649,0,stays_out,stays_out,stays_out,none,11,163,235,145,road_density
+GB_way_38242832,GB,LDeX 1,227,126,117,82,82,227,145,62.294997123899655,2,stays_out,enters,enters,some,101,-9,-44,56,road_density
+GB_way_38575403,GB,Experian,989,1040,975,741,741,1040,299,133.12994904728737,0,stays_out,stays_out,stays_out,none,-51,-65,-299,109,population_density
+GB_way_44107140,GB,Goswell Road Data Centre,13,8,6,22,6,22,16,7.135591542869215,4,stays_top,stays_top,stays_top,all_four,5,-2,14,13,road_density
+GB_way_44610344,GB,Morgan Stanley Data Centre,447,330,342,266,266,447,181,74.99499983332223,0,stays_out,stays_out,stays_out,none,117,12,-64,62,road_density
+GB_way_45131691,GB,,365,257,154,113,113,365,252,112.81068211831715,1,stays_out,stays_out,enters,some,108,-103,-144,68,road_density
+GB_way_49602062,GB,Pulsant Maidenhead,808,817,792,653,653,817,164,77.03029706983264,0,stays_out,stays_out,stays_out,none,-9,-25,-164,65,anchors
+GB_way_49602063,GB,Pulsant Maidenhead,788,804,763,616,616,804,188,86.16795614766934,0,stays_out,stays_out,stays_out,none,-16,-41,-188,56,anchors
+GB_way_53045250,GB,Fujitsu Data Centre,791,750,611,502,502,791,289,132.38454089003997,0,stays_out,stays_out,stays_out,none,41,-139,-248,118,anchors
+GB_way_61123230,GB,Edinburgh SC-2,221,348,478,511,221,511,290,132.55061926172456,0,stays_out,stays_out,stays_out,none,-127,130,163,77,road_density
+GB_way_63983065,GB,Pulsant Reading East,362,338,430,595,338,595,257,115.91196371959771,0,stays_out,stays_out,stays_out,none,24,92,257,82,population_density
+GB_way_81633700,GB,Rackspace London Slough (LON3),421,393,566,591,393,591,198,100.19439438744398,0,stays_out,stays_out,stays_out,none,28,173,198,104,population_density
+GB_way_81633882,GB,Logicalis Slough,483,524,629,661,483,661,178,84.40922145516251,0,stays_out,stays_out,stays_out,none,-41,105,137,85,anchors
+GB_way_86528807,GB,Equinix LD5,663,578,735,710,578,735,157,69.11102179343996,0,stays_out,stays_out,stays_out,none,85,157,132,67,population_density
+GB_way_87850427,GB,,705,584,624,941,584,941,357,159.80091781129835,0,stays_out,stays_out,stays_out,none,121,40,357,119,anchors
+GB_way_87850564,GB,,710,579,610,924,579,924,345,155.868267029138,0,stays_out,stays_out,stays_out,none,131,31,345,114,anchors
+GB_way_87850741,GB,,714,585,614,934,585,934,349,158.1357539162686,0,stays_out,stays_out,stays_out,none,129,29,349,116,anchors
+GB_way_90550466,GB,Restore Records Management,835,861,827,763,763,861,98,41.6132991562393,0,stays_out,stays_out,stays_out,none,-26,-34,-98,32,anchors
+GB_way_96173979,GB,Pulsant,134,201,312,504,134,504,370,161.77839781627213,0,stays_out,stays_out,stays_out,none,-67,111,303,69,road_density
+GB_way_98134606,GB,Welwyn Data Centre,749,762,922,977,749,977,228,114.35762618499331,0,stays_out,stays_out,stays_out,none,-13,160,215,83,anchors
+GB_way_100299967,GB,Braham Street Data Centre,10,5,3,7,3,10,7,2.9860788111948193,4,stays_top,stays_top,stays_top,all_four,5,-2,2,5,road_density
+GB_way_103765318,GB,RBS Melville Gate Data Centre,759,696,620,596,596,759,163,74.28043708361801,0,stays_out,stays_out,stays_out,none,63,-76,-100,79,population_density
+GB_way_117581892,GB,Reynoldston Cable Landing Station,1136,1156,1147,1112,1112,1156,44,19.015344680897407,0,stays_out,stays_out,stays_out,none,-20,-9,-44,33,anchors
+GB_way_117662106,GB,Brean Cable Landing Station,1180,1200,1192,1135,1135,1200,65,29.0215437218629,0,stays_out,stays_out,stays_out,none,-20,-8,-65,14,population_density
+GB_way_128487593,GB,IBM Horsham,794,1078,1091,1046,794,1091,297,140.11513123142697,0,stays_out,stays_out,stays_out,none,-284,13,-32,141,population_density
+GB_way_129823651,GB,VocaLink,1040,1072,1013,1096,1013,1096,83,36.32606961031338,0,stays_out,stays_out,stays_out,none,-32,-59,24,59,anchors
+GB_way_131474700,GB,Ark Data Centres Meridian Park,453,226,172,129,129,453,324,144.23360680969373,0,stays_out,stays_out,stays_out,none,227,-54,-97,119,anchors
+GB_way_133868759,GB,iomart Glasgow Data Centre,71,53,75,125,53,125,72,30.854497241083024,3,stays_top,stays_top,exits,some,18,22,72,59,road_density
+GB_way_134915217,GB,Tata Communications Highbridge Datacentre,847,867,1046,1061,847,1061,214,113.90749170562341,0,stays_out,stays_out,stays_out,none,-20,179,194,93,anchors
+GB_way_147532741,GB,Lloyds Banking Group Copley,535,412,601,513,412,601,189,78.33421985313953,0,stays_out,stays_out,stays_out,none,123,189,101,83,anchors
+GB_way_157178049,GB,Global Switch London East,131,115,80,70,70,131,61,28.763402673072832,3,exits,stays_top,stays_top,some,16,-35,-45,26,road_density
+GB_way_164113041,GB,,1209,1210,1209,1212,1209,1212,3,1.4142135623730951,0,stays_out,stays_out,stays_out,none,-1,-1,2,2,anchors
+GB_way_164527297,GB,Redcentric London,17,9,8,25,8,25,17,7.932002689527196,4,stays_top,stays_top,stays_top,all_four,8,-1,16,9,road_density
+GB_way_166184208,GB,,831,898,831,993,831,993,162,76.64365596707923,0,stays_out,stays_out,stays_out,none,-67,-67,95,49,road_density
+GB_way_166407577,GB,Joule House,300,161,122,137,122,300,178,81.59656855530139,1,stays_out,enters,stays_out,some,139,-39,-24,40,population_density
+GB_way_178312270,GB,Starwood House,607,676,959,960,607,960,353,185.7462426717339,0,stays_out,stays_out,stays_out,none,-69,283,284,88,anchors
+GB_way_180779572,GB,Pulsant South London,599,281,339,262,262,599,337,155.97729535630071,0,stays_out,stays_out,stays_out,none,318,58,-19,124,urban_compactness
+GB_way_182622783,GB,NTT,830,667,788,771,667,830,163,69.25797186365384,0,stays_out,stays_out,stays_out,none,163,121,104,106,population_density
+GB_way_184071840,GB,Winterton Cable Landing Station,1181,1198,1196,1206,1181,1206,25,10.436314802968846,0,stays_out,stays_out,stays_out,none,-17,-2,8,10,population_density
+GB_way_187251460,GB,Skyways,685,417,301,223,223,685,462,202.0519735117675,0,stays_out,stays_out,stays_out,none,268,-116,-194,163,anchors
+GB_way_190297843,GB,Cable & Wireless Data Centre,119,99,60,45,45,119,74,34.1796723214252,4,stays_top,stays_top,stays_top,all_four,20,-39,-54,23,anchors
+GB_way_190449012,GB,British Telecom Computer Centre,954,847,660,398,398,954,556,243.6245403621455,0,stays_out,stays_out,stays_out,none,107,-187,-449,146,anchors
+GB_way_191603111,GB,RBS Data Centre,883,1115,1018,1031,883,1115,232,95.9978298365819,0,stays_out,stays_out,stays_out,none,-232,-97,-84,87,population_density
+GB_way_191842525,GB,Digital Realty,306,173,111,85,85,306,221,98.66568130138597,2,stays_out,enters,enters,some,133,-62,-88,107,road_density
+GB_way_193806160,GB,Telehouse South,120,107,63,59,59,120,61,30.81531004765867,4,stays_top,stays_top,stays_top,all_four,13,-44,-48,37,road_density
+GB_way_194508831,GB,,916,701,407,312,312,916,604,276.4211762269068,0,stays_out,stays_out,stays_out,none,215,-294,-389,152,anchors
+GB_way_196783604,GB,Global Switch London North,97,90,51,51,51,97,46,24.70323865407125,4,stays_top,stays_top,stays_top,all_four,7,-39,-39,29,anchors
+GB_way_200338749,GB,R89,926,1118,1131,1052,926,1131,205,93.77766258550061,0,stays_out,stays_out,stays_out,none,-192,13,-66,51,population_density
+GB_way_201843176,GB,DXC Wynyard Data Center,987,839,913,720,720,987,267,113.85480519796548,0,stays_out,stays_out,stays_out,none,148,74,-119,114,population_density
+GB_way_202085268,GB,Redcentric Elland Data Centre,778,726,541,521,521,778,257,129.60581262685199,0,stays_out,stays_out,stays_out,none,52,-185,-205,72,urban_compactness
+GB_way_203500066,GB,BT Computer Centre,861,799,900,852,799,900,101,41.593268686170845,0,stays_out,stays_out,stays_out,none,62,101,53,71,road_density
+GB_way_206625800,GB,Telehouse North,72,84,48,50,48,84,36,17.46424919657298,4,stays_top,stays_top,stays_top,all_four,-12,-36,-34,31,anchors
+GB_way_206625804,GB,Telehouse East,110,88,53,53,53,110,57,28.035691537752374,4,stays_top,stays_top,stays_top,all_four,22,-35,-35,30,anchors
+GB_way_221131413,GB,Infinity Stockley Park,444,482,378,285,285,482,197,86.29165660711352,0,stays_out,stays_out,stays_out,none,-38,-104,-197,81,road_density
+GB_way_222789497,GB,Kao Data KLON-05,424,325,273,175,175,424,249,103.84724358402586,0,stays_out,stays_out,stays_out,none,99,-52,-150,75,anchors
+GB_way_225909384,GB,Telefonica Data Centre,682,640,780,752,640,780,140,64.02863942539047,0,stays_out,stays_out,stays_out,none,42,140,112,72,population_density
+GB_way_225909388,GB,Equinix LD11x,640,599,719,696,599,719,120,54.31083378725341,0,stays_out,stays_out,stays_out,none,41,120,97,70,anchors
+GB_way_225909390,GB,Equinix LD4,666,607,743,719,607,743,136,60.43936355279286,0,stays_out,stays_out,stays_out,none,59,136,112,70,anchors
+GB_way_240952254,GB,Virtus London 1,278,256,336,265,256,336,80,35.984950558068945,0,stays_out,stays_out,stays_out,none,22,80,9,51,urban_compactness
+GB_way_251948724,GB,Edinburgh SC-3,849,956,1004,718,718,1004,286,126.94454169702085,0,stays_out,stays_out,stays_out,none,-107,48,-238,102,population_density
+GB_way_254132701,GB,Redcentric London West Data Centre,461,327,333,258,258,461,203,84.64189270095513,0,stays_out,stays_out,stays_out,none,134,6,-69,111,anchors
+GB_way_257754194,GB,Equinix LD8,273,159,110,79,79,273,194,85.12882394739556,2,stays_out,enters,enters,some,114,-49,-80,100,road_density
+GB_way_258625769,GB,Equinix LD8,252,146,109,74,74,252,178,76.99945887255745,2,stays_out,enters,enters,some,106,-37,-72,106,road_density
+GB_way_267568325,GB,Sky,21,22,22,34,21,34,13,6.18465843842649,4,stays_top,stays_top,stays_top,all_four,-1,0,12,4,urban_compactness
+GB_way_270023895,GB,IP House London Datacentre,121,54,70,67,54,121,67,29.49576240750525,4,stays_top,stays_top,stays_top,all_four,67,16,13,49,anchors
+GB_way_270426364,GB,Digital Realty London LON3,15,26,21,33,15,33,18,7.632168761236874,4,stays_top,stays_top,stays_top,all_four,-11,-5,7,12,anchors
+GB_way_303243253,GB,Lanis 1 Cable Landing Station,651,679,729,905,651,905,254,113.99415189678226,0,stays_out,stays_out,stays_out,none,-28,50,226,87,urban_compactness
+GB_way_313738624,GB,Skewjack Cable Landing Station,1200,1188,1195,1198,1188,1200,12,5.251983752196243,0,stays_out,stays_out,stays_out,none,12,7,10,10,anchors
+GB_way_313739698,GB,Lands End Cable Landing Station,1198,1186,1193,1197,1186,1198,12,5.446711546122731,0,stays_out,stays_out,stays_out,none,12,7,11,10,population_density
+GB_way_320724394,GB,Digital Realty LHR20,154,96,61,44,44,154,110,48.58926493235585,3,exits,stays_top,stays_top,some,58,-35,-52,44,road_density
+GB_way_364385695,GB,,816,900,999,985,816,999,183,84.8174510345601,0,stays_out,stays_out,stays_out,none,-84,99,85,65,anchors
+GB_way_375842477,GB,Six Degrees Data Centre,646,314,169,111,111,646,535,239.71788975098764,1,stays_out,stays_out,enters,some,332,-145,-203,109,road_density
+GB_way_375842478,GB,Six Degrees Data Centre,631,298,158,106,106,631,525,236.18689633423782,1,stays_out,stays_out,enters,some,333,-140,-192,107,road_density
+GB_way_393243674,GB,Iron Mountain London LON-1,723,660,836,786,660,836,176,76.40844194197392,0,stays_out,stays_out,stays_out,none,63,176,126,76,anchors
+GB_way_403124342,GB,,630,440,639,548,440,639,199,92.39904400659854,0,stays_out,stays_out,stays_out,none,190,199,108,178,anchors
+GB_way_403124345,GB,,553,430,633,540,430,633,203,83.49451079761671,0,stays_out,stays_out,stays_out,none,123,203,110,90,anchors
+GB_way_444197674,GB,Cable & Wireless Cable Landing Station,1212,1212,1211,1213,1211,1213,2,0.816496580927726,0,stays_out,stays_out,stays_out,none,0,-1,1,2,anchors
+GB_way_447240912,GB,,549,739,691,577,549,739,190,90.64215354899729,0,stays_out,stays_out,stays_out,none,-190,-48,-162,99,population_density
+GB_way_447245005,GB,NTT Slough,237,290,464,487,237,487,250,124.65017716259639,0,stays_out,stays_out,stays_out,none,-53,174,197,89,population_density
+GB_way_447245008,GB,Centurylink London 1,328,370,548,594,328,594,266,130.67006798294193,0,stays_out,stays_out,stays_out,none,-42,178,224,117,population_density
+GB_way_447245009,GB,Kao Data KLON-06,303,351,525,567,303,567,264,129.0929897399545,0,stays_out,stays_out,stays_out,none,-48,174,216,103,population_density
+GB_way_447320367,GB,Centurylink London 5,337,366,553,601,337,601,264,132.1902038730556,0,stays_out,stays_out,stays_out,none,-29,187,235,115,population_density
+GB_way_458603045,GB,Whitesands Cable Landing Station,1103,1151,1167,1176,1103,1176,73,32.52050635112149,0,stays_out,stays_out,stays_out,none,-48,16,25,20,anchors
+GB_way_458603047,GB,,1053,1138,1160,1165,1053,1165,112,52.00640986134946,0,stays_out,stays_out,stays_out,none,-85,22,27,27,anchors
+GB_way_458603048,GB,,1193,1177,1188,1194,1177,1194,17,7.788880963698615,0,stays_out,stays_out,stays_out,none,16,11,17,12,population_density
+GB_way_458603189,GB,ESAT 1 Cable Landing Station,1099,1143,1154,1173,1099,1173,74,31.383382014478087,0,stays_out,stays_out,stays_out,none,-44,11,30,26,anchors
+GB_way_458775803,GB,Level3 Cable Landing Station,852,942,1115,1154,852,1154,302,142.84811280984195,0,stays_out,stays_out,stays_out,none,-90,173,212,142,anchors
+GB_way_458775806,GB,TAT14 Cable Landing Station,799,926,1104,1147,799,1147,348,161.4083847470963,0,stays_out,stays_out,stays_out,none,-127,178,221,144,anchors
+GB_way_458775807,GB,,739,911,1099,1138,739,1138,399,184.1147739862285,0,stays_out,stays_out,stays_out,none,-172,188,227,143,anchors
+GB_way_458775808,GB,,782,928,1110,1150,782,1150,368,170.37507642453653,0,stays_out,stays_out,stays_out,none,-146,182,222,144,anchors
+GB_way_459025630,GB,Digital Realty Phoenix House,458,611,756,881,458,881,423,182.73204426153615,0,stays_out,stays_out,stays_out,none,-153,145,270,130,urban_compactness
+GB_way_459572486,GB,VIRTUS Slough London 3 and 4,479,554,724,663,479,724,245,109.5475543618691,0,stays_out,stays_out,stays_out,none,-75,170,109,71,population_density
+GB_way_459589221,GB,UBS Data Centre,402,326,287,225,225,402,177,74.10353117991971,0,stays_out,stays_out,stays_out,none,76,-39,-101,148,road_density
+GB_way_459600800,GB,Virtus London 10,470,528,623,646,470,646,176,82.27342624849574,0,stays_out,stays_out,stays_out,none,-58,95,118,83,population_density
+GB_way_459600829,GB,Lumen,371,435,536,515,371,536,165,75.88313383091133,0,stays_out,stays_out,stays_out,none,-64,101,80,100,anchors
+GB_way_459613192,GB,,455,244,141,105,105,455,350,157.2797401659434,1,stays_out,stays_out,enters,some,211,-103,-139,74,road_density
+GB_way_460010262,GB,Pulsant Milton Keynes SE-1,606,621,588,829,588,829,241,112.80957406177899,0,stays_out,stays_out,stays_out,none,-15,-33,208,66,population_density
+GB_way_460010263,GB,,637,627,598,841,598,841,243,111.40130160819487,0,stays_out,stays_out,stays_out,none,10,-29,214,67,population_density
+GB_way_460206687,GB,Venture West,1121,1089,934,1039,934,1121,187,81.78579746304774,0,stays_out,stays_out,stays_out,none,32,-155,-50,65,anchors
+GB_way_460210729,GB,The Bunker - South East Data Centre,1158,1150,1176,1109,1109,1176,67,28.335784207723396,0,stays_out,stays_out,stays_out,none,8,26,-41,23,anchors
+GB_way_460244923,GB,CGG,456,692,762,794,456,794,338,152.72633477345462,0,stays_out,stays_out,stays_out,none,-236,70,102,106,anchors
+GB_way_460244927,GB,Digital Realty,538,733,796,844,538,844,306,134.4181907332486,0,stays_out,stays_out,stays_out,none,-195,63,111,102,anchors
+GB_way_460244928,GB,Digital Realty,506,720,785,828,506,828,322,142.90410537606445,0,stays_out,stays_out,stays_out,none,-214,65,108,104,anchors
+GB_way_460246772,GB,The Chess Building,680,634,579,492,492,680,188,80.83883142813649,0,stays_out,stays_out,stays_out,none,46,-55,-142,62,road_density
+GB_way_460956016,GB,Imperium 315,733,605,638,755,605,755,150,72.55515143668298,0,stays_out,stays_out,stays_out,none,128,33,150,107,anchors
+GB_way_490844969,GB,DataVita DV1,684,808,713,590,590,808,218,89.78260781836684,0,stays_out,stays_out,stays_out,none,-124,-95,-218,106,anchors
+GB_way_497956675,GB,Telehouse North Two,100,80,40,42,40,100,60,29.4561821468205,4,stays_top,stays_top,stays_top,all_four,20,-40,-38,35,anchors
+GB_way_503988314,GB,The Horizon Centre,1188,1135,1063,1085,1063,1188,125,55.685874929524694,0,stays_out,stays_out,stays_out,none,53,-72,-50,26,population_density
+GB_way_510493859,GB,DXC Technology,969,1117,1129,1115,969,1129,160,75.91881628862944,0,stays_out,stays_out,stays_out,none,-148,12,-2,54,population_density
+GB_way_526426719,GB,,438,413,625,781,413,781,368,172.71049958432368,0,stays_out,stays_out,stays_out,none,25,212,368,114,urban_compactness
+GB_way_574135457,GB,Ark Data Centres,1012,1041,1111,1045,1012,1111,99,41.8359892915179,0,stays_out,stays_out,stays_out,none,-29,70,4,54,population_density
+GB_way_574135468,GB,Ark Data Centres,1036,1057,1112,1044,1036,1112,76,34.27705743885649,0,stays_out,stays_out,stays_out,none,-21,55,-13,41,population_density
+GB_way_574135471,GB,Ark Data Centres,1062,1065,1108,1038,1038,1108,70,29.124731758421397,0,stays_out,stays_out,stays_out,none,-3,43,-27,34,population_density
+GB_way_613855632,GB,Hellermann Tyton Data,518,373,506,790,373,790,417,174.97309316958803,0,stays_out,stays_out,stays_out,none,145,133,417,113,urban_compactness
+GB_way_665572144,GB,,635,587,683,733,587,733,146,62.74551776820397,0,stays_out,stays_out,stays_out,none,48,96,146,69,population_density
+GB_way_665572148,GB,CyrusOne London 1,633,596,768,736,596,768,172,81.85912696008104,0,stays_out,stays_out,stays_out,none,37,172,140,76,population_density
+GB_way_699790674,GB,Kao Data KLON-01,592,563,711,886,563,886,323,146.7128715098531,0,stays_out,stays_out,stays_out,none,29,148,323,85,population_density
+GB_way_702784280,GB,Equinix LD10,638,588,684,734,588,734,146,62.49266623639396,0,stays_out,stays_out,stays_out,none,50,96,146,72,population_density
+GB_way_703959498,GB,,257,265,197,143,143,265,122,57.0701322935211,0,stays_out,stays_out,stays_out,none,-8,-68,-122,81,road_density
+GB_way_705064992,GB,Equinix LD12,667,619,753,724,619,753,134,59.7013400184619,0,stays_out,stays_out,stays_out,none,48,134,105,69,population_density
+GB_way_705065012,GB,CyrusOne London III,679,651,823,776,651,823,172,80.801712028067,0,stays_out,stays_out,stays_out,none,28,172,125,71,population_density
+GB_way_705065014,GB,Virtus London 3,489,552,650,678,489,678,189,87.5,0,stays_out,stays_out,stays_out,none,-63,98,126,74,population_density
+GB_way_705085805,GB,Virtus London6,598,367,375,271,271,598,327,138.4783376561114,0,stays_out,stays_out,stays_out,none,231,8,-96,118,anchors
+GB_way_705085806,GB,Virtus London5,601,402,388,287,287,601,314,131.3988838105814,0,stays_out,stays_out,stays_out,none,199,-14,-115,102,anchors
+GB_way_705085807,GB,Virtus London7,582,461,428,317,317,582,265,109.0596167240652,0,stays_out,stays_out,stays_out,none,121,-33,-144,96,road_density
+GB_way_706624099,GB,,366,274,185,119,119,366,247,107.44611052367911,1,stays_out,stays_out,enters,some,92,-89,-155,91,road_density
+GB_way_706624302,GB,,386,254,155,112,112,386,274,121.68093523637957,1,stays_out,stays_out,enters,some,132,-99,-142,96,road_density
+GB_way_706624303,GB,Equinix LD9,376,260,165,115,115,376,261,114.98115787670024,1,stays_out,stays_out,enters,some,116,-95,-145,88,road_density
+GB_way_710050084,GB,,533,735,958,1014,533,1014,481,220.51001488972483,0,stays_out,stays_out,stays_out,none,-202,223,279,109,urban_compactness
+GB_way_712277376,GB,Equinix LD6,693,628,783,758,628,783,155,69.58208581716035,0,stays_out,stays_out,stays_out,none,65,155,130,71,population_density
+GB_way_713651005,GB,Surrey Data Park,741,853,943,936,741,943,202,94.16784660027717,0,stays_out,stays_out,stays_out,none,-112,90,83,54,population_density
+GB_way_726129785,GB,Delta House,532,495,507,425,425,532,107,45.835757511648765,0,stays_out,stays_out,stays_out,none,37,12,-70,137,road_density
+GB_way_729539167,GB,CXD Infrastructure Solutions,653,675,773,883,653,883,230,105.17921214130988,0,stays_out,stays_out,stays_out,none,-22,98,208,52,population_density
+GB_way_732605607,GB,CGI Datacenter,856,815,967,988,815,988,173,84.1130192063036,0,stays_out,stays_out,stays_out,none,41,152,173,70,population_density
+GB_way_735444062,GB,Equinix LD7,709,646,810,775,646,810,164,72.62231062146122,0,stays_out,stays_out,stays_out,none,63,164,129,73,anchors
+GB_way_735444063,GB,China Mobile Slough,602,499,569,626,499,626,127,55.190578906186516,0,stays_out,stays_out,stays_out,none,103,70,127,102,anchors
+GB_way_749964337,GB,Stellium Newcastle Campus,690,397,350,359,350,690,340,161.95266798255182,0,stays_out,stays_out,stays_out,none,293,-47,-38,210,anchors
+GB_way_787209296,GB,,572,468,533,592,468,592,124,54.63439087851778,0,stays_out,stays_out,stays_out,none,104,65,124,140,anchors
+GB_way_787209399,GB,VIRTUS LONDON9,354,387,564,602,354,602,248,124.39553850520524,0,stays_out,stays_out,stays_out,none,-33,177,215,109,population_density
+GB_way_813089664,GB,Prescient Coleraine,896,852,830,996,830,996,166,73.63649457526705,0,stays_out,stays_out,stays_out,none,44,-22,144,59,population_density
+GB_way_825504801,GB,NTT London 1,919,539,508,439,439,919,480,215.91722951168117,0,stays_out,stays_out,stays_out,none,380,-31,-100,169,anchors
+GB_way_830370909,GB,,620,812,789,690,620,812,192,89.22770496506863,0,stays_out,stays_out,stays_out,none,-192,-23,-122,77,population_density
+GB_way_830370910,GB,,407,716,694,572,407,716,309,141.76829687909776,0,stays_out,stays_out,stays_out,none,-309,-22,-144,118,anchors
+GB_way_838655597,GB,,1163,983,802,896,802,1163,361,153.6164053739053,0,stays_out,stays_out,stays_out,none,180,-181,-87,103,population_density
+GB_way_838655598,GB,,1114,975,795,898,795,1114,319,134.37385658428255,0,stays_out,stays_out,stays_out,none,139,-180,-77,93,anchors
+GB_way_838655599,GB,,1128,982,801,901,801,1128,327,138.17139115364415,0,stays_out,stays_out,stays_out,none,146,-181,-81,89,anchors
+GB_way_838655600,GB,,1139,986,798,903,798,1139,341,143.94559157311255,0,stays_out,stays_out,stays_out,none,153,-188,-83,83,anchors
+GB_way_838655601,GB,,1100,971,791,899,791,1100,309,129.66977288481692,0,stays_out,stays_out,stays_out,none,129,-180,-72,86,anchors
+GB_way_838801558,GB,Virtus London8,493,472,435,319,319,493,174,77.62892502154078,0,stays_out,stays_out,stays_out,none,21,-37,-153,92,road_density
+GB_way_888760205,GB,Positive Park,1129,1154,1095,1057,1057,1154,97,42.129759869558555,0,stays_out,stays_out,stays_out,none,-25,-59,-97,56,anchors
+GB_way_891871959,GB,nLighten Edge Data Centre Liverpool,879,925,807,518,518,925,407,182.73728865961283,0,stays_out,stays_out,stays_out,none,-46,-118,-407,59,road_density
+GB_way_958673591,GB,Regit4u,1118,1012,915,742,742,1118,376,159.70258816521,0,stays_out,stays_out,stays_out,none,106,-97,-270,88,population_density
+GB_way_981640451,GB,Evolution @ Agecroft Commerce Park,677,432,244,166,166,677,511,227.45310872060347,0,stays_out,stays_out,stays_out,none,245,-188,-266,201,anchors
+GB_way_981640535,GB,Evolution @ Agecroft Commerce Park,672,457,256,184,184,672,488,219.38151699721652,0,stays_out,stays_out,stays_out,none,215,-201,-273,183,anchors
+GB_way_984002529,GB,,543,426,515,561,426,561,135,59.90200330539873,0,stays_out,stays_out,stays_out,none,117,89,135,126,anchors
+GB_way_989525011,GB,,694,613,677,621,613,694,81,40.2854398842394,0,stays_out,stays_out,stays_out,none,81,64,8,101,anchors
+GB_way_996865179,GB,,1056,1067,1120,1050,1050,1120,70,31.951786595848855,0,stays_out,stays_out,stays_out,none,-11,53,-17,36,population_density
+GB_way_996865180,GB,,1045,1063,1116,1048,1045,1116,71,32.95451410656816,0,stays_out,stays_out,stays_out,none,-18,53,-15,38,population_density
+GB_way_1001246921,GB,Virtual Internet UK,35,61,49,52,35,61,26,10.781929326423912,4,stays_top,stays_top,stays_top,all_four,-26,-12,-9,18,urban_compactness
+GB_way_1046859137,GB,,836,801,772,897,772,897,125,53.79281240711129,0,stays_out,stays_out,stays_out,none,35,-29,96,62,road_density
+GB_way_1122158384,GB,AWS Swindon Data Centre,1179,1000,905,968,905,1179,274,117.4932622181658,0,stays_out,stays_out,stays_out,none,179,-95,-32,88,population_density
+GB_way_1161721011,GB,Amazon Web Services,793,665,704,728,665,793,128,53.693575034635195,0,stays_out,stays_out,stays_out,none,128,39,63,107,anchors
+GB_way_1164817477,GB,,1173,948,794,887,794,1173,379,161.2833944748601,0,stays_out,stays_out,stays_out,none,225,-154,-61,131,population_density
+GB_way_1198641381,GB,Vantage Data Centers - CWL13,882,1074,893,900,882,1074,192,91.46720723844147,0,stays_out,stays_out,stays_out,none,-192,-181,-174,167,anchors
+GB_way_1254986167,GB,,1192,1181,1186,1091,1091,1192,101,47.878317987721054,0,stays_out,stays_out,stays_out,none,11,5,-90,14,population_density
+GB_way_1302091424,GB,Hutchison 3G,251,277,134,127,127,277,150,77.85617081088263,0,stays_out,stays_out,stays_out,none,-26,-143,-150,85,anchors
+GB_way_1305758728,GB,Kao Data KLON-02,596,548,703,878,548,878,330,146.2950785228266,0,stays_out,stays_out,stays_out,none,48,155,330,90,population_density
+GB_way_1313579347,GB,VIRTUS London 11,588,489,571,630,489,630,141,59.11852501542981,0,stays_out,stays_out,stays_out,none,99,82,141,106,anchors
+GB_way_1322919061,GB,Tata Stratford,31,49,14,21,14,49,35,15.195942440884233,4,stays_top,stays_top,stays_top,all_four,-18,-35,-28,23,road_density
+GB_relation_6796887,GB,Datum Farnborough Data Centre,1177,996,793,894,793,1177,384,163.83935221226105,0,stays_out,stays_out,stays_out,none,181,-203,-102,105,population_density
+GB_relation_18217492,GB,Pulsant Edinburgh SC-1,320,300,469,530,300,530,230,112.50296292394555,0,stays_out,stays_out,stays_out,none,20,169,230,155,road_density
+IE_node_6696027683,IE,ISS Data Centre South (DCS),342,533,727,945,342,945,603,258.71783213892826,0,stays_out,stays_out,stays_out,none,-191,194,412,137,population_density
+IE_way_4421159,IE,Digital Realty DUB10,970,888,812,783,783,970,187,83.81477594473822,0,stays_out,stays_out,stays_out,none,82,-76,-105,101,population_density
+IE_way_23610623,IE,,865,800,741,666,666,865,199,84.78600513449533,0,stays_out,stays_out,stays_out,none,65,-59,-134,94,population_density
+IE_way_23750729,IE,Equinix DB4,974,954,806,729,729,974,245,118.0067088488334,0,stays_out,stays_out,stays_out,none,20,-148,-225,108,population_density
+IE_way_23750778,IE,Equinix DB3,1037,963,800,714,714,1037,323,147.74414822027074,0,stays_out,stays_out,stays_out,none,74,-163,-249,166,population_density
+IE_way_28352285,IE,,826,738,740,677,677,826,149,61.26105342439572,0,stays_out,stays_out,stays_out,none,88,2,-61,67,road_density
+IE_way_28352291,IE,Amazon Web Services,851,776,745,681,681,851,170,70.61810438313016,0,stays_out,stays_out,stays_out,none,75,-31,-95,76,population_density
+IE_way_34291029,IE,Elfordstown Earthstation,1208,1209,1191,1199,1191,1209,18,8.460693430998036,0,stays_out,stays_out,stays_out,none,-1,-18,-10,14,population_density
+IE_way_37596447,IE,Amazon Web Services,500,411,493,506,411,506,95,44.65049458479342,0,stays_out,stays_out,stays_out,none,89,82,95,39,anchors
+IE_way_37596453,IE,Amazon Web Services,514,448,505,523,448,523,75,33.80828300875393,0,stays_out,stays_out,stays_out,none,66,57,75,49,road_density
+IE_way_37682016,IE,Equinix Dublin DB1,740,756,723,761,723,761,38,17.18526500620032,0,stays_out,stays_out,stays_out,none,-16,-33,5,31,urban_compactness
+IE_way_37682585,IE,Amazon Web Services,494,572,559,598,494,598,104,44.2445853561013,0,stays_out,stays_out,stays_out,none,-78,-13,26,145,anchors
+IE_way_47923380,IE,Amazon Web Services DUB10/50/51,473,514,558,639,473,639,166,71.05397009785355,0,stays_out,stays_out,stays_out,none,-41,44,125,64,road_density
+IE_way_47924345,IE,,394,442,487,543,394,543,149,63.58458932791813,0,stays_out,stays_out,stays_out,none,-48,45,101,70,road_density
+IE_way_47924347,IE,,399,454,501,558,399,558,159,67.6904720030818,0,stays_out,stays_out,stays_out,none,-55,47,104,65,road_density
+IE_way_47924356,IE,Amazon Web Services,471,516,539,615,471,615,144,60.201744160779924,0,stays_out,stays_out,stays_out,none,-45,23,99,68,road_density
+IE_way_51335423,IE,Eir Hosting Services,753,747,655,651,651,753,102,56.08029957123981,0,stays_out,stays_out,stays_out,none,6,-92,-96,59,anchors
+IE_way_51336797,IE,Amazon DUB-2,728,782,715,747,715,782,67,29.13188402192118,0,stays_out,stays_out,stays_out,none,-54,-67,-35,56,anchors
+IE_way_68337029,IE,Eir Data Center,548,546,573,679,546,679,133,62.87818911726598,0,stays_out,stays_out,stays_out,none,2,27,133,75,road_density
+IE_way_68337058,IE,Verizon Data Center,486,447,455,495,447,495,48,23.32916629457641,0,stays_out,stays_out,stays_out,none,39,8,48,128,road_density
+IE_way_68337079,IE,Vodafone Data Center,505,439,443,477,439,505,66,31.09126351029605,0,stays_out,stays_out,stays_out,none,66,4,38,128,road_density
+IE_way_68337136,IE,Amazon Web Services,404,429,458,489,404,489,85,36.706039466732626,0,stays_out,stays_out,stays_out,none,-25,29,60,140,road_density
+IE_way_68996550,IE,Cork Internet Exchange (CIX),807,783,758,954,758,954,196,87.9715863219483,0,stays_out,stays_out,stays_out,none,24,-25,171,65,road_density
+IE_way_256107907,IE,Equinix DB2,1039,1032,847,865,847,1039,192,103.93387320792004,0,stays_out,stays_out,stays_out,none,7,-185,-167,63,anchors
+IE_way_262199046,IE,Google,1152,1077,945,882,882,1152,270,122.74363527287271,0,stays_out,stays_out,stays_out,none,75,-132,-195,107,population_density
+IE_way_438036943,IE,Microsoft DUB03 / DUB04,1028,1013,895,862,862,1028,166,83.308663014919,0,stays_out,stays_out,stays_out,none,15,-118,-151,111,population_density
+IE_way_438036944,IE,Microsoft DUB05,1046,1043,901,867,867,1046,179,93.7065454846494,0,stays_out,stays_out,stays_out,none,3,-142,-176,91,population_density
+IE_way_460117003,IE,Amazon Web Services,838,759,736,658,658,838,180,74.08272403199008,0,stays_out,stays_out,stays_out,none,79,-23,-101,81,population_density
+IE_way_513703429,IE,Microsoft DUB06,958,1005,846,858,846,1005,159,77.34500630292818,0,stays_out,stays_out,stays_out,none,-47,-159,-147,54,anchors
+IE_way_518701317,IE,Meta Clonee 1 Data Center,1035,1026,940,906,906,1035,129,63.704395452747214,0,stays_out,stays_out,stays_out,none,9,-86,-120,142,anchors
+IE_way_538103967,IE,Digital Realty Dublin DUB3,944,927,869,834,834,944,110,51.03266927501768,0,stays_out,stays_out,stays_out,none,17,-58,-93,58,anchors
+IE_way_538906747,IE,Microsoft DUB07,994,976,859,860,859,994,135,72.83028216339684,0,stays_out,stays_out,stays_out,none,18,-117,-116,99,population_density
+IE_way_547351129,IE,Digital Realty DUB4,1134,1027,838,853,838,1134,296,142.66744548074027,0,stays_out,stays_out,stays_out,none,107,-189,-174,84,population_density
+IE_way_547351131,IE,Google,1151,1095,971,907,907,1151,244,111.76165114504468,0,stays_out,stays_out,stays_out,none,56,-124,-188,78,population_density
+IE_way_590813740,IE,DSF,967,993,834,857,834,993,159,78.93615563648046,0,stays_out,stays_out,stays_out,none,-26,-159,-136,49,anchors
+IE_way_683115027,IE,Meta Clonee 3 Data Center,1116,1076,969,948,948,1116,168,81.5,0,stays_out,stays_out,stays_out,none,40,-107,-128,136,anchors
+IE_way_684685208,IE,Amazon Web Services,832,761,749,686,686,832,146,59.84981202978001,0,stays_out,stays_out,stays_out,none,71,-12,-75,69,population_density
+IE_way_691934423,IE,Digital Realty DUB3,1140,1020,841,851,841,1140,299,143.76601360080437,0,stays_out,stays_out,stays_out,none,120,-179,-169,84,population_density
+IE_way_697470448,IE,Amazon Web Services,555,458,496,519,458,555,97,40.702170294305766,0,stays_out,stays_out,stays_out,none,97,38,61,64,urban_compactness
+IE_way_697659634,IE,Amazon Web Services,398,409,424,459,398,459,61,26.564387187862373,0,stays_out,stays_out,stays_out,none,-11,15,50,132,road_density
+IE_way_702455910,IE,BT Application Hosting,742,751,712,749,712,751,39,18.083141320025124,0,stays_out,stays_out,stays_out,none,-9,-39,-2,31,urban_compactness
+IE_way_709103324,IE,Microsoft DUB08,996,987,856,863,856,996,140,76.35225384143331,0,stays_out,stays_out,stays_out,none,9,-131,-124,96,population_density
+IE_way_709123322,IE,Microsoft DUB09,1048,994,878,864,864,1048,184,89.54700813911465,0,stays_out,stays_out,stays_out,none,54,-116,-130,135,population_density
+IE_way_709143741,IE,EdgeConneX,934,936,880,826,826,936,110,52.230259428802384,0,stays_out,stays_out,stays_out,none,-2,-56,-110,41,road_density
+IE_way_713340741,IE,,870,825,739,668,668,870,202,89.94257427195792,0,stays_out,stays_out,stays_out,none,45,-86,-157,98,population_density
+IE_way_714007220,IE,Digital Realty DUB2,676,486,535,462,462,676,214,95.77882507805853,0,stays_out,stays_out,stays_out,none,190,49,-24,96,anchors
+IE_way_714007221,IE,Digital Realty DUB1,567,507,551,468,468,567,99,44.724154547626725,0,stays_out,stays_out,stays_out,none,60,44,-39,61,road_density
+IE_way_743741623,IE,Microsoft DUB10,1051,1001,875,868,868,1051,183,91.55098761528099,0,stays_out,stays_out,stays_out,none,50,-126,-133,132,population_density
+IE_way_743741624,IE,Microsoft DUB12,1070,1024,879,872,872,1070,198,100.82121139257684,0,stays_out,stays_out,stays_out,none,46,-145,-152,114,population_density
+IE_way_819286957,IE,Meta Clonee 5 Data Center,1060,902,906,839,839,1060,221,93.98359785976841,0,stays_out,stays_out,stays_out,none,158,4,-63,79,population_density
+IE_way_825144681,IE,Amazon Web Services,465,564,547,582,465,582,117,51.6817182376902,0,stays_out,stays_out,stays_out,none,-99,-17,18,150,anchors
+IE_way_868909749,IE,CyrusOne DUB1,1147,1096,977,908,908,1147,239,109.12072824781428,0,stays_out,stays_out,stays_out,none,51,-119,-188,68,population_density
+IE_way_926894444,IE,Amazon Web Services,844,862,851,842,842,862,20,9.03234926989282,0,stays_out,stays_out,stays_out,none,-18,-11,-20,36,urban_compactness
+IE_way_1003210053,IE,,1109,1088,968,895,895,1109,214,101.28178513434683,0,stays_out,stays_out,stays_out,none,21,-120,-193,63,population_density
+IE_way_1003210055,IE,Microsoft DUB13,1095,1038,881,876,876,1095,219,111.02702373746672,0,stays_out,stays_out,stays_out,none,57,-157,-162,107,population_density
+IE_way_1003253881,IE,,860,789,738,683,683,860,177,75.34144499100965,0,stays_out,stays_out,stays_out,none,71,-51,-106,109,population_density
+IE_way_1004745825,IE,EdgeConneX,894,924,873,821,821,924,103,43.382023926967726,0,stays_out,stays_out,stays_out,none,-30,-51,-103,40,road_density
+IE_way_1047598884,IE,Amazon Web Services,355,410,439,466,355,466,111,47.52893855326458,0,stays_out,stays_out,stays_out,none,-55,29,56,143,road_density
+IE_way_1107158568,IE,Microsoft DUB14,1050,1044,892,873,873,1050,177,95.32182331449603,0,stays_out,stays_out,stays_out,none,6,-152,-171,86,urban_compactness
+IE_way_1108073464,IE,Amazon Web Services,383,467,484,532,383,532,149,62.0993827129814,0,stays_out,stays_out,stays_out,none,-84,17,65,144,road_density
+IE_way_1108073465,IE,Amazon Web Services,523,415,394,436,394,523,129,56.65686189686118,0,stays_out,stays_out,stays_out,none,108,-21,21,160,population_density
+IE_way_1112223803,IE,Amazon Web Services,914,884,864,855,855,914,59,26.145426623662757,0,stays_out,stays_out,stays_out,none,30,-20,-29,30,road_density
+IE_way_1112223804,IE,Amazon Web Services,906,917,886,877,877,917,40,18.266545011760343,0,stays_out,stays_out,stays_out,none,-11,-31,-40,41,road_density
+IE_way_1123268889,IE,Amazon Web Services,824,866,891,1012,824,1012,188,80.71503370913418,0,stays_out,stays_out,stays_out,none,-42,25,146,63,population_density
+IE_way_1182712205,IE,Microsoft DUB15,1069,1059,898,880,880,1069,189,101.38540328863914,0,stays_out,stays_out,stays_out,none,10,-161,-179,91,urban_compactness
+IE_way_1186696253,IE,Digital Realty DUB11,542,534,567,656,534,656,122,55.96055158174671,0,stays_out,stays_out,stays_out,none,8,33,122,80,road_density
+IE_way_1187438482,IE,Meta Clonee 2 Data Center,1098,1064,950,925,925,1098,173,84.62219960900725,0,stays_out,stays_out,stays_out,none,34,-114,-139,145,anchors
+IE_way_1187438483,IE,Meta Clonee 6 Data Center,1104,915,912,846,846,1104,258,111.15867037707855,0,stays_out,stays_out,stays_out,none,189,-3,-69,87,population_density
+IE_way_1231956437,IE,EdgeConnex DUB04,1108,1042,909,861,861,1108,247,114.6443776786866,0,stays_out,stays_out,stays_out,none,66,-133,-181,98,population_density
+IE_way_1293518358,IE,Digital Realty Dublin DUB4,948,935,868,835,835,948,113,53.94132614857246,0,stays_out,stays_out,stays_out,none,13,-67,-100,60,anchors
+IE_relation_16056450,IE,Edgeconnex Dublin,992,958,884,838,838,992,154,69.83790756697492,0,stays_out,stays_out,stays_out,none,34,-74,-120,112,population_density
+BE_node_6215733985,BE,Colt Telecom,649,434,233,179,179,649,470,213.7995556590331,0,stays_out,stays_out,stays_out,none,215,-201,-255,168,anchors
+BE_node_8583885761,BE,Microsoft Data Center,1010,881,1027,953,881,1027,146,65.9260949852181,0,stays_out,stays_out,stays_out,none,129,146,72,92,anchors
+BE_node_10607054827,BE,Servcentral,1055,988,924,931,924,1055,131,60.84132367615506,0,stays_out,stays_out,stays_out,none,67,-64,-57,59,road_density
+BE_node_12088526370,BE,LCL Belgium,420,465,285,208,208,465,257,118.87388274974448,0,stays_out,stays_out,stays_out,none,-45,-180,-257,181,anchors
+BE_node_12214044389,BE,Digital realty Brussels BRU4,595,780,640,440,440,780,340,140.08182132834605,0,stays_out,stays_out,stays_out,none,-185,-140,-340,99,population_density
+BE_node_12214044390,BE,Digital realty Brussels BRU3,574,774,630,431,431,774,343,141.88346156852344,0,stays_out,stays_out,stays_out,none,-200,-144,-343,109,population_density
+BE_node_12458675570,BE,Interoute,945,829,815,712,712,945,233,95.36727251351307,0,stays_out,stays_out,stays_out,none,116,-14,-117,64,road_density
+BE_way_29417840,BE,Brussels DC,517,443,242,182,182,517,335,159.5430976256886,0,stays_out,stays_out,stays_out,none,74,-201,-261,162,anchors
+BE_way_29448766,BE,Digital Realty Brussel BRU1,560,498,368,254,254,560,306,136.5576801208925,0,stays_out,stays_out,stays_out,none,62,-130,-244,171,population_density
+BE_way_30450893,BE,COLT,579,775,618,412,412,775,363,149.0749252333649,0,stays_out,stays_out,stays_out,none,-196,-157,-363,109,population_density
+BE_way_85508743,BE,Alphacloud Datacenter,359,464,544,627,359,627,268,114.35762618499331,0,stays_out,stays_out,stays_out,none,-105,80,163,111,anchors
+BE_way_106054206,BE,Google Data Center,1021,962,857,935,857,1021,164,68.07532592650585,0,stays_out,stays_out,stays_out,none,59,-105,-27,46,road_density
+BE_way_121785235,BE,Unix Solutions,482,638,485,292,292,638,346,141.66245091766555,0,stays_out,stays_out,stays_out,none,-156,-153,-346,121,population_density
+BE_way_139586790,BE,Datacenter Oostkamp,921,797,742,836,742,921,179,75.29054832226066,0,stays_out,stays_out,stays_out,none,124,-55,39,87,anchors
+BE_way_143759902,BE,,983,955,852,914,852,983,131,56.89170999949524,0,stays_out,stays_out,stays_out,none,28,-103,-41,77,anchors
+BE_way_146194151,BE,S10,146,202,247,406,146,406,260,111.75083892302554,0,stays_out,stays_out,stays_out,none,-56,45,204,85,road_density
+BE_way_150278436,BE,O,159,180,156,170,156,180,24,10.965856099730654,0,stays_out,stays_out,stays_out,none,-21,-24,-10,44,road_density
+BE_way_368995283,BE,Datacenter Gent,410,509,358,470,358,509,151,66.43982239590952,0,stays_out,stays_out,stays_out,none,-99,-151,-39,110,urban_compactness
+BE_way_389875923,BE,Datacenter Burcht,498,677,446,330,330,677,347,144.39384797605933,0,stays_out,stays_out,stays_out,none,-179,-231,-347,107,population_density
+BE_way_453714808,BE,,1029,959,858,939,858,1029,171,70.35801304755557,0,stays_out,stays_out,stays_out,none,70,-101,-20,47,road_density
+BE_way_692270633,BE,,1052,930,862,942,862,1052,190,78.66172300850438,0,stays_out,stays_out,stays_out,none,122,-68,12,65,anchors
+BE_way_701193617,BE,,780,875,790,801,780,875,95,43.19336368780124,0,stays_out,stays_out,stays_out,none,-95,-85,-74,68,anchors
+BE_way_741838106,BE,LCL Datacenter (DataCloud),614,688,663,774,614,774,160,66.96952043031716,0,stays_out,stays_out,stays_out,none,-74,-25,86,80,road_density
+BE_way_822844088,BE,Datazone Hasselt,540,570,669,717,540,717,177,82.95782060782456,0,stays_out,stays_out,stays_out,none,-30,99,147,72,anchors
+BE_way_825181660,BE,,1073,914,855,951,855,1073,218,92.08465308254864,0,stays_out,stays_out,stays_out,none,159,-59,37,65,anchors
+BE_way_913668923,BE,Wallonie Data Center (WDC),928,1068,1066,995,928,1068,140,66.77512011720134,0,stays_out,stays_out,stays_out,none,-140,-2,-73,107,population_density
+BE_way_1274071734,BE,,1032,880,816,919,816,1032,216,90.71705095147954,0,stays_out,stays_out,stays_out,none,152,-64,39,59,anchors
+BE_way_1341803989,BE,Datacenter Base-Telenet,645,721,495,375,375,721,346,154.47977213862015,0,stays_out,stays_out,stays_out,none,-76,-226,-346,70,anchors
+BE_relation_8012396,BE,LCL Wallonia One,986,1091,1102,984,984,1102,118,64.5361655714582,0,stays_out,stays_out,stays_out,none,-105,11,-107,74,population_density
+ES_node_6726073926,ES,The Weaver,779,883,1065,820,779,1065,286,126.29693846909618,0,stays_out,stays_out,stays_out,none,-104,182,-63,111,anchors
+ES_node_9073360494,ES,inforland.com,752,939,1119,1162,752,1162,410,187.46910856636265,0,stays_out,stays_out,stays_out,none,-187,180,223,145,population_density
+ES_node_11282993748,ES,Mozoilo AJVP,562,603,518,613,518,613,95,43.36665385600631,0,stays_out,stays_out,stays_out,none,-41,-85,10,54,population_density
+ES_node_11383639206,ES,Centro de Datos Alcalá (Alcalá Data Center),961,865,876,1005,865,1005,140,67.539494618581,0,stays_out,stays_out,stays_out,none,96,11,140,85,road_density
+ES_node_11920710931,ES,NTT,85,212,532,722,85,722,637,291.59146649607794,1,enters,stays_out,stays_out,some,-127,320,510,145,population_density
+ES_way_28391447,ES,,1014,957,1039,777,777,1039,262,118.2550210350495,0,stays_out,stays_out,stays_out,none,57,82,-180,119,road_density
+ES_way_224559768,ES,Centro de Procesamiento de Datos Norte,1167,1069,1158,952,952,1167,215,99.98166498580294,0,stays_out,stays_out,stays_out,none,98,89,-117,74,anchors
+ES_way_224559769,ES,Centro de Procesamiento de Datos Sur,1154,1045,1148,930,930,1154,224,105.45575691571639,0,stays_out,stays_out,stays_out,none,109,103,-115,71,anchors
+ES_way_368613614,ES,Centre de Processament de Dades IBM,981,633,585,422,422,981,559,235.1940688027655,0,stays_out,stays_out,stays_out,none,348,-48,-211,199,anchors
+ES_way_591288487,ES,Cloud Center Andalucía,966,854,637,772,637,966,329,138.58180496250822,0,stays_out,stays_out,stays_out,none,112,-217,-82,107,anchors
+ES_way_734439671,ES,,1203,1204,1203,1210,1203,1210,7,3.366501646120693,0,stays_out,stays_out,stays_out,none,-1,-1,6,6,anchors
+ES_way_734439672,ES,,1204,1205,1206,1211,1204,1211,7,3.1091263510296048,0,stays_out,stays_out,stays_out,none,-1,1,6,6,anchors
+ES_way_780262194,ES,Centro de Procesamiento de Datos del Gobierno de Cantabria,112,315,652,859,112,859,747,334.5609062637175,1,enters,stays_out,stays_out,some,-203,337,544,193,population_density
+ES_way_1074785161,ES,,1214,1216,1215,1215,1214,1216,2,0.816496580927726,0,stays_out,stays_out,stays_out,none,-2,-1,-1,2,urban_compactness
+ES_way_1075858825,ES,centro de datos trasbase Negratín,1215,1215,1213,1203,1203,1215,12,5.744562646538029,0,stays_out,stays_out,stays_out,none,0,-2,-12,12,anchors
+ES_way_1075858826,ES,,1216,1214,1214,1204,1204,1216,12,5.41602560309064,0,stays_out,stays_out,stays_out,none,2,0,-10,13,anchors
+ES_way_1077515970,ES,Adam,803,623,659,407,407,803,396,163.65818036383027,0,stays_out,stays_out,stays_out,none,180,36,-216,165,road_density
+ES_way_1085338755,ES,Amazon Data Services Spain S.L.U.,1161,1158,1106,1097,1097,1161,64,33.70954365359064,0,stays_out,stays_out,stays_out,none,3,-52,-61,38,anchors
+ES_way_1194718845,ES,,1038,763,674,458,458,1038,580,240.16018959575015,0,stays_out,stays_out,stays_out,none,275,-89,-305,116,population_density
+ES_way_1222498765,ES,Data Center Bilbao Arasur,784,922,989,1081,784,1081,297,125.00399993600205,0,stays_out,stays_out,stays_out,none,-138,67,159,112,population_density
+ES_way_1226425870,ES,Equinix MD6,726,455,447,408,408,726,318,146.11639196202458,0,stays_out,stays_out,stays_out,none,271,-8,-47,181,road_density
+ES_way_1253983156,ES,,472,644,543,713,472,713,241,106.68020747386399,0,stays_out,stays_out,stays_out,none,-172,-101,69,147,anchors
+ES_way_1253983161,ES,Data Center KIO Murcia,369,637,527,476,369,637,268,111.37736155371371,0,stays_out,stays_out,stays_out,none,-268,-110,-161,170,anchors
+ES_way_1253983162,ES,Data Center KIO Valencia,777,678,590,475,475,777,302,128.50162126084896,0,stays_out,stays_out,stays_out,none,99,-88,-203,85,road_density
+IT_node_5516773584,IT,Archivio di Stato di Caserta,605,698,835,928,605,928,323,143.23523775011975,0,stays_out,stays_out,stays_out,none,-93,137,230,76,anchors
+IT_node_6697593261,IT,Data center Roma Capitale,527,234,252,233,233,527,294,143.93169676389329,0,stays_out,stays_out,stays_out,none,293,18,-1,122,population_density
+IT_node_6835335762,IT,Bitviking,625,725,808,997,625,997,372,157.70938462881657,0,stays_out,stays_out,stays_out,none,-100,83,272,109,anchors
+IT_node_7500843901,IT,4ServiceSolutions,798,932,1021,1009,798,1021,223,102.5508004194344,0,stays_out,stays_out,stays_out,none,-134,89,77,58,road_density
+IT_node_9884991527,IT,ACI Sede si Sarzana,504,818,996,983,504,996,492,228.97943866935594,0,stays_out,stays_out,stays_out,none,-314,178,165,87,anchors
+IT_node_10177608934,IT,Avalon 2,719,822,538,357,357,822,465,204.9504005037967,0,stays_out,stays_out,stays_out,none,-103,-284,-465,117,anchors
+IT_node_10206899831,IT,ECMWF - Centro Meteo Europeo,377,245,296,461,245,461,216,94.65859707390555,0,stays_out,stays_out,stays_out,none,132,51,216,114,anchors
+IT_node_10206899878,IT,Supercalcolatore Leonardo - Rete EuroHPC,364,235,292,464,235,464,229,98.78385495616173,0,stays_out,stays_out,stays_out,none,129,57,229,120,anchors
+IT_node_10316973933,IT,,408,781,1023,1088,408,1088,680,307.78672269392433,0,stays_out,stays_out,stays_out,none,-373,242,307,134,population_density
+IT_node_10648561696,IT,Leonardo (supercomputer),367,449,520,524,367,524,157,73.86022835960726,0,stays_out,stays_out,stays_out,none,-82,71,75,125,road_density
+IT_node_10852549720,IT,Studio BETA SRLS,732,918,1062,1019,732,1062,330,146.8136574028452,0,stays_out,stays_out,stays_out,none,-186,144,101,85,anchors
+IT_node_11005419206,IT,Arpac,477,748,919,1032,477,1032,555,241.43598185302318,0,stays_out,stays_out,stays_out,none,-271,171,284,109,population_density
+IT_node_11822939313,IT,E. D. Accounting Siena,374,699,902,1043,374,1043,669,290.31534578798966,0,stays_out,stays_out,stays_out,none,-325,203,344,118,population_density
+IT_node_11936920287,IT,InfreschiLab,1197,1202,1216,1216,1197,1216,19,9.742518497116988,0,stays_out,stays_out,stays_out,none,-5,14,14,3,population_density
+IT_node_11977700812,IT,WinEuropa,993,1102,1093,1118,993,1118,125,56.6186070710563,0,stays_out,stays_out,stays_out,none,-109,-9,16,46,population_density
+IT_node_11985791319,IT,Centro Elab. Dati Catocci Bianciardi,368,708,918,1051,368,1051,683,297.7732638546763,0,stays_out,stays_out,stays_out,none,-340,210,343,119,anchors
+IT_node_12075162382,IT,Microsoft,874,823,1012,745,745,1012,267,112.31651704001509,0,stays_out,stays_out,stays_out,none,51,189,-78,118,anchors
+IT_node_12164505455,IT,iZOOM.it,223,284,449,657,223,657,434,194.2444765409474,0,stays_out,stays_out,stays_out,none,-61,165,373,89,population_density
+IT_node_12314969438,IT,Studio Delta Srl,513,625,737,978,513,978,465,198.78359254894923,0,stays_out,stays_out,stays_out,none,-112,112,353,127,population_density
+IT_node_12334997012,IT,Tecnodati (S.R.L.),238,296,492,727,238,727,489,221.05862721609998,0,stays_out,stays_out,stays_out,none,-58,196,431,109,population_density
+IT_way_45840658,IT,Data Center Aruba IT2,722,793,899,1034,722,1034,312,135.78659727675628,0,stays_out,stays_out,stays_out,none,-71,106,241,82,anchors
+IT_way_53189075,IT,Centrale TIM Trento Nord,212,302,510,721,212,721,509,227.18036153388493,0,stays_out,stays_out,stays_out,none,-90,208,419,154,road_density
+IT_way_86005985,IT,Avalon 3,290,269,238,203,203,290,87,37.92097045171708,0,stays_out,stays_out,stays_out,none,21,-31,-66,90,road_density
+IT_way_182828550,IT,Data Center Aruba IT1,980,805,894,1030,805,1030,225,98.97937495593042,0,stays_out,stays_out,stays_out,none,175,89,225,121,population_density
+IT_way_185576073,IT,Archivio di Stato,585,770,914,1037,585,1037,452,194.4916450647688,0,stays_out,stays_out,stays_out,none,-185,144,267,104,population_density
+IT_way_466483564,IT,Set,661,758,821,694,661,821,160,70.8825319337094,0,stays_out,stays_out,stays_out,none,-97,63,-64,98,road_density
+IT_way_524879451,IT,,1126,1030,1070,964,964,1126,162,68.18357573492314,0,stays_out,stays_out,stays_out,none,96,40,-66,76,population_density
+IT_way_847959022,IT,,137,145,138,212,137,212,75,36.175498153676706,0,stays_out,stays_out,stays_out,none,-8,-7,67,30,population_density
+IT_way_914162241,IT,,363,519,486,339,339,519,180,89.04072102133945,0,stays_out,stays_out,stays_out,none,-156,-33,-180,118,population_density
+IT_way_919169883,IT,Data Center,353,436,608,848,353,848,495,218.6829897362847,0,stays_out,stays_out,stays_out,none,-83,172,412,156,urban_compactness
+IT_way_1024899085,IT,,1115,1023,1068,963,963,1115,152,64.8247637866888,0,stays_out,stays_out,stays_out,none,92,45,-60,79,population_density
+IT_way_1115952168,IT,,324,203,245,400,203,400,197,87.20473993233777,0,stays_out,stays_out,stays_out,none,121,42,197,113,anchors
+IT_way_1125063250,IT,,58,111,144,232,58,232,174,73.00399532445695,2,stays_top,exits,exits,some,-53,33,121,33,road_density
+IT_way_1125063251,IT,,57,110,143,231,57,231,174,73.00399532445695,2,stays_top,exits,exits,some,-53,33,121,33,road_density
+IT_way_1125369577,IT,,59,112,145,234,59,234,175,73.44158676571924,2,stays_top,exits,exits,some,-53,33,122,32,road_density
+IT_way_1125369579,IT,,60,113,146,236,60,236,176,73.8799702219756,2,stays_top,exits,exits,some,-53,33,123,34,road_density
+IT_way_1210747121,IT,,869,819,1008,732,732,1008,276,115.49025932952095,0,stays_out,stays_out,stays_out,none,50,189,-87,117,anchors
+IT_way_1210747122,IT,,888,835,1019,770,770,1019,249,105.66298626608405,0,stays_out,stays_out,stays_out,none,53,184,-65,118,anchors
+IT_way_1210747123,IT,,885,826,1016,756,756,1016,260,110.25840859846774,0,stays_out,stays_out,stays_out,none,59,190,-70,117,anchors
+IT_way_1210747124,IT,,880,821,1009,739,739,1009,270,113.64088172836394,0,stays_out,stays_out,stays_out,none,59,188,-82,118,anchors
+IT_way_1210747125,IT,,876,813,1003,715,715,1003,288,120.6465222595883,0,stays_out,stays_out,stays_out,none,63,190,-98,117,anchors
+IT_way_1269297685,IT,,897,836,867,541,541,897,356,164.72679401562658,0,stays_out,stays_out,stays_out,none,61,31,-295,98,population_density
+IT_way_1269297686,IT,,889,832,870,546,546,889,343,160.59135510149147,0,stays_out,stays_out,stays_out,none,57,38,-286,95,population_density
+IT_way_1274052719,IT,Data Felix DF01,700,647,701,920,647,920,273,121.31776456892041,0,stays_out,stays_out,stays_out,none,53,54,273,81,population_density
+IT_relation_7129758,IT,TIER IV,964,827,980,976,827,980,153,73.48185717123195,0,stays_out,stays_out,stays_out,none,137,153,149,80,urban_compactness
+IT_relation_14662947,IT,Datacenter TIM-Google,1000,834,883,779,779,1000,221,94.1311142325781,0,stays_out,stays_out,stays_out,none,166,49,-55,120,population_density
+PL_node_2978103914,PL,3S Data Center DC 1,977,652,627,557,557,977,420,186.87674190938438,0,stays_out,stays_out,stays_out,none,325,-25,-95,120,urban_compactness
+PL_node_9665210160,PL,DISKUS Polska,809,849,866,854,809,866,57,24.71841418861655,0,stays_out,stays_out,stays_out,none,-40,17,5,28,anchors
+PL_node_10568811919,PL,Miejska Sieć Komputerowa CzestMAN,205,357,549,791,205,791,586,253.08430742870382,0,stays_out,stays_out,stays_out,none,-152,192,434,144,population_density
+PL_way_93062990,PL,,525,618,409,374,374,618,244,111.56014820116845,0,stays_out,stays_out,stays_out,none,-93,-209,-244,86,urban_compactness
+PL_way_148068768,PL,,727,629,540,534,534,727,193,90.73955403607991,0,stays_out,stays_out,stays_out,none,98,-89,-95,58,population_density
+PL_way_194267471,PL,,610,848,941,929,610,941,331,153.65545873804808,0,stays_out,stays_out,stays_out,none,-238,93,81,60,population_density
+PL_way_216811192,PL,OVHcloud Ożarów (WAW-1),681,777,685,600,600,777,177,72.34811676885585,0,stays_out,stays_out,stays_out,none,-96,-92,-177,73,population_density
+PL_way_304647589,PL,Centrum Technologii ICM UW,806,864,731,641,641,864,223,96.49352309870336,0,stays_out,stays_out,stays_out,none,-58,-133,-223,64,road_density
+PL_way_328866887,PL,,632,639,641,743,632,743,111,52.974050251042726,0,stays_out,stays_out,stays_out,none,-7,2,104,81,anchors
+PL_way_338383130,PL,Polcom Data Center Skawina,834,795,888,760,760,888,128,54.90218574883882,0,stays_out,stays_out,stays_out,none,39,93,-35,45,anchors
+PL_way_379736049,PL,itQ Data Center,634,483,529,619,483,634,151,72.32046736574647,0,stays_out,stays_out,stays_out,none,151,46,136,104,urban_compactness
+PL_way_414767154,PL,Polcom Data Center Alwernia,1005,1125,1098,1026,1005,1125,120,57.15767664977295,0,stays_out,stays_out,stays_out,none,-120,-27,-99,49,anchors
+PL_way_445324887,PL,,995,998,1078,1092,995,1092,97,51.4287533065567,0,stays_out,stays_out,stays_out,none,-3,80,94,91,population_density
+PL_way_466665870,PL,3S Data Center DC 2,988,658,632,565,565,988,423,188.9398052290729,0,stays_out,stays_out,stays_out,none,330,-26,-93,120,urban_compactness
+PL_way_666285028,PL,DC 11.11,436,567,398,381,381,567,186,84.20015835297858,0,stays_out,stays_out,stays_out,none,-131,-169,-186,158,road_density
+PL_way_799107416,PL,Equinix WA3,285,301,231,160,160,301,141,63.65204893271962,0,stays_out,stays_out,stays_out,none,-16,-70,-141,107,anchors
+PL_way_939340882,PL,T-Mobile Warszawa-Szlachecka,754,723,666,566,566,754,188,82.63725955443263,0,stays_out,stays_out,stays_out,none,31,-57,-157,73,population_density
+PL_way_969929224,PL,Warsaw Data Hub,931,1085,987,889,889,1085,196,84.77420991472977,0,stays_out,stays_out,stays_out,none,-154,-98,-196,144,anchors
+PL_way_1005973518,PL,,756,727,670,568,568,756,188,82.92315719990405,0,stays_out,stays_out,stays_out,none,29,-57,-159,73,population_density
+PL_way_1011480755,PL,Korbank,544,418,406,526,406,544,138,71.56116265125938,0,stays_out,stays_out,stays_out,none,126,-12,108,103,urban_compactness
+PL_way_1015151451,PL,Modułowe Data Center,812,816,576,609,576,816,240,128.60112752227332,0,stays_out,stays_out,stays_out,none,-4,-240,-207,85,anchors
+PL_way_1115586271,PL,Vantage Warsaw WAW1,796,672,651,556,556,796,240,98.70959088828873,0,stays_out,stays_out,stays_out,none,124,-21,-116,59,urban_compactness
+PL_way_1156823776,PL,Atman Data Center Warsaw-1,249,386,488,350,249,488,239,98.67243789427725,0,stays_out,stays_out,stays_out,none,-137,102,-36,111,road_density
+SE_node_12150334502,SE,31173 Service DC Malmö,462,293,401,700,293,700,407,172.15303269668723,0,stays_out,stays_out,stays_out,none,169,108,407,153,urban_compactness
+SE_way_42343463,SE,,762,742,721,888,721,888,167,75.05720040964313,0,stays_out,stays_out,stays_out,none,20,-21,146,75,road_density
+SE_way_260883600,SE,Metas datacenter i Luleå,848,916,995,1077,848,1077,229,98.9781120585085,0,stays_out,stays_out,stays_out,none,-68,79,161,88,anchors
+SE_way_543635462,SE,Metas datacenter i Luleå,979,949,1010,1089,949,1089,140,60.2238878408449,0,stays_out,stays_out,stays_out,none,30,61,140,88,anchors
+SE_way_587824390,SE,,1047,1119,1105,1124,1047,1124,77,35.42480298698451,0,stays_out,stays_out,stays_out,none,-72,-14,5,18,anchors
+SE_way_726566209,SE,EcoDataCenter,616,702,948,1063,616,1063,447,208.46482517041895,0,stays_out,stays_out,stays_out,none,-86,246,361,151,population_density
+SE_way_759644426,SE,,162,233,284,216,162,284,122,50.29496329985075,0,stays_out,stays_out,stays_out,none,-71,51,-17,44,urban_compactness
+SE_way_990586250,SE,Microsoft,1089,1054,1024,1136,1024,1136,112,48.155131259987925,0,stays_out,stays_out,stays_out,none,35,-30,82,54,anchors
+SE_way_1060239750,SE,Metas datacenter i Luleå,1093,968,1025,1098,968,1098,130,61.746794788609606,0,stays_out,stays_out,stays_out,none,125,57,130,88,anchors
+SE_way_1152538065,SE,Microsoft,1068,1099,1043,1041,1041,1099,58,27.10934648173332,0,stays_out,stays_out,stays_out,none,-31,-56,-58,34,population_density
+SE_way_1152538066,SE,Microsoft,1058,1097,1042,1035,1035,1097,62,27.72483844257107,0,stays_out,stays_out,stays_out,none,-39,-55,-62,38,population_density
+SE_way_1156469042,SE,,613,700,947,1065,613,1065,452,210.47307824675977,0,stays_out,stays_out,stays_out,none,-87,247,365,151,population_density
+SE_way_1225367739,SE,Microsoft,1194,1183,1187,1184,1183,1194,11,4.96655480858378,0,stays_out,stays_out,stays_out,none,11,4,1,11,population_density
+SE_way_1346239617,SE,Microsoft,1196,1185,1190,1185,1185,1196,11,5.228129047119374,0,stays_out,stays_out,stays_out,none,11,5,0,10,population_density
+SE_relation_6125296,SE,Digital Realty Stockholm STO1-STO5,497,589,461,433,433,589,156,67.92152334373348,0,stays_out,stays_out,stays_out,none,-92,-128,-156,71,urban_compactness
+FI_node_8945351837,FI,The Deck,53,151,309,445,53,445,392,172.89206652321172,1,enters,stays_out,stays_out,some,-98,158,294,69,road_density
+FI_node_9626439921,FI,Easylinehost Finland Oy,158,358,722,966,158,966,808,362.0147326652144,0,stays_out,stays_out,stays_out,none,-200,364,608,202,road_density
+FI_node_9709502908,FI,Tietokettu,962,1120,1156,1181,962,1181,219,98.40519972711469,0,stays_out,stays_out,stays_out,none,-158,36,61,49,population_density
+FI_node_10648255815,FI,CSC – IT Center for Science,949,889,1028,1153,889,1153,264,114.0537154151499,0,stays_out,stays_out,stays_out,none,60,139,264,155,population_density
+FI_node_10648294221,FI,LUMI (supercomputer),959,899,1034,1155,899,1155,256,110.31885604918136,0,stays_out,stays_out,stays_out,none,60,135,256,159,population_density
+FI_node_12167701341,FI,Elisa,165,199,317,453,165,453,288,130.42878005511923,0,stays_out,stays_out,stays_out,none,-34,118,254,54,road_density
+FI_way_133732266,FI,,467,476,615,830,467,830,363,169.4638604540803,0,stays_out,stays_out,stays_out,none,-9,139,354,147,population_density
+FI_way_323686447,FI,,1165,1197,1179,1190,1165,1197,32,13.961255912942311,0,stays_out,stays_out,stays_out,none,-32,-18,-7,15,road_density
+FI_way_459879213,FI,Hetzner data center - HEL1,857,896,938,812,812,938,126,53.85396921304873,0,stays_out,stays_out,stays_out,none,-39,42,-84,35,anchors
+FI_way_610260931,FI,,841,891,927,799,799,927,128,56.12783029240782,0,stays_out,stays_out,stays_out,none,-50,36,-92,33,anchors
+FI_way_610260932,FI,,840,890,923,793,793,923,130,57.005847653259806,0,stays_out,stays_out,stays_out,none,-50,33,-97,33,anchors
+FI_way_610260933,FI,,839,894,921,785,785,921,136,60.395226080654204,0,stays_out,stays_out,stays_out,none,-55,27,-109,30,road_density
+FI_way_640329703,FI,Telia HDC,222,221,203,174,174,222,48,22.435091560618453,0,stays_out,stays_out,stays_out,none,1,-18,-47,71,road_density
+FI_way_748868810,FI,,1155,1194,1177,1189,1155,1194,39,17.36615482291153,0,stays_out,stays_out,stays_out,none,-39,-17,-5,16,road_density
+FI_way_846760920,FI,,909,973,1047,1113,909,1113,204,88.5945822271317,0,stays_out,stays_out,stays_out,none,-64,74,140,94,anchors
+FI_way_1077698708,FI,,846,892,932,803,803,932,129,55.918839997505906,0,stays_out,stays_out,stays_out,none,-46,40,-89,33,anchors
+FI_way_1189230940,FI,Ficolo The Rock,1205,1189,1123,1121,1121,1205,84,43.79878232706171,0,stays_out,stays_out,stays_out,none,16,-66,-68,23,population_density
+FI_way_1238398882,FI,,854,893,936,807,807,936,129,55.03029468695705,0,stays_out,stays_out,stays_out,none,-39,43,-86,35,anchors
+FI_way_1246864464,FI,,935,979,1045,1111,935,1111,176,77.0,0,stays_out,stays_out,stays_out,none,-44,66,132,94,anchors
+FI_way_1339135383,FI,,1168,1171,1185,1192,1168,1192,24,11.40175425099138,0,stays_out,stays_out,stays_out,none,-3,14,21,20,population_density
+FI_relation_4510018,FI,,1153,1193,1182,1191,1153,1193,40,18.463928798245153,0,stays_out,stays_out,stays_out,none,-40,-11,-2,13,road_density
+NO_node_7405586142,NO,Maan Group,1162,1153,1124,1008,1008,1162,154,71.04165444770179,0,stays_out,stays_out,stays_out,none,9,-29,-145,44,population_density
+NO_node_12158409495,NO,VisBook AS,647,945,1058,1072,647,1072,425,197.3668327421471,0,stays_out,stays_out,stays_out,none,-298,113,127,102,anchors
+NO_way_80871917,NO,Bulk Data Centers Oslo Internet Exchange,157,127,164,247,127,247,120,51.40282093426391,0,stays_out,stays_out,stays_out,none,30,37,120,81,road_density
+NO_way_869898955,NO,Signal,769,921,1002,1020,769,1020,251,114.41153787970862,0,stays_out,stays_out,stays_out,none,-152,81,99,98,anchors
+NO_way_935092287,NO,Green Mountain Ytre Enebakk,1011,1137,1143,1140,1011,1143,132,64.54649486997725,0,stays_out,stays_out,stays_out,none,-126,6,3,37,population_density
+NO_way_1028687251,NO,,1142,1108,1140,1167,1108,1167,59,24.185050478894325,0,stays_out,stays_out,stays_out,none,34,32,59,49,anchors
+NO_way_1161764012,NO,Green Mountain Ytre Enebakk,1013,1130,1134,1134,1013,1134,121,59.86303812314685,0,stays_out,stays_out,stays_out,none,-117,4,4,34,population_density
+NO_way_1164840308,NO,,1146,1113,1144,1172,1113,1172,59,24.143667216615345,0,stays_out,stays_out,stays_out,none,33,31,59,47,road_density
+NO_way_1164840309,NO,,1131,1107,1136,1164,1107,1164,57,23.388031127053,0,stays_out,stays_out,stays_out,none,24,29,57,46,anchors
+NO_way_1305030337,NO,,1044,1104,1101,1116,1044,1116,72,32.159757461772,0,stays_out,stays_out,stays_out,none,-60,-3,12,21,anchors
+NO_way_1305031005,NO,,1102,1121,1138,1151,1102,1151,49,21.24460715883759,0,stays_out,stays_out,stays_out,none,-19,17,30,27,anchors
+NO_relation_14367602,NO,STACK Infrastructure OSL04,1143,1109,1141,1168,1109,1168,59,24.185050478894325,0,stays_out,stays_out,stays_out,none,34,32,59,49,anchors
+DK_node_11654525058,DK,Ribe Hostingcenter,687,860,1049,1094,687,1094,407,186.8876667947888,0,stays_out,stays_out,stays_out,none,-173,189,234,110,anchors
+DK_way_25629568,DK,Digital Realty Copenhagen CPH1,446,569,580,399,399,580,181,89.94257427195792,0,stays_out,stays_out,stays_out,none,-123,11,-170,132,road_density
+DK_way_26176627,DK,,755,724,887,614,614,887,273,112.34767465328332,0,stays_out,stays_out,stays_out,none,31,163,-110,89,road_density
+DK_way_134874582,DK,,621,657,648,693,621,693,72,29.736341402398512,0,stays_out,stays_out,stays_out,none,-36,-9,36,66,road_density
+DK_way_147737893,DK,,717,523,328,224,224,717,493,217.9923546059968,0,stays_out,stays_out,stays_out,none,194,-195,-299,153,population_density
+DK_way_436766762,DK,Google Data Center Fredericia,1186,1163,1060,1058,1058,1186,128,67.34673958948075,0,stays_out,stays_out,stays_out,none,23,-103,-105,48,anchors
+DK_way_481615983,DK,,1119,1155,1145,1159,1119,1159,40,17.99073835801818,0,stays_out,stays_out,stays_out,none,-36,-10,4,10,anchors
+DK_way_648731568,DK,Meta Odense Data center,929,946,1017,971,929,1017,88,38.27422979847755,0,stays_out,stays_out,stays_out,none,-17,71,25,67,road_density
+DK_way_699063632,DK,,1190,1165,1061,1066,1061,1190,129,66.63582619982537,0,stays_out,stays_out,stays_out,none,25,-104,-99,43,anchors
+DK_way_912393044,DK,,618,653,647,691,618,691,73,30.015273889582726,0,stays_out,stays_out,stays_out,none,-35,-6,38,64,road_density
+DK_way_940299764,DK,Meta Odense Data center,951,950,1014,987,950,1014,64,30.903074280724887,0,stays_out,stays_out,stays_out,none,1,64,37,69,road_density
+DK_way_941798564,DK,Interxion CPH03,642,608,609,438,438,642,204,92.19680037832116,0,stays_out,stays_out,stays_out,none,34,1,-170,118,road_density
+DK_way_1094485846,DK,Digital Realty Copenhagen CPH2,464,538,568,382,382,568,186,83.09031231136396,0,stays_out,stays_out,stays_out,none,-74,30,-156,131,road_density
+DK_relation_2171258,DK,Interxion CPH02,468,551,574,385,385,574,189,86.03293942826008,0,stays_out,stays_out,stays_out,none,-83,23,-166,128,road_density
+AT_node_6578896177,AT,earthDATAsafe,725,771,942,957,725,957,232,118.00105931727902,0,stays_out,stays_out,stays_out,none,-46,171,186,54,anchors
+AT_way_31990236,AT,Digital Realty VIE1 & VIE2,117,148,193,196,117,196,79,37.986839826445156,1,enters,stays_out,stays_out,some,-31,45,48,35,road_density
+AT_way_332254967,AT,,604,650,786,961,604,961,357,160.34623995175772,0,stays_out,stays_out,stays_out,none,-46,136,311,94,population_density
+AT_way_714122239,AT,B,267,52,76,110,52,267,215,96.80349511596503,3,exits,stays_top,stays_top,some,215,24,58,53,urban_compactness
+AT_way_714122240,AT,A,341,78,95,126,78,341,263,122.29200028347452,2,exits,stays_top,exits,some,263,17,48,54,urban_compactness
+AT_way_868570931,AT,Conova Communications,781,863,952,1028,781,1028,247,107.19763678987206,0,stays_out,stays_out,stays_out,none,-82,89,165,52,population_density
+AT_way_1100732128,AT,T-Mobile Rechenzentrum Graz,332,241,250,516,241,516,275,127.58102000950872,0,stays_out,stays_out,stays_out,none,91,9,275,88,urban_compactness
+AT_way_1251362833,AT,C,243,50,73,104,50,243,193,86.54286028706625,3,exits,stays_top,stays_top,some,193,23,54,51,urban_compactness
+CH_node_6041696788,CH,Rechenzentrum Paulstrasse 12,74,309,524,689,74,689,615,266.7395733669828,1,enters,stays_out,stays_out,some,-235,215,380,132,population_density
+CH_node_6953917431,CH,OIZ,179,214,320,428,179,428,249,112.47333017209013,0,stays_out,stays_out,stays_out,none,-35,106,214,86,road_density
+CH_node_8465878157,CH,Colobale,611,680,682,420,420,682,262,123.33254504252584,0,stays_out,stays_out,stays_out,none,-69,2,-260,62,population_density
+CH_node_9862219970,CH,GEN01,423,441,413,485,413,485,72,31.848600178553113,0,stays_out,stays_out,stays_out,none,-18,-28,44,100,road_density
+CH_node_10566132363,CH,24 hours fiberwork ag,356,361,521,751,356,751,395,185.71371336908143,0,stays_out,stays_out,stays_out,none,-5,160,390,135,road_density
+CH_node_10688935368,CH,Datacenter Thurgau,232,470,716,778,232,778,546,249.70649437556352,0,stays_out,stays_out,stays_out,none,-238,246,308,118,population_density
+CH_node_11097428175,CH,RZ CAMPUS,910,765,953,1010,765,1010,245,104.67887402273043,0,stays_out,stays_out,stays_out,none,145,188,245,89,population_density
+CH_node_11909918210,CH,Rechenzentrum Stollen Luzern,644,609,696,893,609,893,284,126.80825420032141,0,stays_out,stays_out,stays_out,none,35,87,284,96,road_density
+CH_node_12304464632,CH,Equinix GV1,51,156,228,426,51,426,375,158.1842280380696,1,enters,stays_out,stays_out,some,-105,72,270,89,population_density
+CH_node_12420868035,CH,colozüri.ch,230,280,349,448,230,448,218,94.41530596253978,0,stays_out,stays_out,stays_out,none,-50,69,168,92,road_density
+CH_way_43916956,CH,GLB2,167,308,377,353,167,377,210,93.95876755258128,0,stays_out,stays_out,stays_out,none,-141,69,45,44,road_density
+CH_way_43916978,CH,Digital Realty ZUR1,224,344,416,389,224,416,192,84.86607095889381,0,stays_out,stays_out,stays_out,none,-120,72,45,55,anchors
+CH_way_54054377,CH,,79,128,168,214,79,214,135,57.48840462794794,1,enters,stays_out,stays_out,some,-49,40,86,35,road_density
+CH_way_81307623,CH,Equinix GV2,509,304,324,564,304,564,260,130.66337155709195,0,stays_out,stays_out,stays_out,none,205,20,260,109,road_density
+CH_way_103522199,CH,Green Datacenter Zurich City (Schlieren),295,272,372,291,272,372,100,44.15502991355194,0,stays_out,stays_out,stays_out,none,23,100,19,41,road_density
+CH_way_344735265,CH,Swisscom Lausanne-Savoie,20,157,279,481,20,481,461,195.58352861799654,1,enters,stays_out,stays_out,some,-137,122,324,103,population_density
+CH_way_370529088,CH,NTT Zurich 1 Data Center,845,851,733,617,617,851,234,110.56672193747991,0,stays_out,stays_out,stays_out,none,-6,-118,-234,70,population_density
+CH_way_372812521,CH,BrainServe,191,312,477,642,191,642,451,196.46628209440928,0,stays_out,stays_out,stays_out,none,-121,165,330,85,road_density
+CH_way_489130425,CH,Equinix ZRH5,171,275,253,220,171,275,104,45.22075482194727,0,stays_out,stays_out,stays_out,none,-104,-22,-55,47,population_density
+CH_way_551063056,CH,RZO - Rechenzentrum Ostschweiz,1016,1173,1164,1093,1016,1173,157,73.03195647568718,0,stays_out,stays_out,stays_out,none,-157,-9,-80,64,population_density
+CH_way_637078719,CH,Equinix ZRH5,195,287,263,237,195,287,92,39.3742724800514,0,stays_out,stays_out,stays_out,none,-92,-24,-50,40,population_density
+CH_way_699247420,CH,Datacube Biel,314,655,690,825,314,825,511,217.39518547260118,0,stays_out,stays_out,stays_out,none,-341,35,170,105,road_density
+CH_way_750275669,CH,NorthC data centers Basel,395,543,397,434,395,543,148,69.51918200516076,0,stays_out,stays_out,stays_out,none,-148,-146,-109,75,road_density
+CH_way_793496138,CH,,920,767,956,1011,767,1011,244,104.58967444255671,0,stays_out,stays_out,stays_out,none,153,189,244,91,population_density
+CH_way_852039405,CH,Digital Realty ZUR2,274,392,453,415,274,453,179,77.21182983628006,0,stays_out,stays_out,stays_out,none,-118,61,23,46,anchors
+CH_way_904767972,CH,ZRH1,225,406,504,637,225,637,412,173.4454765433026,0,stays_out,stays_out,stays_out,none,-181,98,231,123,population_density
+CH_way_933269953,CH,STACK Infrastructre - ZUR01A,843,985,1054,1017,843,1054,211,92.24740285413641,0,stays_out,stays_out,stays_out,none,-142,69,32,63,anchors
+CH_way_1081882891,CH,NorthC Biel data center,315,654,689,824,315,824,509,216.4539981920716,0,stays_out,stays_out,stays_out,none,-339,35,170,106,road_density
+CH_way_1084042553,CH,Digital Realty ZUR3,256,394,452,413,256,452,196,85.32047429153997,0,stays_out,stays_out,stays_out,none,-138,58,19,55,anchors
+PT_node_8565642884,PT,,908,1149,1184,1186,908,1186,278,133.58486690739588,0,stays_out,stays_out,stays_out,none,-241,35,37,77,population_density
+PT_node_12331077835,PT,Centro de Computação Avançada do Minho,905,842,917,823,823,917,94,46.2412153819512,0,stays_out,stays_out,stays_out,none,63,75,-19,58,anchors
+PT_way_146664358,PT,Equinix,418,339,370,405,339,418,79,35.65576157275754,0,stays_out,stays_out,stays_out,none,79,31,66,65,anchors
+PT_way_193317921,PT,NOS Imopolis II,488,491,427,324,324,491,167,78.11316577035312,0,stays_out,stays_out,stays_out,none,-3,-64,-167,126,road_density
+PT_way_193317940,PT,NOS Imopolis I,499,480,419,320,320,499,179,80.58329024473167,0,stays_out,stays_out,stays_out,none,19,-61,-160,148,road_density
+PT_way_359617354,PT,Seixal Colocation Site,1135,997,931,980,931,1135,204,87.43140168154689,0,stays_out,stays_out,stays_out,none,138,-66,-17,92,anchors
+PT_way_667333147,PT,Data Center Portugal Telecom da Covilhã,1112,1073,1041,1120,1041,1120,79,36.62876829305985,0,stays_out,stays_out,stays_out,none,39,-32,47,52,road_density
+PT_way_770046636,PT,Datacenter de Riba d'Ave,904,841,916,818,818,916,98,47.668123520860355,0,stays_out,stays_out,stays_out,none,63,75,-23,56,anchors
+PT_way_1205572867,PT,,148,137,159,197,137,197,60,26.094379982415113,0,stays_out,stays_out,stays_out,none,11,22,60,29,road_density
+PT_way_1205572869,PT,,155,141,162,201,141,201,60,25.695330315059195,0,stays_out,stays_out,stays_out,none,14,21,60,30,road_density
+PT_way_1205572870,PT,,156,140,163,202,140,202,62,26.323310328806798,0,stays_out,stays_out,stays_out,none,16,23,62,30,road_density
+PT_way_1205573357,PT,,210,195,222,270,195,270,75,32.438403166617185,0,stays_out,stays_out,stays_out,none,15,27,75,38,anchors
+PT_way_1256339859,PT,Data Center IPT,907,731,920,1021,731,1021,290,120.4723343068164,0,stays_out,stays_out,stays_out,none,176,189,290,95,anchors
+PT_way_1266541682,PT,Start SIN01,1189,1159,1181,1129,1129,1189,60,26.851443164195103,0,stays_out,stays_out,stays_out,none,30,22,-30,29,anchors
+CZ_node_3761896088,CZ,VSHosting s.r.o,583,598,474,384,384,598,214,100.40708806321062,0,stays_out,stays_out,stays_out,none,-15,-124,-214,107,road_density
+CZ_node_9956577119,CZ,forpsi DC CZ1,1206,1206,1202,1209,1202,1209,7,2.8722813232690143,0,stays_out,stays_out,stays_out,none,0,-4,3,4,population_density
+CZ_node_11436652398,CZ,MasterDC Praha,327,292,237,337,237,337,100,45.16174634946409,0,stays_out,stays_out,stays_out,none,35,-55,45,79,road_density
+CZ_node_11436652399,CZ,DC6.cz,767,697,557,451,451,767,316,141.48262555286897,0,stays_out,stays_out,stays_out,none,70,-140,-246,80,urban_compactness
+CZ_node_11436652400,CZ,DC Monaco,1067,1061,1032,1110,1032,1110,78,32.19213154380016,0,stays_out,stays_out,stays_out,none,6,-29,49,58,population_density
+CZ_node_11570619130,CZ,Datové centrum Zeleneč,940,1106,1030,943,940,1106,166,79.36151460248223,0,stays_out,stays_out,stays_out,none,-166,-76,-163,70,population_density
+CZ_node_12015570907,CZ,T-Mobile,451,379,235,361,235,451,216,89.84987479123163,0,stays_out,stays_out,stays_out,none,72,-144,-18,150,road_density
+CZ_way_22776917,CZ,DC Tower,233,216,178,299,178,299,121,50.533817060129806,0,stays_out,stays_out,stays_out,none,17,-38,83,58,road_density
+CZ_way_27823396,CZ,SafeDX s.r.o.,114,177,125,151,114,177,63,28.158776015066184,1,enters,stays_out,stays_out,some,-63,-52,-26,51,road_density
+CZ_way_32338593,CZ,TTC TELEPORT - DC1,730,549,393,343,343,730,387,174.492358954005,0,stays_out,stays_out,stays_out,none,181,-156,-206,139,anchors
+CZ_way_49548520,CZ,DC Stodůlky,351,601,519,432,351,601,250,108.06595208482642,0,stays_out,stays_out,stays_out,none,-250,-82,-169,99,road_density
+CZ_way_49870693,CZ,TTC TELEPORT - DC2,707,553,457,404,404,707,303,132.99467407882668,0,stays_out,stays_out,stays_out,none,154,-96,-149,87,road_density
+CZ_way_50110392,CZ,DC Vega,242,224,280,244,224,280,56,23.459184413217212,0,stays_out,stays_out,stays_out,none,18,56,20,80,anchors
+CZ_way_71054828,CZ,WEDOS DC 1 Masarykova,1091,1182,1204,1145,1091,1204,113,49.41322360124531,0,stays_out,stays_out,stays_out,none,-91,22,-37,16,population_density
+CZ_way_127931842,CZ,DC Chodov,147,324,305,211,147,324,177,82.84272247256645,0,stays_out,stays_out,stays_out,none,-177,-19,-113,84,anchors
+CZ_way_142366497,CZ,CE Colo,235,152,132,154,132,235,103,45.595138629755986,0,stays_out,stays_out,stays_out,none,83,-20,2,27,population_density
+CZ_way_281398489,CZ,DC Brno - FASTER CZ,859,729,642,711,642,859,217,90.62146544831418,0,stays_out,stays_out,stays_out,none,130,-87,-18,59,urban_compactness
+CZ_way_418593276,CZ,Datové centrum Kokura,713,606,754,545,545,754,209,96.0295093534621,0,stays_out,stays_out,stays_out,none,107,148,-61,81,anchors
+CZ_way_633071611,CZ,Datové centrum DC7,771,515,417,349,349,771,422,185.00450444966648,0,stays_out,stays_out,stays_out,none,256,-98,-166,147,anchors
+CZ_way_800615347,CZ,WEDOS DC2 Podskalí,1049,1187,1205,1139,1049,1205,156,69.79971346646059,0,stays_out,stays_out,stays_out,none,-138,18,-48,29,population_density
+CZ_way_1227095270,CZ,Datové centrum Nagoja,1199,1190,1172,1188,1172,1199,27,11.236102527122116,0,stays_out,stays_out,stays_out,none,9,-18,-2,10,population_density
+HU_node_1530992851,HU,,414,322,308,348,308,414,106,47.01772715334788,0,stays_out,stays_out,stays_out,none,92,-14,26,76,urban_compactness
+HU_node_6743711262,HU,Internet és KTV Fejállomás,430,850,1056,1131,430,1131,701,314.47032186413605,0,stays_out,stays_out,stays_out,none,-420,206,281,163,population_density
+HU_node_7024322405,HU,Yettel Budafok MSC,403,289,202,190,190,403,213,98.4377976185977,0,stays_out,stays_out,stays_out,none,114,-87,-99,70,urban_compactness
+HU_node_9379430388,HU,BIX,411,318,307,346,307,411,104,46.65118790913404,0,stays_out,stays_out,stays_out,none,93,-11,28,76,urban_compactness
+HU_node_9753090080,HU,,183,404,658,847,183,847,664,290.38021052865616,0,stays_out,stays_out,stays_out,none,-221,254,443,138,population_density
+HU_node_9753103752,HU,,281,217,184,180,180,281,101,46.70831474873255,0,stays_out,stays_out,stays_out,none,64,-33,-37,47,urban_compactness
+HU_node_9753103753,HU,Servergarden,288,273,224,238,224,288,64,29.78114616106416,0,stays_out,stays_out,stays_out,none,15,-49,-35,60,urban_compactness
+HU_node_9753118609,HU,Invitech DC14,130,144,150,172,130,172,42,17.473789896108208,0,stays_out,stays_out,stays_out,none,-14,6,28,36,anchors
+HU_node_9753165506,HU,,176,396,671,916,176,916,740,322.37077514357077,0,stays_out,stays_out,stays_out,none,-220,275,520,210,urban_compactness
+HU_node_9753169515,HU,,570,586,717,981,570,981,411,190.1026038748549,0,stays_out,stays_out,stays_out,none,-16,131,395,128,population_density
+HU_node_9753176163,HU,,346,270,261,303,261,346,85,38.49675310984031,0,stays_out,stays_out,stays_out,none,76,-9,33,49,population_density
+HU_way_103166277,HU,,737,885,654,508,508,885,377,157.5965312647035,0,stays_out,stays_out,stays_out,none,-148,-231,-377,99,population_density
+HU_way_256121487,HU,Magyar Telekom Cloud & DataCenter,241,175,174,186,174,241,67,31.801467471381464,0,stays_out,stays_out,stays_out,none,66,-1,11,34,urban_compactness
+HU_way_256554229,HU,Yettel Pécs MSc,1210,1184,1031,1080,1031,1210,179,84.7756844069493,0,stays_out,stays_out,stays_out,none,26,-153,-104,25,anchors
+HU_way_261477906,HU,Belügyminisztérium Nyilvántartások Vezetéséért Felelős Helyettes Államtitkárság,194,231,230,264,194,264,70,28.59341416014068,0,stays_out,stays_out,stays_out,none,-37,-1,33,105,road_density
+HU_way_315242736,HU,,1087,1050,889,1003,889,1087,198,86.00145347608958,0,stays_out,stays_out,stays_out,none,37,-161,-47,169,anchors
+HU_way_370602006,HU,KBC Adatközpont,933,824,911,762,762,933,171,79.17280677943238,0,stays_out,stays_out,stays_out,none,109,87,-62,85,road_density
+HU_relation_9491932,HU,Invitech DC10,783,695,399,227,227,783,556,258.28924354942336,0,stays_out,stays_out,stays_out,none,88,-296,-468,105,urban_compactness
+RO_node_6345712694,RO,Digi (RCS & RDS) Craiova,361,364,596,962,361,962,601,283.1105496680287,0,stays_out,stays_out,stays_out,none,-3,232,598,231,urban_compactness
+RO_node_8745353247,RO,ORANGE STORE,609,882,1051,1090,609,1090,481,218.822606997845,0,stays_out,stays_out,stays_out,none,-273,169,208,135,population_density
+RO_node_9066692465,RO,PANOURI SOLARE REDEA DATACENTER,1211,1211,1210,1200,1200,1211,11,5.354126134736337,0,stays_out,stays_out,stays_out,none,0,-1,-11,12,population_density
+RO_node_10295346393,RO,RCAST Hosting,316,422,565,871,316,871,555,240.9958505866854,0,stays_out,stays_out,stays_out,none,-106,143,449,156,population_density
+RO_node_11232265750,RO,,963,1116,1135,1149,963,1149,186,86.23369411082886,0,stays_out,stays_out,stays_out,none,-153,19,33,63,population_density
+GR_node_8542011751,GR,Nova Shop,872,1123,1161,1163,872,1163,291,139.7172740453616,0,stays_out,stays_out,stays_out,none,-251,38,40,65,population_density
+GR_way_352365291,GR,Cosmote,628,907,1064,1104,628,1104,476,215.94192892226064,0,stays_out,stays_out,stays_out,none,-279,157,197,130,population_density
+GR_way_718195570,GR,Med Nautilus,577,481,360,325,325,577,252,115.47402305280612,0,stays_out,stays_out,stays_out,none,96,-121,-156,73,population_density
+GR_way_1219002657,GR,Athens 3,1075,1174,1155,1084,1075,1174,99,49.8196748283246,0,stays_out,stays_out,stays_out,none,-99,-19,-90,25,anchors
+GR_way_1219002658,GR,Athens 1,1081,1176,1157,1083,1081,1176,95,49.40563395673277,0,stays_out,stays_out,stays_out,none,-95,-19,-93,25,anchors
+GR_way_1219002659,GR,Athens 2,1088,1178,1159,1086,1086,1178,92,47.69608649215014,0,stays_out,stays_out,stays_out,none,-90,-19,-92,23,anchors
+GR_way_1222992669,GR,,1202,1199,1197,1195,1195,1202,7,2.9860788111948193,0,stays_out,stays_out,stays_out,none,3,-2,-4,6,population_density

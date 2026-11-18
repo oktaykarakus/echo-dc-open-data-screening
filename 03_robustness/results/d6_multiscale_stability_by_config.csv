@@ -1,0 +1,7 @@
+config,n_top_decile_all_four_radii,n_top_decile_any_radius,baseline_stable_set_retained,baseline_stable_set_size,jaccard_stable_set_vs_baseline,top20_all_four,spearman_1km_vs_10km,rho_1km_vs_2p5km,top_overlap_1km_vs_2p5km,rho_5km_vs_2p5km,top_overlap_5km_vs_2p5km,rho_10km_vs_2p5km,top_overlap_10km_vs_2p5km,share_rank_range_ge200
+base,67,183,67,67,1.0,8,0.796144,0.944391,98,0.957112,106,0.872486,87,0.427632
+D2-B (no pop in Opp),65,184,62,67,0.885714,7,0.798369,0.941967,96,0.95579,104,0.875112,88,0.450658
+D2-C (no pop in Feas),68,184,62,67,0.849315,11,0.821382,0.945152,93,0.957812,104,0.888178,89,0.417763
+D3 w/o road_accessibility,63,189,51,67,0.64557,5,0.703936,0.924412,96,0.939571,103,0.809465,81,0.524671
+D4-A no clipping,65,184,62,67,0.885714,9,0.752644,0.929115,95,0.944978,104,0.843282,86,0.495066
+D4-A 2.5-97.5,69,181,66,67,0.942857,8,0.791001,0.943323,97,0.955386,108,0.868901,89,0.440789

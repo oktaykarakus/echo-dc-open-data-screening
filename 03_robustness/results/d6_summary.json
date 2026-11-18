@@ -1,0 +1,29 @@
+{
+ "most_influential_family": "road_accessibility",
+ "phaseC_reproduction_check_baseline": {
+  "1km": {
+   "rho": 0.9443913934765397,
+   "rho_phaseC": 0.9444,
+   "overlap": 98,
+   "overlap_phaseC": 98
+  },
+  "5km": {
+   "rho": 0.9571115326357222,
+   "rho_phaseC": 0.9571,
+   "overlap": 106,
+   "overlap_phaseC": 106
+  },
+  "10km": {
+   "rho": 0.8724864492784962,
+   "rho_phaseC": 0.8725,
+   "overlap": 87,
+   "overlap_phaseC": 87
+  }
+ },
+ "spearman_heat_vs_pop_indicator_by_radius": {
+  "1km": 0.9332601001958841,
+  "2p5km": 0.9586651933056225,
+  "5km": 0.963093639360029,
+  "10km": 0.9684059217818652
+ }
+}

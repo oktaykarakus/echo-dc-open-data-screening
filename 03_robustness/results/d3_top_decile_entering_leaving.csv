@@ -1,0 +1,157 @@
+family,status,facility_id,country,rank_full,rank_ablated
+heat_demand,leaves,DE_way_34943239,DE,120,133
+heat_demand,leaves,DE_way_387918535,DE,106,128
+heat_demand,leaves,DE_way_764604919,DE,122,135
+heat_demand,enters,FR_node_6016440346,FR,124,122
+heat_demand,enters,FR_node_6121968632,FR,138,112
+heat_demand,leaves,FR_node_9068699148,FR,119,125
+heat_demand,leaves,FR_way_50210667,FR,77,127
+heat_demand,enters,FR_way_68937644,FR,131,83
+heat_demand,enters,FR_way_68940404,FR,158,97
+heat_demand,enters,FR_way_76329433,FR,132,80
+heat_demand,enters,FR_way_79891578,FR,135,106
+heat_demand,enters,FR_relation_1227851,FR,123,115
+heat_demand,leaves,GB_node_11167049138,GB,104,148
+heat_demand,leaves,GB_node_11640787539,GB,101,124
+heat_demand,leaves,GB_way_34160179,GB,95,131
+heat_demand,leaves,GB_way_157178049,GB,115,142
+heat_demand,leaves,GB_way_190297843,GB,99,126
+heat_demand,leaves,GB_way_193806160,GB,107,134
+heat_demand,enters,PT_way_1205572867,PT,137,51
+heat_demand,enters,PT_way_1205572869,PT,141,55
+heat_demand,enters,PT_way_1205572870,PT,140,52
+heat_demand,enters,PT_way_1205573357,PT,195,89
+anchors,leaves,DE_way_34943239,DE,120,151
+anchors,enters,DE_way_48013154,DE,153,102
+anchors,enters,DE_way_48013155,DE,160,103
+anchors,enters,DE_way_48013156,DE,165,108
+anchors,enters,DE_way_168961561,DE,168,113
+anchors,enters,DE_way_326082813,DE,150,101
+anchors,enters,DE_way_326823358,DE,164,109
+anchors,enters,DE_way_749252262,DE,139,100
+anchors,leaves,DE_way_764604919,DE,122,136
+anchors,leaves,FR_node_6289527565,FR,121,159
+anchors,leaves,FR_node_7902351616,FR,103,130
+anchors,leaves,FR_node_8670065237,FR,94,134
+anchors,leaves,FR_node_9068699148,FR,119,135
+anchors,leaves,FR_way_49292264,FR,109,155
+anchors,leaves,FR_way_49292266,FR,108,154
+anchors,leaves,FR_way_62340941,FR,105,123
+anchors,leaves,FR_way_65043676,FR,118,157
+anchors,leaves,FR_way_76296417,FR,116,270
+anchors,leaves,FR_way_80158243,FR,117,133
+anchors,leaves,FR_way_757483478,FR,114,181
+anchors,enters,FR_way_847461128,FR,130,121
+anchors,leaves,FR_relation_3358244,FR,98,167
+anchors,enters,GB_way_38242832,GB,126,66
+anchors,enters,GB_way_166407577,GB,161,120
+anchors,enters,FI_node_8945351837,FI,151,94
+anchors,enters,NO_way_80871917,NO,127,92
+anchors,enters,CH_node_12304464632,CH,156,122
+anchors,enters,CH_way_54054377,CH,128,117
+urban_compactness,leaves,DE_way_150652357,DE,102,125
+urban_compactness,enters,DE_way_172856848,DE,136,114
+urban_compactness,enters,DE_way_749252262,DE,139,118
+urban_compactness,enters,FR_node_6212512538,FR,166,113
+urban_compactness,leaves,FR_node_6289527565,FR,121,182
+urban_compactness,leaves,FR_node_7902351616,FR,103,146
+urban_compactness,enters,FR_node_8670043375,FR,143,89
+urban_compactness,leaves,FR_way_62340941,FR,105,143
+urban_compactness,leaves,FR_way_65043676,FR,118,129
+urban_compactness,leaves,FR_way_80158243,FR,117,156
+urban_compactness,leaves,FR_way_757483478,FR,114,144
+urban_compactness,enters,GB_way_38242832,GB,126,109
+urban_compactness,leaves,IT_way_1125063250,IT,111,136
+urban_compactness,leaves,IT_way_1125063251,IT,110,134
+urban_compactness,leaves,IT_way_1125369577,IT,112,137
+urban_compactness,leaves,IT_way_1125369579,IT,113,138
+urban_compactness,enters,FI_node_8945351837,FI,151,99
+urban_compactness,enters,FI_node_12167701341,FI,199,121
+urban_compactness,enters,NO_way_80871917,NO,127,106
+urban_compactness,enters,CH_way_54054377,CH,128,119
+urban_compactness,enters,PT_way_1205572867,PT,137,115
+urban_compactness,enters,PT_way_1205572870,PT,140,122
+road_accessibility,leaves,DE_way_34943239,DE,120,147
+road_accessibility,leaves,DE_way_387918535,DE,106,139
+road_accessibility,leaves,DE_way_764604919,DE,122,211
+road_accessibility,leaves,DE_way_1031000203,DE,93,150
+road_accessibility,enters,FR_node_6016440346,FR,124,18
+road_accessibility,enters,FR_node_6121906640,FR,129,13
+road_accessibility,enters,FR_node_6212420800,FR,170,46
+road_accessibility,enters,FR_node_7522025783,FR,149,87
+road_accessibility,enters,FR_node_7902360503,FR,142,51
+road_accessibility,enters,FR_node_8904810128,FR,193,85
+road_accessibility,leaves,FR_node_9068699148,FR,119,179
+road_accessibility,leaves,FR_node_9068705141,FR,85,134
+road_accessibility,leaves,FR_way_37697561,FR,76,129
+road_accessibility,enters,FR_way_63259490,FR,250,77
+road_accessibility,leaves,FR_way_64201452,FR,89,156
+road_accessibility,leaves,FR_way_65043676,FR,118,126
+road_accessibility,enters,FR_way_68937644,FR,131,71
+road_accessibility,enters,FR_way_73120395,FR,134,103
+road_accessibility,leaves,FR_way_76296417,FR,116,167
+road_accessibility,enters,FR_way_80469752,FR,172,120
+road_accessibility,enters,FR_way_139560714,FR,253,102
+road_accessibility,leaves,FR_way_261420854,FR,45,125
+road_accessibility,enters,FR_way_537371615,FR,230,43
+road_accessibility,enters,FR_way_700652111,FR,125,31
+road_accessibility,enters,FR_way_847461128,FR,130,104
+road_accessibility,enters,FR_way_980368572,FR,163,105
+road_accessibility,leaves,FR_way_1030533210,FR,87,138
+road_accessibility,leaves,FR_way_1084581417,FR,65,132
+road_accessibility,leaves,FR_way_1180419924,FR,97,149
+road_accessibility,leaves,FR_way_1180419925,FR,83,141
+road_accessibility,enters,FR_relation_1227851,FR,123,14
+road_accessibility,leaves,FR_relation_3358244,FR,98,155
+road_accessibility,leaves,GB_node_12300408592,GB,25,124
+road_accessibility,leaves,GB_way_34160179,GB,95,188
+road_accessibility,leaves,GB_way_133868759,GB,53,166
+road_accessibility,leaves,GB_way_157178049,GB,115,198
+road_accessibility,leaves,GB_way_190297843,GB,99,207
+road_accessibility,leaves,GB_way_193806160,GB,107,210
+road_accessibility,leaves,GB_way_196783604,GB,90,187
+road_accessibility,leaves,GB_way_206625800,GB,84,181
+road_accessibility,leaves,GB_way_206625804,GB,88,184
+road_accessibility,leaves,GB_way_320724394,GB,96,183
+road_accessibility,leaves,GB_way_497956675,GB,80,172
+road_accessibility,enters,BE_way_150278436,BE,180,86
+road_accessibility,enters,IT_way_847959022,IT,145,47
+road_accessibility,leaves,AT_way_714122239,AT,52,127
+road_accessibility,leaves,AT_way_1251362833,AT,50,123
+road_accessibility,enters,CH_node_12304464632,CH,156,78
+road_accessibility,enters,CZ_node_11436652398,CZ,292,63
+road_accessibility,enters,CZ_node_12015570907,CZ,379,74
+road_accessibility,enters,CZ_way_22776917,CZ,216,39
+road_accessibility,enters,HU_node_1530992851,HU,322,68
+road_accessibility,enters,HU_node_9379430388,HU,318,64
+road_accessibility,enters,HU_node_9753118609,HU,144,76
+road_accessibility,enters,HU_node_9753176163,HU,270,40
+road_accessibility,enters,HU_way_256121487,HU,175,92
+road_accessibility,enters,HU_way_261477906,HU,231,110
+road_accessibility,enters,RO_node_6345712694,RO,364,117
+[sub] hotmaps_only,leaves,DE_way_764604919,DE,122,124
+[sub] hotmaps_only,leaves,FR_node_6289527565,FR,121,126
+[sub] hotmaps_only,leaves,FR_node_9068699148,FR,119,131
+[sub] hotmaps_only,enters,FR_way_79891578,FR,135,118
+[sub] hotmaps_only,leaves,GB_way_157178049,GB,115,129
+[sub] hotmaps_only,leaves,IT_way_1125369577,IT,112,123
+[sub] hotmaps_only,enters,NO_way_80871917,NO,127,114
+[sub] hotmaps_only,enters,PT_way_1205572867,PT,137,99
+[sub] hotmaps_only,enters,PT_way_1205572869,PT,141,102
+[sub] hotmaps_only,enters,PT_way_1205572870,PT,140,101
+[sub] hdd_only,leaves,DE_way_34943239,DE,120,135
+[sub] hdd_only,leaves,DE_way_387918535,DE,106,126
+[sub] hdd_only,leaves,DE_way_764604919,DE,122,137
+[sub] hdd_only,enters,FR_node_6016440346,FR,124,122
+[sub] hdd_only,leaves,FR_way_50210667,FR,77,124
+[sub] hdd_only,leaves,FR_way_65043676,FR,118,127
+[sub] hdd_only,enters,FR_way_68937644,FR,131,85
+[sub] hdd_only,enters,FR_way_68940404,FR,158,103
+[sub] hdd_only,enters,FR_way_76329433,FR,132,91
+[sub] hdd_only,enters,FR_relation_1227851,FR,123,121
+[sub] hdd_only,leaves,GB_node_11167049138,GB,104,143
+[sub] hdd_only,leaves,GB_way_157178049,GB,115,129
+[sub] hdd_only,leaves,GB_way_193806160,GB,107,123
+[sub] hdd_only,enters,PT_way_1205572867,PT,137,86
+[sub] hdd_only,enters,PT_way_1205572869,PT,141,90
+[sub] hdd_only,enters,PT_way_1205572870,PT,140,89

@@ -1,0 +1,17 @@
+scale,pair,spearman,top_decile_overlap
+1km,equal vs literature_informed,0.9899410719805999,114
+1km,equal vs entropy,0.9863705462948282,107
+1km,equal vs entropy_ref,0.9978173220720326,115
+1km,literature_informed vs entropy,0.967205792372834,108
+2p5km,equal vs literature_informed,0.993969501800089,115
+2p5km,equal vs entropy,0.9987453636297142,116
+2p5km,equal vs entropy_ref,0.9987453636297142,116
+2p5km,literature_informed vs entropy,0.9923353664754724,112
+5km,equal vs literature_informed,0.9954084050245523,117
+5km,equal vs entropy,0.9992069117222286,120
+5km,equal vs entropy_ref,0.9990536585613279,120
+5km,literature_informed vs entropy,0.9940211312236282,117
+10km,equal vs literature_informed,0.9947045470198826,121
+10km,equal vs entropy,0.9985495508987633,122
+10km,equal vs entropy_ref,0.9990508621900167,121
+10km,literature_informed vs entropy,0.9935666241137707,121

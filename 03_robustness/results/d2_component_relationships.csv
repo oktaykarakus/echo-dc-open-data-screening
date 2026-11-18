@@ -1,0 +1,4 @@
+config,spearman_opp_feas,pearson_opp_feas,spearman_opp_pop,spearman_feas_pop,spearman_composite_pop,mean_opp,mean_feas,n_top_decile_FR,n_top_decile_GB,n_top_decile_DE
+D2-A,0.77309,0.775668,0.887892,0.885684,0.93888,0.583307,0.502612,84,25,6
+D2-B,0.711938,0.71923,0.823263,0.885684,0.926449,0.584055,0.502612,85,23,6
+D2-C,0.68459,0.679079,0.887892,0.79159,0.899512,0.583307,0.476961,82,27,6

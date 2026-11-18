@@ -1,0 +1,99 @@
+{
+ "reconstruction_noise_floor": {
+  "what": "stage 01 B0-QA literature rank vs recovered original-era literature rank",
+  "median": 2.0,
+  "p90": 9.0,
+  "p99": 61.349999999999,
+  "max": 191,
+  "share_ge100": 0.007401315789473684,
+  "spearman_phaseB": 0.999
+ },
+ "k_top_decile": 122,
+ "n": 1216,
+ "threshold_moderate": 100,
+ "threshold_substantial": 200,
+ "n_top_all_four": 67,
+ "n_top_any_scale": 183,
+ "spearman_vs_2p5km": {
+  "1km": 0.9443913934765397,
+  "5km": 0.9571115326357222,
+  "10km": 0.8724864492784962
+ },
+ "top20_all_four": 8,
+ "rank_range_counts": {
+  "range_ge_50": 1095,
+  "range_ge_100": 908,
+  "range_ge_200": 520,
+  "range_ge_400": 109
+ },
+ "n_sensitive": 520,
+ "share_sensitive": 0.4276315789473684,
+ "median_rank_range": 180.0,
+ "median_abs_dRank": {
+  "1km": 64.0,
+  "5km": 61.0,
+  "10km": 102.0
+ },
+ "kruskal_country_effect_on_dRank": {
+  "1km": {
+   "H": 43.30009739340534,
+   "p": 4.0059665709531524e-05,
+   "epsilon_sq": 0.02653248458266667,
+   "countries": 14,
+   "n": 1156
+  },
+  "5km": {
+   "H": 122.11692048092881,
+   "p": 7.678592939090333e-20,
+   "epsilon_sq": 0.09554896714617234,
+   "countries": 14,
+   "n": 1156
+  },
+  "10km": {
+   "H": 63.36068937490335,
+   "p": 1.3066170800775671e-08,
+   "epsilon_sq": 0.04409867721094864,
+   "countries": 14,
+   "n": 1156
+  }
+ },
+ "hotmaps_gap_check": {
+  "1km": {
+   "rho_all": 0.9443913934765397,
+   "rho_excl_15_gap_sites": 0.9431947863746378
+  },
+  "5km": {
+   "rho_all": 0.9571115326357222,
+   "rho_excl_15_gap_sites": 0.9560556857083878
+  },
+  "10km": {
+   "rho_all": 0.8724864492784962,
+   "rho_excl_15_gap_sites": 0.8686900890965792
+  }
+ },
+ "top_status_counts": {
+  "1km": {
+   "stays_out": 1070,
+   "stays_top": 98,
+   "enters": 24,
+   "exits": 24
+  },
+  "5km": {
+   "stays_out": 1078,
+   "stays_top": 106,
+   "exits": 16,
+   "enters": 16
+  },
+  "10km": {
+   "stays_out": 1059,
+   "stays_top": 87,
+   "exits": 35,
+   "enters": 35
+  }
+ },
+ "top_pattern_counts": {
+  "none": 1033,
+  "some": 116,
+  "all_four": 67
+ }
+}

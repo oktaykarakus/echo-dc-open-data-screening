@@ -1,0 +1,38 @@
+{
+ "gate_max_abs_diff": 1.1102230246251565e-16,
+ "gate_detail": {
+  "opportunity_score_equal": 1.1102230246251565e-16,
+  "feasibility_score_equal": 1.1102230246251565e-16,
+  "echo_dc_score_raw_equal": 1.1102230246251565e-16,
+  "echo_dc_score_equal": 0.0,
+  "echo_dc_rank_equal": 0,
+  "opportunity_score_literature_informed": 1.1102230246251565e-16,
+  "feasibility_score_literature_informed": 1.1102230246251565e-16,
+  "echo_dc_score_raw_literature_informed": 1.1102230246251565e-16,
+  "echo_dc_score_literature_informed": 0.0,
+  "echo_dc_rank_literature_informed": 0,
+  "opportunity_score_entropy": 1.1102230246251565e-16,
+  "feasibility_score_entropy": 1.1102230246251565e-16,
+  "echo_dc_score_raw_entropy": 1.1102230246251565e-16,
+  "echo_dc_score_entropy": 0.0,
+  "echo_dc_rank_entropy": 0,
+  "norm_heat_sum_2p5km": 1.1102230246251565e-16,
+  "norm_pop_density_2p5km": 1.1102230246251565e-16,
+  "norm_hdd_2024": 1.1102230246251565e-16,
+  "norm_anchor_count_2p5km": 1.1102230246251565e-16,
+  "norm_anchor_diversity_2p5km": 0.0,
+  "norm_nearest_anchor_distance_m": 1.1102230246251565e-16,
+  "norm_urban_compactness_2p5km": 1.1102230246251565e-16,
+  "norm_major_road_density_2p5km": 1.1102230246251565e-16,
+  "norm_nearest_major_road_distance_m": 1.1102230246251565e-16
+ },
+ "protocolB_ref_check": {
+  "equal": 0.0,
+  "literature_informed": 0.0,
+  "entropy_ref": 0.0
+ },
+ "n_facilities": 1216,
+ "n_countries": 20,
+ "top_decile_k": 122,
+ "tolerance": 1e-12
+}

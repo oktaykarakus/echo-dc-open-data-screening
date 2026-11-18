@@ -1,0 +1,6 @@
+group,ablation_mean_abs_dRank_at_2p5km,ablation_spearman,ablation_top_decile_overlap,mean_abs_dRank_single_factor_scale_shift_avg_over_radii,revert_share_of_total_mean_abs_dRank_avg,argmax_driver_count_all_1216,argmax_driver_count_sensitive_520,note
+heat_demand,12.945724,0.998685,117,10.378838,0.082618,0,0,
+anchors,30.434211,0.99268,117,35.54386,0.217984,416,168,
+urban_compactness,36.192434,0.989885,111,26.775768,0.202061,117,70,
+road_density,35.453947,0.989689,106,33.427083,0.103921,375,128,
+population_density,37.108553,0.989585,112,31.839364,0.261582,308,154,"ablation removes population from BOTH components (context only, not a D2 configuration)"

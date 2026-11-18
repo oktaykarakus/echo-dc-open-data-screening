@@ -1,0 +1,7 @@
+{
+ "spearman_pop_indicator_vs_delta_rank": {
+  "D2-B": 0.23652324703237265,
+  "D2-C": 0.29818502311144274
+ },
+ "interpretation": "negative = higher-population sites move up (rank number falls) relative to A"
+}

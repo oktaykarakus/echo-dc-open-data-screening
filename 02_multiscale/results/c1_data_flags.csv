@@ -1,0 +1,7 @@
+flag,n_facilities,comment
+Hotmaps 1 km gap (zero-filled),15,1 km heat sum = 0 for these; original authors' fill; kept (no invention). Sensitivity run in C5.
+Anchor count = 0 at 1 km,317,"26% of sites have no anchor within 1 km; log1p(0)=0, diversity 0."
+Road density = 0 at 1 km,260,No strategic road within 1 km; p05 of the 1 km distribution is 0.
+Anchor diversity saturated (=4) at 5 km,911,"median = p95 = 4, so norm diversity is 1 for >50% of sites at >=5 km."
+Anchor diversity saturated (=4) at 10 km,1086,as above
+Nearest-anchor dist > radius when 0 anchors in catchment (1 km),1,"consistency check: 1 case (GB_way_187251460, nearest anchor 999.96 m) is explained by the 16-segment polygon buffer (area 3.1365 km2 vs pi); counts are otherwise consistent with nearest distance at all four radii"

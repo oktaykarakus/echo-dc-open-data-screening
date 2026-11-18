@@ -1,0 +1,20 @@
+{
+ "n_flagged_1km_gap": 15,
+ "n_zero_heat_1km": 15,
+ "n_zero_heat_1km_not_flagged (observed zeros)": 0,
+ "n_zero_heat_mean_1km": 15,
+ "zero_heat_sum_by_radius": {
+  "1km": 15,
+  "2p5km": 2,
+  "5km": 0,
+  "10km": 0
+ },
+ "zero_heat_sum_2p5km_ids": [
+  "ES_way_1074785161",
+  "NO_node_12158409495"
+ ],
+ "zero_2p5km_ids_all_within_flagged_15": true,
+ "flagged_with_zero_at_2p5km": 2,
+ "flagged_median_pop_density_1km": 9.227870566033374,
+ "all_median_pop_density_1km": 2212.945950679884
+}

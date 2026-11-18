@@ -1,0 +1,15 @@
+                             column    n  max_abs_diff  n_exact  n_diff_gt_1e-9  nan_mismatch
+           major_road_length_1km_km 1216  0.000000e+00     1216               0             0
+                buffer_area_1km_km2 1216  4.440892e-16      872               0             0
+  major_road_density_1km_km_per_km2 1216  0.000000e+00     1216               0             0
+         major_road_length_2p5km_km 1216  0.000000e+00     1216               0             0
+              buffer_area_2p5km_km2 1216  3.552714e-15     1193               0             0
+major_road_density_2p5km_km_per_km2 1216  0.000000e+00     1216               0             0
+           major_road_length_5km_km 1216  0.000000e+00     1216               0             0
+                buffer_area_5km_km2 1216  0.000000e+00     1216               0             0
+  major_road_density_5km_km_per_km2 1216  0.000000e+00     1216               0             0
+          major_road_length_10km_km 1216  0.000000e+00     1216               0             0
+               buffer_area_10km_km2 1216  0.000000e+00     1216               0             0
+ major_road_density_10km_km_per_km2 1216  0.000000e+00     1216               0             0
+      nearest_major_road_distance_m 1216  4.547474e-13     1071               0             0
+seconds 64

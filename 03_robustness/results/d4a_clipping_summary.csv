@@ -1,0 +1,3 @@
+n,k_top_decile,spearman,kendall_tau_b,top_decile_overlap,top_decile_overlap_share,top20_overlap,median_abs_drank,mean_abs_drank,p90_abs_drank,p99_abs_drank,max_abs_drank,share_abs_drank_ge100,share_abs_drank_ge200,n_enter_top_decile,n_leave_top_decile,variant,pearson_score_r
+1216,122,0.995467,0.942352,111,0.909836,15,20.0,25.307566,57.0,93.7,183,0.005757,0.0,11,11,none_min_max,0.993307
+1216,122,0.999271,0.977848,116,0.95082,19,8.0,9.917763,22.0,42.0,75,0.0,0.0,6,6,modest_2p5_97p5,0.99843

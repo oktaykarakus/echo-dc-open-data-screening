@@ -1,0 +1,67 @@
+{
+ "phaseC_label_replicated_exactly": true,
+ "n_sensitive_sites": 520,
+ "argmax_label_counts_all_1216": {
+  "anchors": 416,
+  "road_density": 375,
+  "population_density": 308,
+  "urban_compactness": 117
+ },
+ "argmax_label_counts_sensitive": {
+  "anchors": 168,
+  "population_density": 154,
+  "road_density": 128,
+  "urban_compactness": 70
+ },
+ "argmax_rule": "label = max over 5 groups x 3 radii of (|dRank|, group name): winner-take-all, ties resolved alphabetically",
+ "per_scale_heat_diagnostics": {
+  "1km": {
+   "heat_strict_wins": 2,
+   "heat_shift_ge10": 471,
+   "heat_shift_ge25": 85,
+   "heat_shift_ge50": 14,
+   "heat_shift_ge100": 0,
+   "heat_mean_abs": 9.754934210526315,
+   "heat_p99_abs": 51.0,
+   "heat_max_abs": 75,
+   "heat_mean_share_of_summed_single_factor_shifts": 0.06802471378279486,
+   "heat_mean_share_in_sensitive_sites": 0.06768872387533512
+  },
+  "5km": {
+   "heat_strict_wins": 4,
+   "heat_shift_ge10": 401,
+   "heat_shift_ge25": 68,
+   "heat_shift_ge50": 0,
+   "heat_shift_ge100": 0,
+   "heat_mean_abs": 8.27796052631579,
+   "heat_p99_abs": 35.0,
+   "heat_max_abs": 49,
+   "heat_mean_share_of_summed_single_factor_shifts": 0.07502258702735375,
+   "heat_mean_share_in_sensitive_sites": 0.07402364312999585
+  },
+  "10km": {
+   "heat_strict_wins": 4,
+   "heat_shift_ge10": 613,
+   "heat_shift_ge25": 195,
+   "heat_shift_ge50": 18,
+   "heat_shift_ge100": 0,
+   "heat_mean_abs": 13.103618421052632,
+   "heat_p99_abs": 56.0,
+   "heat_max_abs": 76,
+   "heat_mean_share_of_summed_single_factor_shifts": 0.08405168369945325,
+   "heat_mean_share_in_sensitive_sites": 0.08139128862886065
+  }
+ },
+ "phaseC_revert_share_of_total_mean_abs_dRank_heat": {
+  "1km": 0.07690714662248663,
+  "5km": 0.07832182464950826,
+  "10km": 0.09262507205671314
+ },
+ "norm_heat_spearman_vs_2p5km": {
+  "1km": 0.9260020528879068,
+  "5km": 0.947630452670937,
+  "10km": 0.825898984913596
+ },
+ "most_influential_primary_family_prespecified_criterion": "road_accessibility",
+ "criterion": "lowest top-decile overlap with the full index among the four primary families (ties: lowest Spearman)"
+}
