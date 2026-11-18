@@ -1,0 +1,6 @@
+n_units,n_records,top_decile_k,spearman_1km_vs_2p5km,top_decile_overlap_1km_vs_2p5km,spearman_5km_vs_2p5km,top_decile_overlap_5km_vs_2p5km,spearman_10km_vs_2p5km,top_decile_overlap_10km_vs_2p5km,top_decile_all4_scales,top_decile_ge1_scale,rank_range_threshold_scaled,share_rank_range_ge_scaled_threshold,view,rep_rule
+1216,1216,122,0.9444,98,0.9571,106,0.8725,87,67,183,200.0,0.428,record,best-scoring member
+1200,1216,120,0.9441,96,0.9565,106,0.8712,87,67,178,197.4,0.43,minimal_T1,best-scoring member
+1017,1216,102,0.9431,78,0.9555,89,0.8643,73,53,158,167.3,0.448,primary,best-scoring member
+820,1216,82,0.9413,65,0.9529,71,0.8586,59,45,124,134.9,0.472,proximity_only_250m,best-scoring member
+1017,1216,102,0.9429,78,0.9553,89,0.8638,73,53,158,167.3,0.447,primary,medoid member (convention sensitivity)

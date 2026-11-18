@@ -1,0 +1,5 @@
+case,case_id,original_facility_id,original_rank,b0qa_rank,project_records,project_ranks_2p5km,project_ranks_1_5_10km,original_record_is_in_E1_match,campus_groups,original_status_label,phase_e_status,phase_e_match
+Equinix PA10,E01,FR_way_1121454054,73,70,1,70,1km:70 ; 5km:58 ; 10km:61,True,G036,Operational: Yes,Operational,High
+Telia HDC,E02,FI_way_640329703,222,221,1,221,1km:222 ; 5km:203 ; 10km:174,True,,Operational: Yes,Operational,High
+Meta Odense Data center,E03,DK_way_940299764,951,950,2,946/950,1km:929/951 ; 5km:1017/1014 ; 10km:971/987,True,,Operational: Yes,Operational,High
+NorthC Datacenter Aalsmeer,E04,NL_node_2765259404,711,707,1,707,1km:568 ; 5km:720 ; 10km:688,True,,Operational: Not confirmed,Operational,High

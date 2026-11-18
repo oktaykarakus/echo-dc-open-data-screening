@@ -1,0 +1,15 @@
+change,spearman,top_decile_overlap,group
+Clipping window 2.5–97.5%,0.999271,116.0,m
+Hotmaps heat removed,0.998685,117.0,m
+Population removed from Opportunity,0.998664,119.0,m
+No clipping (min–max),0.995467,111.0,m
+Heat family removed (Hotmaps + HDD),0.992101,111.0,m
+Population removed from Feasibility,0.991986,114.0,m
+Urban compactness removed,0.989885,111.0,m
+Anchors removed,0.975043,108.0,m
+Road accessibility removed,0.958135,93.0,m
+Radius 5 km vs 2.5 km,0.9571,106.0,r
+Radius 1 km vs 2.5 km,0.9444,98.0,r
+Composite vs population density alone,0.938896,94.0,c
+Composite vs Hotmaps heat alone,0.929907,87.0,c
+Radius 10 km vs 2.5 km,0.8725,87.0,r

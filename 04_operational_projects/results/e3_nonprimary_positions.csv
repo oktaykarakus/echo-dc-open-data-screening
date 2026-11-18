@@ -1,0 +1,5 @@
+case_id,facility,status,match_confidence,n_records,rank_1km,rank_2p5km,rank_5km,rank_10km,best_rank_2p5km,worst_rank_2p5km
+E09,"AWS data centre, Tallaght",Operational,Ambiguous,5,500.0,458.0,505.0,523.0,411.0,572.0
+E10,Digital Realty Stockholm Kista campus (STO1-STO5),Unverified,High,1,497.0,589.0,461.0,433.0,589.0,589.0
+E12,Apple Viborg data centre,Announced / planned,High,1,1119.0,1155.0,1145.0,1159.0,1155.0,1155.0
+E13,Equinix AM4,Announced / planned,Medium,1,466.0,336.0,270.0,298.0,336.0,336.0

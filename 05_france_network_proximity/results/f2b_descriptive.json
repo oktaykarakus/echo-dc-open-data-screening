@@ -1,0 +1,47 @@
+{
+ "n_eligible": 322,
+ "n_positive": 247,
+ "prevalence": 0.7670807453416149,
+ "spearman_A_vs_P_on_eligible": 0.9526835349721916,
+ "spearman_A_vs_H_on_eligible": 0.954234487909666,
+ "spearman_B*_vs_A_on_eligible": 0.9546827007284449,
+ "block_counts_50km": {
+  "nonempty": 48,
+  "bootstrap_groups": 48
+ },
+ "bootstrap": {
+  "reps": 2000,
+  "seed_base": 20261107,
+  "skipped_reps_50km": 0,
+  "skipped_25km": 0,
+  "skipped_100km": 0
+ },
+ "dAUC_A_halfwidth_by_block_km": {
+  "50": 0.0173,
+  "25": 0.0176,
+  "100": 0.0142
+ },
+ "halfwidth_ratio_max_over_min": 1.233,
+ "interval_used_as_primary_km": 50,
+ "record_level_benchmark_dAUC_A_ci90": [
+  -0.010374896103824804,
+  0.017000374448358533
+ ],
+ "approx_design_effect_dAUC_A_(var_block/var_record)": 1.5,
+ "access_partial_spearman_given_DSF": {
+  "road_density": {
+   "estimate": 0.1697,
+   "ci90": [
+    0.0966,
+    0.3075
+   ]
+  },
+  "nearest_road_distance": {
+   "estimate": -0.2012,
+   "ci90": [
+    -0.3008,
+    -0.0603
+   ]
+  }
+ }
+}

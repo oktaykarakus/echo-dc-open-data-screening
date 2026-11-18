@@ -1,0 +1,18 @@
+Statistic,Observed,Benchmark mean,Central 90% of benchmark,Observed percentile,Inside interval
+top_decile_all4,67,63.4,56–71,78,yes
+top_decile_at_least_once,183,191.0,181–201,8,yes
+top20_all4,8,7.3,4–10,63,yes
+range_ge_200,520,536.2,502–571,22,yes
+range_ge_50,1095,1106.7,1091–1122,11,yes
+range_ge_100,908,924.7,901–949,13,yes
+range_ge_400,109,119.7,99–143,22,yes
+overlap_top_decile_1km_vs_2p5km,98,94.6,88–100,84,yes
+overlap_top_decile_1km_vs_5km,85,82.8,76–89,70,yes
+overlap_top_decile_1km_vs_10km,69,69.8,63–77,43,yes
+overlap_top_decile_2p5km_vs_5km,106,98.1,93–103,99,no
+overlap_top_decile_2p5km_vs_10km,87,80.9,74–87,93,yes
+overlap_top_decile_5km_vs_10km,99,95.4,89–101,85,yes
+rank_range_median,180,179.4,170–189,54,yes
+rank_range_p90,388.5,397.0,376–419,27,yes
+rank_range_p99,635.95,616.9,578–659,78,yes
+max_rank_displacement,808,811.3,720–919,52,yes

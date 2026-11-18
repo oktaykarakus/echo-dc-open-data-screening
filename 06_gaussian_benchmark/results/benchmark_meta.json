@@ -1,0 +1,131 @@
+{
+ "alignment_checks": {
+  "c5_ranks_equal_long_table_ranks": true,
+  "ids_identical_across_radii": true,
+  "ids_unique": true,
+  "n_facilities": 1216,
+  "ranks_are_permutations_1_to_n": true,
+  "rows_per_radius": {
+   "1": 1216,
+   "10": 1216,
+   "2.5": 1216,
+   "5": 1216
+  }
+ },
+ "config": {
+  "extra_range_thresholds": [
+   50,
+   100,
+   400
+  ],
+  "n_replicates": 2000,
+  "radii": [
+   "1km",
+   "2p5km",
+   "5km",
+   "10km"
+  ],
+  "range_threshold": 200,
+  "rank_rule": "rank 1 = highest latent value; ties (probability zero) broken by row order via stable sort",
+  "seed": 20261107,
+  "top20_k": 20,
+  "top_decile_k": 122
+ },
+ "inputs_sha256": {
+  "02_multiscale/results/c5_facility_sensitivity_equal.csv": "f8129de55df2de64fdc5d24fcf3e1f5511ca658e01494cc802f46e7208ba20ee",
+  "02_multiscale/results/c5_range_by_rank_decile_2p5km.csv": "5ce3d15b6ea6a0dce06f8490a048f46c5e56d3cc9d5f017fd2c98beb4e18605e",
+  "02_multiscale/results/multiscale_scores_long.csv": "42a2a78cc9e39abe3daf33ecd3e45fb9857dcb9576096f4a4832399a6f35f7dc"
+ },
+ "latent_gaussian_correlation": [
+  [
+   1.0,
+   0.949152,
+   0.894894,
+   0.809783
+  ],
+  [
+   0.949152,
+   1.0,
+   0.960856,
+   0.882216
+  ],
+  [
+   0.894894,
+   0.960856,
+   1.0,
+   0.951107
+  ],
+  [
+   0.809783,
+   0.882216,
+   0.951107,
+   1.0
+  ]
+ ],
+ "latent_min_eigenvalue": 0.016724914576015833,
+ "limitations": [
+  "Descriptive dependence benchmark, not a spatially explicit or causal null model.",
+  "Facilities exchangeable: no geography, clustering, country composition, or per-facility heterogeneity.",
+  "Gaussian copula fitted to pairwise Spearman only; real dependence may be non-elliptical or tail-dependent.",
+  "Simulation intervals describe Monte Carlo variation of the benchmark, not confidence intervals for the real population.",
+  "Says nothing about validity or heat-reuse suitability of any ranking."
+ ],
+ "mc_stability": {
+  "range_ge_200": {
+   "mc_standard_error_of_mean": 0.475,
+   "mean_first_half": 536.572,
+   "mean_second_half": 535.732
+  },
+  "top20_all4": {
+   "mc_standard_error_of_mean": 0.041,
+   "mean_first_half": 7.332,
+   "mean_second_half": 7.347
+  },
+  "top_decile_all4": {
+   "mc_standard_error_of_mean": 0.104,
+   "mean_first_half": 63.368,
+   "mean_second_half": 63.419
+  },
+  "top_decile_at_least_once": {
+   "mc_standard_error_of_mean": 0.132,
+   "mean_first_half": 191.088,
+   "mean_second_half": 190.918
+  }
+ },
+ "observed_spearman_matrix": [
+  [
+   1.0,
+   0.944391,
+   0.886,
+   0.796144
+  ],
+  [
+   0.944391,
+   1.0,
+   0.957112,
+   0.872486
+  ],
+  [
+   0.886,
+   0.957112,
+   1.0,
+   0.946513
+  ],
+  [
+   0.796144,
+   0.872486,
+   0.946513,
+   1.0
+  ]
+ ],
+ "psd": true,
+ "software": {
+  "numpy": "2.0.2",
+  "pandas": "2.3.1",
+  "platform": "macOS-26.7.2-arm64-arm-64bit",
+  "python": "3.9.6",
+  "scipy": "1.13.1"
+ },
+ "strictly_positive_definite": true,
+ "transformation": "r = 2 sin(pi * rho_S / 6); exact for bivariate Gaussian (rho_S = (6/pi) arcsin(r/2))"
+}

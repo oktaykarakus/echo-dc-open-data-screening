@@ -1,0 +1,15 @@
+{
+ "record_top_decile_records": 122,
+ "record_top_decile_distinct_units": 100,
+ "record_top_decile_records_in_multi_record_groups": 35,
+ "multi_record_groups_touching_record_top_decile": 13,
+ "unit_top_decile_k": 102,
+ "unit_top_decile_units_also_containing_a_record_top_decile_member": 100,
+ "unit_top_decile_units_new_vs_record_top_decile": 2,
+ "record_top_decile_units_leaving": 0,
+ "country_total_variation_distance_pp": 2.3,
+ "max_abs_country_share_change_pp": 2.3,
+ "record_level_top_decile_all4": 67,
+ "record_level_top_decile_ge1": 183,
+ "record_level_share_rank_range_ge200": 0.428
+}

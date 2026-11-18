@@ -1,0 +1,75 @@
+{
+ "gates_ok": true,
+ "g4_ok": true,
+ "tiers_vs_P": {
+  "A": {
+   "dAUC": 0.0031,
+   "ci90": [
+    -0.0128,
+    0.0217
+   ],
+   "halfwidth": 0.0173,
+   "precision_ok_both_budgets": true,
+   "sensitivity_signs_positive[S1,S2,S3,S4]": [
+    true,
+    true,
+    false,
+    true
+   ],
+   "any_sensitivity_ci_entirely_below_0": false,
+   "tier": "Limited support"
+  },
+  "H": {
+   "dAUC": -0.0003,
+   "ci90": [
+    -0.0093,
+    0.0106
+   ],
+   "halfwidth": 0.0099,
+   "precision_ok_both_budgets": true,
+   "sensitivity_signs_positive[S1,S2,S3,S4]": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "any_sensitivity_ci_entirely_below_0": false,
+   "tier": "Limited support"
+  },
+  "B*": {
+   "dAUC": 0.0096,
+   "ci90": [
+    -0.0056,
+    0.0267
+   ],
+   "halfwidth": 0.0161,
+   "precision_ok_both_budgets": true,
+   "sensitivity_signs_positive[S1,S2,S3,S4]": [
+    true,
+    true,
+    false,
+    true
+   ],
+   "any_sensitivity_ci_entirely_below_0": false,
+   "tier": "Limited support"
+  },
+  "C": {
+   "dAUC": -0.0166,
+   "ci90": [
+    -0.0436,
+    0.0048
+   ],
+   "halfwidth": 0.0242,
+   "precision_ok_both_budgets": true,
+   "sensitivity_signs_positive[S1,S2,S3,S4]": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "any_sensitivity_ci_entirely_below_0": false,
+   "tier": "Limited support"
+  }
+ },
+ "note": "Tier for A is the confirmatory result; H, B*, C are exploratory (same rules)."
+}

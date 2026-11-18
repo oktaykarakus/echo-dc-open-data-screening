@@ -1,0 +1,5 @@
+view,denominator,n_projects,median_rank_2p5km,median_top_share_pct_2p5km,top10,top20,top50,top10_all_scales,thresholds
+record,1216,8,605.5,49.8,1,3,4,2 / 1 / 1 / 1,122/244/608
+minimal_T1,1200,8,598.0,49.8,1,3,4,2 / 1 / 1 / 1,120/240/600
+primary,1017,8,494.5,48.6,1,3,4,2 / 1 / 1 / 1,102/204/509
+proximity_only_250m,820,8,397.5,48.5,1,3,4,1 / 1 / 1 / 1,82/164/410

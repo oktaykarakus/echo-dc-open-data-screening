@@ -1,0 +1,13 @@
+Statistic,Observed,Benchmark mean,Central 90% of benchmark,Observed percentile,Inside interval
+Top decile at all four radii,67,63.4,56–71,78,yes
+Top decile at ≥ 1 radius,183,191.0,181–201,8,yes
+Top 20 at all four radii,8,7.3,4–10,63,yes
+Rank range ≥ 100,908,924.7,901–949,13,yes
+Rank range ≥ 200,520,536.2,502–571,22,yes
+Rank range ≥ 400,109,119.7,99–143,22,yes
+"Top-decile overlap, 1 vs 2.5 km",98,94.6,88–100,84,yes
+"Top-decile overlap, 2.5 vs 5 km",106,98.1,93–103,99,no
+"Top-decile overlap, 2.5 vs 10 km",87,80.9,74–87,93,yes
+"Top-decile overlap, 1 vs 10 km",69,69.8,63–77,43,yes
+Median rank range,180,179.4,170–189,54,yes
+Maximum rank displacement,808,811.3,720–919,52,yes

@@ -1,0 +1,5 @@
+Comparator,Spearman ρ,Kendall τ-b,Top-decile overlap (of 122),Top-20 overlap,Median |Δrank|,Share |Δrank| ≥ 100 (%),Composite-only top-decile records
+Hotmaps heat demand,0.930,0.771,87,9,76,38,35
+Population density,0.939,0.785,94,8,69,35,28
+Opportunity component,0.918,0.747,75,6,92,46,47
+Feasibility component,0.957,0.825,101,12,56,28,21

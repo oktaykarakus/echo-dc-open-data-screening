@@ -1,0 +1,37 @@
+view,case_id,facility,n_records,n_units_spanned,unit_rank_1km,unit_rank_2p5km,unit_rank_5km,unit_rank_10km,n_units,unit_rank_2p5km_top_share_pct,n_records_that_are_unit_representative_2p5km,group_size_of_record(s)
+minimal_T1,E01,Equinix PA10,1,1,67.0,70.0,58.0,61.0,1200,5.8,1,1
+minimal_T1,E02,Telia Helsinki Data Center (Telia HDC),1,1,217.0,216.0,198.0,174.0,1200,18.0,1,1
+minimal_T1,E03,Meta Odense data centre,2,2,927.0,935.0,1001.5,967.0,1200,77.9,2,1
+minimal_T1,E04,NorthC Datacenter Aalsmeer,1,1,562.0,698.0,710.0,682.0,1200,58.2,1,1
+minimal_T1,E05,Digital Realty VIE1 & VIE2,1,1,114.0,143.0,188.0,196.0,1200,11.9,1,1
+minimal_T1,E06,Google Hamina data centre,4,4,1145.0,1178.5,1165.5,1175.5,1200,98.2,4,1
+minimal_T1,E07,NorthC Datacenter Eindhoven (High Tech Campus),1,1,736.0,498.0,507.0,553.0,1200,41.5,1,1
+minimal_T1,E08,Yandex Mantsala data centre,2,2,909.0,962.0,1032.0,1098.0,1200,80.2,2,1
+minimal_T1,E09,"AWS data centre, Tallaght",5,5,494.0,452.0,499.0,518.0,1200,37.7,5,1
+minimal_T1,E10,Digital Realty Stockholm Kista campus (STO1-STO5),1,1,491.0,583.0,455.0,428.0,1200,48.6,1,1
+minimal_T1,E12,Apple Viborg data centre,1,1,1105.0,1140.0,1130.0,1145.0,1200,95.0,1,1
+minimal_T1,E13,Equinix AM4,1,1,460.0,331.0,265.0,293.0,1200,27.6,1,1
+primary,E01,Equinix PA10,1,1,46.0,55.0,39.0,46.0,1017,5.4,0,4
+primary,E02,Telia Helsinki Data Center (Telia HDC),1,1,191.0,180.0,170.0,150.0,1017,17.7,1,1
+primary,E03,Meta Odense data centre,2,2,793.0,798.0,837.5,804.0,1017,78.5,2,1
+primary,E04,NorthC Datacenter Aalsmeer,1,1,467.0,581.0,598.0,561.0,1017,57.1,1,1
+primary,E05,Digital Realty VIE1 & VIE2,1,1,100.0,123.0,161.0,168.0,1017,12.1,1,1
+primary,E06,Google Hamina data centre,4,3,963.0,996.5,983.0,992.5,1017,98.0,3,"1,2"
+primary,E07,NorthC Datacenter Eindhoven (High Tech Campus),1,1,616.0,408.0,409.0,448.0,1017,40.1,1,1
+primary,E08,Yandex Mantsala data centre,2,2,778.0,820.0,866.0,927.0,1017,80.6,2,1
+primary,E09,"AWS data centre, Tallaght",5,2,409.0,332.0,392.0,403.0,1017,32.6,2,"2,3"
+primary,E10,Digital Realty Stockholm Kista campus (STO1-STO5),1,1,407.0,476.0,365.0,340.0,1017,46.8,1,1
+primary,E12,Apple Viborg data centre,1,1,934.0,962.0,952.0,965.0,1017,94.6,1,1
+primary,E13,Equinix AM4,1,1,386.0,273.0,218.0,237.0,1017,26.8,1,8
+proximity_only_250m,E01,Equinix PA10,1,1,41.0,47.0,34.0,39.0,820,5.7,0,4
+proximity_only_250m,E02,Telia Helsinki Data Center (Telia HDC),1,1,163.0,145.0,135.0,118.0,820,17.7,1,1
+proximity_only_250m,E03,Meta Odense data centre,2,2,648.0,653.5,680.0,649.0,820,79.7,2,1
+proximity_only_250m,E04,NorthC Datacenter Aalsmeer,1,1,378.0,470.0,489.0,446.0,820,57.3,0,2
+proximity_only_250m,E05,Digital Realty VIE1 & VIE2,1,1,89.0,100.0,128.0,132.0,820,12.2,1,1
+proximity_only_250m,E06,Google Hamina data centre,4,3,771.0,800.5,788.5,796.5,820,97.6,3,"1,2"
+proximity_only_250m,E07,NorthC Datacenter Eindhoven (High Tech Campus),1,1,497.0,325.0,332.0,368.0,820,39.6,1,1
+proximity_only_250m,E08,Yandex Mantsala data centre,2,1,625.0,670.0,705.0,748.0,820,81.7,1,2
+proximity_only_250m,E09,"AWS data centre, Tallaght",5,2,333.0,267.0,319.0,332.0,820,32.6,2,"2,3"
+proximity_only_250m,E10,Digital Realty Stockholm Kista campus (STO1-STO5),1,1,331.0,377.0,293.0,277.0,820,46.0,1,1
+proximity_only_250m,E12,Apple Viborg data centre,1,1,752.0,773.0,765.0,780.0,820,94.3,1,1
+proximity_only_250m,E13,Equinix AM4,1,1,316.0,222.0,174.0,186.0,820,27.1,1,8

@@ -1,0 +1,11 @@
+Component,Indicator,Definition (2.5 km reference buffer),Transform before scaling,Direction
+Opportunity,Heat demand,Sum of Hotmaps heat-demand density in the buffer (2015),log(1+x),Higher = better
+Opportunity,Population density (also in Feasibility),GHS-POP population ÷ buffer area,log(1+x),Higher = better
+Opportunity,Heating degree days,"Annual HDD 2024, mean of a 15 km buffer (ERA5-Land)",none,Higher = better
+Opportunity,Anchor count,"Hospitals, universities and colleges, care facilities and sports centres in the buffer",log(1+x),Higher = better
+Opportunity,Anchor-type diversity,Number of anchor categories present in the buffer (0–4),none,Higher = better
+Opportunity,Nearest-anchor distance,Distance to the nearest anchor in the pooled national layers (not radius-limited),"log(1+x), reversed",Lower = better
+Feasibility,Urban compactness,Mean of normalised GHSL built-up share and normalised Dynamic World built-up share,each: none,Higher = better
+Feasibility,Road density,"Length of motorway, trunk and primary roads (with links) within the buffer ÷ buffer area",none,Higher = better
+Feasibility,Nearest-road distance,Distance to the nearest such road (not radius-limited),"log(1+x), reversed",Lower = better
+Feasibility,Population density,As above (second membership),log(1+x),Higher = better

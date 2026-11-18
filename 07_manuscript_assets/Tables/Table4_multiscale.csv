@@ -1,0 +1,6 @@
+Specification,Spearman ρ with 2.5 km (1 / 5 / 10 km),Top-decile overlap with 2.5 km (1 / 5 / 10 km; of 122),Top decile at all four radii,Top decile at ≥ 1 radius,Top 20 at all four radii,Rank range ≥ 200,"ρ, 1 km vs 10 km"
+Equal weights (primary),0.944 / 0.957 / 0.872,98 / 106 / 87,67,183,8,520,0.796
+Literature-informed weights,0.939 / 0.954 / 0.856,99 / 108 / 93,71,176,7,555,0.772
+"Entropy weights, refitted per radius",0.926 / 0.958 / 0.875,91 / 103 / 85,63,190,7,592,0.785
+"Entropy weights, held at 2.5 km values",0.947 / 0.960 / 0.880,93 / 103 / 86,65,186,8,508,0.810
+"Campus units (1,017 units; equal weights)",0.943 / 0.956 / 0.864,78 / 89 / 73 (of 102),53 (of 102),158,–,44.8% of units,–

@@ -1,0 +1,39 @@
+{
+ "pairs_le_250m": 956,
+ "records_in_any_pair": 563,
+ "records_with_partner_le_100m": 385,
+ "pairs_by_tier": {
+  "T1_coincident": 18,
+  "T2_same_brand": 404,
+  "T3_distinct_brand": 165,
+  "T4_unresolved": 369
+ },
+ "pairs_by_tier_le100": {
+  "T1_coincident": 18,
+  "T2_same_brand": 179,
+  "T3_distinct_brand": 37,
+  "T4_unresolved": 159
+ },
+ "records_by_status": {
+  "singleton": 910,
+  "supported": 284,
+  "supported_resplit100": 22
+ },
+ "n_supported_groups": 107,
+ "records_in_supported_groups": 306,
+ "n_units": 1017,
+ "group_size_distribution": {
+  "2": 67,
+  "3": 19,
+  "4": 12,
+  "5": 4,
+  "6": 1,
+  "7": 1,
+  "8": 1,
+  "11": 1,
+  "15": 1
+ },
+ "max_group_size": 15,
+ "chain_risk_records": 0,
+ "pairs_same_country_false": 0
+}

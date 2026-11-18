@@ -1,0 +1,16 @@
+group_or_case,why_inspected,observation_from_metadata,decision
+G012,"largest (15 records, 360 m)",Digital Realty/Interxion FRA1-FRA9 at Frankfurt-East; chain guard re-split at 100 m,supported campus
+G035,2nd largest (11),Data4 Paris-Saclay / Marcoussis buildings; some records carry only the operator tag,supported campus
+G005,large; overlaps case E13 (Equinix AM4),"Equinix Amsterdam Science Park AM3/AM4 plus untitled Equinix ways, 81 m across",supported campus
+G034,"large (7), ranks 176-209",OVHcloud Roubaix RBX1-RBX7,supported campus
+G015,large (6),NTT Global Data Centers Frankfurt-West buildings,supported campus
+G036,top decile; overlaps case E01 (PA10),"Equinix PA2, PA3, PA9X, PA10 within 200 m; representative = PA9X (rank 59), PA10 is rank 70",supported campus; PA10 not the representative
+G031/G032,"top decile (ranks 3, 4, 16, 20)","France Televisions and Groupe M6 'Salle technique' pairs (~60-100 m): broadcaster technical rooms, not conventional data centres",supported pairs; DATA-QUALITY FLAG on inventory scope
+G092,top decile (ranks 110-113),four unnamed Turin ways within 11 m of each other (coincident points),probable duplicate representations (T1)
+G056,top decile (ranks 69-75),five ways of the Lyon-1 university computing centre within 30 m; adjacent LyonIX/IN2P3 node (T3) kept separate,supported campus; neighbour kept separate
+G059/G062,top decile (ranks 80-115),"Telehouse North/North Two/East/West (4) and Global Switch North/East (2), ~200 m apart; operators differ",two campuses kept separate (T3)
+G038/G055/G027,top decile,"Interxion/Digital Realty Paris PAR3+PAR5, PAR8+PAR9, PAR6 (node + relation, 240 m)",supported (alias Interxion = Digital Realty)
+case E03,overlaps external case (Meta Odense),two Meta records 371 m apart: NOT grouped by the 250 m rule although the source describes one data centre,grouped only by the project convention (E3)
+case E06,overlaps external case (Google Hamina),four Google records within ~760 m: primary rule yields 3 units; source describes one site,grouped only by the project convention (E3)
+case E08,overlaps external case (Yandex Mantsala),"two records 82 m apart, one with no name/operator -> T4 unresolved, not merged",unresolved; merged only in the proximity-only bracket and by the project convention
+Frankfurt-Ostend,top-decile T3/T4 pairs,"I.T.E.N.O.S., aixit, Verizon, Vantage FRA1, maincubes within 40-250 m but different operators","distinct (T3) / unresolved (T4), not merged"

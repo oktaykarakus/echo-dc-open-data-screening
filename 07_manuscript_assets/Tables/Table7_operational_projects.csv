@@ -1,0 +1,9 @@
+Project,Country,Evidence date,Records,"Rank, 1 km","Rank, 2.5 km","Rank, 5 km","Rank, 10 km"
+Equinix PA10,FR,2024-07-26,1,70,70,58,61
+Digital Realty Vienna (Floridsdorf),AT,2023 (year only),1,117,148,193,196
+Telia Helsinki Data Center (Telia HDC),FI,2025-05-26,1,222,221,203,174
+NorthC Datacenter Eindhoven (High Tech Campus),NL,2018-11-12,1,745,504,513,559
+NorthC Datacenter Aalsmeer,NL,2020-06-25,1,568,707,720,688
+Meta Odense data centre,DK,2019 (year only),2,940,948,1015.5,979
+Yandex Mäntsälä data centre,FI,2019-04-22,2,922,976,1046,1112
+Google Hamina data centre,FI,2026-05-18,4,1160,1193.5,1180.5,1190.5

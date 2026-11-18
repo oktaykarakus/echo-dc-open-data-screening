@@ -1,0 +1,9 @@
+case_id,facility,country,operator,status_date,match_confidence,n_records,rank_1km,rank_2p5km,rank_5km,rank_10km,topshare_1km,topshare_2p5km,topshare_5km,topshare_10km,scales_in_top10,rank_range_across_scales,campus_groups_of_records
+E01,Equinix PA10,FR,Equinix,2024-07-26,High,1,70.0,70.0,58.0,61.0,5.8,5.8,4.8,5.0,4,12.0,G036
+E02,Telia Helsinki Data Center (Telia HDC),FI,Telia Finland,2025-05-26,High,1,222.0,221.0,203.0,174.0,18.3,18.2,16.7,14.3,0,48.0,
+E03,Meta Odense data centre,DK,Meta,2019-12-31,High,2,940.0,948.0,1015.5,979.0,77.3,78.0,83.5,80.5,0,75.5,
+E04,NorthC Datacenter Aalsmeer,NL,NorthC (formerly NLDC),2020-06-25,High,1,568.0,707.0,720.0,688.0,46.7,58.1,59.2,56.6,0,152.0,
+E05,Digital Realty VIE1 & VIE2,AT,Digital Realty (ex-Interxion),2023-12-31,High,1,117.0,148.0,193.0,196.0,9.6,12.2,15.9,16.1,1,79.0,
+E06,Google Hamina data centre,FI,Google,2026-05-18,High,4,1160.0,1193.5,1180.5,1190.5,95.4,98.1,97.1,97.9,0,33.5,G096
+E07,NorthC Datacenter Eindhoven (High Tech Campus),NL,NorthC (formerly NLDC),2018-11-12,High,1,745.0,504.0,513.0,559.0,61.3,41.4,42.2,46.0,0,241.0,
+E08,Yandex Mantsala data centre,FI,Yandex,2019-04-22,High,2,922.0,976.0,1046.0,1112.0,75.8,80.3,86.0,91.4,0,190.0,

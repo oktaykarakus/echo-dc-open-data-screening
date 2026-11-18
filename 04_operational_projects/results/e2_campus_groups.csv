@@ -1,0 +1,108 @@
+campus_group,country,n_records,diameter_m,status,brands,names,best_rank,worst_rank,members
+G001,NL,2,75.0,supported,equinix,Equinix AM1; Equinix AM2,261,278,NL_way_57852902 | NL_way_57853463
+G002,NL,3,163.0,supported,equinix,Equinix AM11; Equinix AM7,337,352,NL_way_57853387 | NL_way_282381349 | NL_way_1220520621
+G003,NL,2,10.0,supported,?; northc,Datacenter Almere,717,718,NL_way_263802879 | NL_way_280128049
+G004,NL,3,100.0,supported_resplit100,microsoft,AMS06; Microsoft Datacenter West Europe,1140,1142,NL_way_435698610 | NL_way_435698611 | NL_way_814210482
+G005,NL,8,81.0,supported,equinix,Equinix; Equinix AM3; Equinix AM4,336,369,NL_way_441605807 | NL_way_482532123 | NL_way_1093524141 | NL_way_1093524157 | NL_way_1093524163 | NL_way_1093524165 | NL_way_1093524166 | NL_way_1093524167
+G006,NL,2,188.0,supported,digitalrealty,Digital Realty (AMS10); Digital Realty (AMS8),614,659,NL_way_456832369 | NL_way_973134619
+G007,NL,4,295.0,supported_resplit100,microsoft,AMS07; AMS08; AMS09,1136,1146,NL_way_583963691 | NL_way_583963763 | NL_way_723863903 | NL_way_723863905
+G008,NL,2,37.0,supported,equinix,Equinix AM8; Equinix Amsterdam AM8,510,527,NL_way_891596749 | NL_way_1346509047
+G009,NL,2,174.0,supported,delta,DELTA Fiber,744,757,NL_way_1309108236 | NL_way_1309108238
+G010,DE,2,87.0,supported,digitalrealty,InterXion DUS1; InterXion DUS2,565,595,DE_node_9258436545 | DE_node_9258436546
+G011,DE,4,246.0,supported,equinix,Equinix FR4; Equinix FR6; Equinix FR8.1; Equinix FR8.2,466,522,DE_way_28994179 | DE_way_98916098 | DE_way_620369478 | DE_way_1267104292
+G012,DE,15,360.0,supported_resplit100,digitalrealty,DigitalRealty FRA1; Interxion FRA10; Interxion FRA11; Interxion FRA12; Interxion FRA13; Interxion FRA14,150,255,DE_way_48013134 | DE_way_48013154 | DE_way_48013155 | DE_way_48017518 | DE_way_168961561 | DE_way_169017126 | DE_way_176647402 | DE_way_326082813 | DE_way_326082814 | DE_way_326823358 | DE_way_403874334 | DE_way_607098496 | DE_way_607098498 | DE_way_613862765 | DE_way_822085523
+G013,DE,2,30.0,supported,interwerk,Interwerk Rechenzentrum; iNTERWERK Rechenzentrum,299,313,DE_way_48018740 | DE_way_48018741
+G014,DE,2,42.0,supported,i,I.T.E.N.O.S. Frankfurt - B; I.T.E.N.O.S. Frankfurt - C,154,171,DE_way_86339088 | DE_way_145174886
+G015,DE,6,301.0,supported,ntt,,242,320,DE_way_88875247 | DE_way_88875270 | DE_way_88875303 | DE_way_88875337 | DE_way_580201100 | DE_way_1234079003
+G016,DE,5,53.0,supported,gasline,Dernbach 2; Dernbach 3,903,913,DE_way_129919027 | DE_way_129919031 | DE_way_129919032 | DE_way_129919033 | DE_way_129919034
+G017,DE,3,16.0,supported,gasline,Dernbach 1,904,910,DE_way_130064180 | DE_way_130064188 | DE_way_130064190
+G018,DE,2,52.0,supported,cyrusone,CyrusOne FRA1; CyrusOne FRA2,487,493,DE_way_173170495 | DE_way_499619543
+G019,DE,3,159.0,supported,equinix,Equinix FR2; Equinix FR2.6; Equinix FR9,556,602,DE_way_380134092 | DE_way_619486957 | DE_way_749551415
+G020,DE,4,135.0,supported,digitalrealty,Digital Realty FRA29; Digital Realty FRA30; Digital Realty FRA31; Digital Realty FRA32,463,496,DE_way_499619544 | DE_way_887871067 | DE_way_887871068 | DE_way_967735675
+G021,DE,3,10.0,supported,?; vegasystems,VegaSystems GmbH & Co. KG; VegaSystems NCPB,969,972,DE_way_686613449 | DE_way_881246010 | DE_relation_11982077
+G022,DE,2,4.0,supported,?; hetzner,Hetzner Online GmbH - NBG1,390,391,DE_way_723038882 | DE_way_1094348766
+G023,DE,2,92.0,supported,equinix,Equinix FR11; Equinix FR13,475,494,DE_way_1047444549 | DE_way_1265263013
+G024,DE,3,277.0,supported,digitalrealty,Digital Realty; Digital Realty FRA33,830,871,DE_way_1062433551 | DE_way_1266882484 | DE_way_1266882485
+G025,DE,2,153.0,supported,digitalrealty,InterXion FRA17; InterXion FRA18,378,382,DE_way_1118500773 | DE_way_1265942209
+G026,DE,2,94.0,supported,vantage,Vantage Data Center FRA2; Vantage Data Center FRA22,798,811,DE_way_1145623809 | DE_way_1192381985
+G027,FR,2,241.0,supported,digitalrealty,Digital Realty Paris PAR6; Interxion PAR6,43,81,FR_node_6102606448 | FR_relation_1190245
+G028,FR,2,40.0,supported,bouygues,Bouygues Telecom Montigny-le-Bretonneux; Datacenter Bouygues Télécom,215,222,FR_node_6174610289 | FR_way_113714402
+G029,FR,2,7.0,supported,etix,Etix Vendée #2,711,719,FR_node_6213121089 | FR_way_313238933
+G030,FR,3,69.0,supported,sungard,Sungard AS IT,502,511,FR_node_6289858502 | FR_way_116113997 | FR_way_116118031
+G031,FR,2,59.0,supported,france,Salle Technique France Télévisions,3,4,FR_node_7902392228 | FR_node_9002117313
+G032,FR,2,97.0,supported,groupe,Salle technique Groupe M6,16,20,FR_node_7902413338 | FR_node_7902421304
+G033,FR,2,95.0,supported,dc2scale,DC2SCALE Vélizy Latécoère; dc2scale Vélizy,542,562,FR_node_8074063731 | FR_way_150382252
+G034,FR,7,259.0,supported,ovhcloud,OVHcloud Roubaix - RBX1; OVHcloud Roubaix - RBX2; OVHcloud Roubaix - RBX3; OVHcloud Roubaix - RBX4; OVHcloud Roubaix - RBX5; OVHcloud Roubaix - RBX6,176,209,FR_way_38354559 | FR_way_80144821 | FR_way_80148463 | FR_way_80150630 | FR_way_176779630 | FR_way_234729371 | FR_relation_8812014
+G035,FR,11,426.0,supported,data4,Data4 Campus Paris Saclay; Data4 Marcoussis,1008,1062,FR_way_42016630 | FR_way_146091115 | FR_way_146091133 | FR_way_146091136 | FR_way_146091140 | FR_way_320306630 | FR_way_320306631 | FR_way_421253671 | FR_way_1099624281 | FR_way_1122298171 | FR_way_1273311891
+G036,FR,4,215.0,supported,equinix,Equinix PA10; Equinix PA2; Equinix PA3; Equinix PA9X,59,70,FR_way_42742505 | FR_way_463443856 | FR_way_1121454054 | FR_way_1121454055
+G037,FR,2,42.0,supported,bouygues,,108,109,FR_way_49292264 | FR_way_49292266
+G038,FR,2,60.0,supported,digitalrealty,Interxion PAR3; Interxion PAR5,28,32,FR_way_63979423 | FR_way_63983178
+G039,FR,2,29.0,supported,bouygues,Datacenter Bouygues Télécom,259,262,FR_way_70206291 | FR_way_70207931
+G040,FR,2,45.0,supported,atos,Datacenter Atos,27,31,FR_way_73003053 | FR_way_73005029
+G041,FR,2,42.0,supported,equinix,Equinix PA4; Equinix PA8X,130,134,FR_way_73120395 | FR_way_847461128
+G042,FR,2,101.0,supported,colt,Colt Paris 3,664,684,FR_way_79145624 | FR_way_1141021688
+G043,FR,2,36.0,supported,bouygues,,82,86,FR_way_81282298 | FR_way_81283176
+G044,FR,2,34.0,supported,bouygues,,307,319,FR_way_83943560 | FR_way_83944350
+G045,FR,2,29.0,supported,ibm,Datacenter IBM,937,943,FR_way_91286607 | FR_way_91288538
+G046,FR,4,316.0,supported,opcore,OPCORE DC6-3; OPCORE DC6-5; OPCORE DC6-6,500,575,FR_way_102453250 | FR_way_102453433 | FR_way_102465235 | FR_way_102467679
+G047,FR,2,90.0,supported,euro,SM3; SM4,938,952,FR_way_126666046 | FR_way_126667399
+G048,FR,2,22.0,supported,bouygues,,452,456,FR_way_149301089 | FR_way_149302427
+G049,FR,3,113.0,supported,digitalrealty,Digital Realty MRS2; Digital Realty MRS3; Digital Realty MRS4,525,583,FR_way_159862898 | FR_way_159863825 | FR_way_1117375128
+G050,FR,2,34.0,supported,sfr,,331,334,FR_way_160165248 | FR_way_160165252
+G051,FR,4,68.0,supported,edf,Datacenter EDF,965,991,FR_way_226246636 | FR_way_226246780 | FR_way_226247994 | FR_way_226250681
+G052,FR,2,40.0,supported,nexeren,Nexeren,1126,1127,FR_way_481746975 | FR_way_944210675
+G053,FR,2,33.0,supported,ovhcloud,OVHcloud Gravelines,1161,1162,FR_way_551480870 | FR_way_551480895
+G054,FR,2,42.0,supported,equinix,Equinix,803,809,FR_way_920174789 | FR_way_1060567996
+G055,FR,2,74.0,supported,digitalrealty,PAR8; PAR9,65,87,FR_way_1030533210 | FR_way_1084581417
+G056,FR,5,30.0,supported,universite,Centre de Calculs et de Données LyonTech-la Doua,69,75,FR_way_1288320747 | FR_way_1342103498 | FR_way_1342103499 | FR_way_1342103500 | FR_way_1342103501
+G057,GB,2,8.0,supported,amazon,AWS Bracknell Data Centre; Amazon Web Services,665,668,GB_node_11902288339 | GB_way_1161721011
+G058,GB,2,18.0,supported,amazon,AWS Swindon Data Centre,999,1000,GB_node_11902392009 | GB_way_1122158384
+G059,GB,4,159.0,supported,telehouse,Telehouse East; Telehouse North; Telehouse North Two; Telehouse West,80,95,GB_way_34160179 | GB_way_206625800 | GB_way_206625804 | GB_way_497956675
+G060,GB,3,74.0,supported,pulsant,Pulsant Edinburgh SC-1; Pulsant Edinburgh South Gyle SC-1,282,310,GB_way_37943653 | GB_way_37943663 | GB_relation_18217492
+G061,GB,2,70.0,supported,pulsant,Pulsant Maidenhead,804,817,GB_way_49602062 | GB_way_49602063
+G062,GB,2,150.0,supported,global,Global Switch London East; Global Switch London North,90,115,GB_way_157178049 | GB_way_196783604
+G063,GB,5,352.0,supported,equinix,Equinix LD11x; Equinix LD12; Equinix LD4; Equinix LD6; Equinix LD7,599,646,GB_way_225909388 | GB_way_225909390 | GB_way_705064992 | GB_way_712277376 | GB_way_735444062
+G064,GB,2,59.0,supported,equinix,Equinix LD8,146,159,GB_way_257754194 | GB_way_258625769
+G065,GB,2,76.0,supported,six,Six Degrees Data Centre,298,314,GB_way_375842477 | GB_way_375842478
+G066,GB,2,71.0,supported,centurylink,Centurylink London 1; Centurylink London 5,366,370,GB_way_447245008 | GB_way_447320367
+G067,GB,3,157.0,supported,virtus,VIRTUS Slough London 3 and 4; Virtus London 10; Virtus London 3,528,554,GB_way_459572486 | GB_way_459600800 | GB_way_705065014
+G068,GB,2,99.0,supported,digitalrealty,Digital Realty,720,733,GB_way_460244927 | GB_way_460244928
+G069,GB,3,317.0,supported,ark,Ark Data Centres,1041,1065,GB_way_574135457 | GB_way_574135468 | GB_way_574135471
+G070,GB,2,104.0,supported,kao,Kao Data KLON-01; Kao Data KLON-02,548,563,GB_way_699790674 | GB_way_1305758728
+G071,GB,4,251.0,supported,virtus,Virtus London5; Virtus London6; Virtus London7; Virtus London8,367,472,GB_way_705085805 | GB_way_705085806 | GB_way_705085807 | GB_way_838801558
+G072,GB,5,208.0,supported,ark,,971,986,GB_way_838655597 | GB_way_838655598 | GB_way_838655599 | GB_way_838655600 | GB_way_838655601
+G073,GB,2,168.0,supported,evolution,Evolution @ Agecroft Commerce Park,432,457,GB_way_981640451 | GB_way_981640535
+G074,IE,3,223.0,supported,amazon,Amazon Web Services,759,776,IE_way_28352291 | IE_way_460117003 | IE_way_684685208
+G075,IE,3,269.0,supported,amazon,Amazon Web Services,411,458,IE_way_37596447 | IE_way_37596453 | IE_way_697470448
+G076,IE,2,114.0,supported,amazon,Amazon Web Services,564,572,IE_way_37682585 | IE_way_825144681
+G077,IE,2,223.0,supported,amazon,Amazon Web Services; Amazon Web Services DUB10/50/51,514,516,IE_way_47923380 | IE_way_47924356
+G078,IE,4,238.0,supported,amazon,Amazon Web Services,409,467,IE_way_68337136 | IE_way_697659634 | IE_way_1047598884 | IE_way_1108073464
+G079,IE,2,111.0,supported,microsoft,Microsoft DUB03 / DUB04; Microsoft DUB05,1013,1043,IE_way_438036943 | IE_way_438036944
+G080,IE,3,256.0,supported,microsoft,Microsoft DUB06; Microsoft DUB07; Microsoft DUB08,976,1005,IE_way_513703429 | IE_way_538906747 | IE_way_709103324
+G081,IE,2,182.0,supported,meta,Meta Clonee 1 Data Center; Meta Clonee 2 Data Center,1026,1064,IE_way_518701317 | IE_way_1187438482
+G082,IE,2,61.0,supported,digitalrealty,Digital Realty Dublin DUB3; Digital Realty Dublin DUB4,927,935,IE_way_538103967 | IE_way_1293518358
+G083,IE,2,54.0,supported,digitalrealty,Digital Realty DUB3; Digital Realty DUB4,1020,1027,IE_way_547351129 | IE_way_691934423
+G084,IE,4,383.0,supported,microsoft,Microsoft DUB09; Microsoft DUB10; Microsoft DUB12; Microsoft DUB13,994,1038,IE_way_709123322 | IE_way_743741623 | IE_way_743741624 | IE_way_1003210055
+G085,IE,3,251.0,supported,edgeconnex,EdgeConneX; Edgeconnex Dublin,924,958,IE_way_709143741 | IE_way_1004745825 | IE_relation_16056450
+G086,IE,2,190.0,supported,meta,Meta Clonee 5 Data Center; Meta Clonee 6 Data Center,902,915,IE_way_819286957 | IE_way_1187438483
+G087,IE,3,386.0,supported,amazon,Amazon Web Services,862,917,IE_way_926894444 | IE_way_1112223803 | IE_way_1112223804
+G088,IE,2,128.0,supported,microsoft,Microsoft DUB14; Microsoft DUB15,1044,1059,IE_way_1107158568 | IE_way_1182712205
+G089,BE,2,64.0,supported,digitalrealty,Digital realty Brussels BRU3; Digital realty Brussels BRU4,774,780,BE_node_12214044389 | BE_node_12214044390
+G090,ES,2,10.0,supported,?; centro,centro de datos trasbase Negratín,1214,1215,ES_way_1075858825 | ES_way_1075858826
+G091,IT,2,177.0,supported,supernap,,1023,1030,IT_way_524879451 | IT_way_1024899085
+G092,IT,4,11.0,supported,?,,110,113,IT_way_1125063250 | IT_way_1125063251 | IT_way_1125369577 | IT_way_1125369579
+G093,PL,2,66.0,supported,3s,3S Data Center DC 1; 3S Data Center DC 2,652,658,PL_node_2978103914 | PL_way_466665870
+G094,SE,2,134.0,supported,microsoft,Microsoft,1097,1099,SE_way_1152538065 | SE_way_1152538066
+G095,SE,2,143.0,supported,microsoft,Microsoft,1183,1185,SE_way_1225367739 | SE_way_1346239617
+G096,FI,2,177.0,supported,google,,1194,1197,FI_way_323686447 | FI_way_748868810
+G097,NO,2,184.0,supported,green,Green Mountain Ytre Enebakk,1130,1137,NO_way_935092287 | NO_way_1161764012
+G098,NO,2,9.0,supported,?; stack,STACK Infrastructure OSL04,1108,1109,NO_way_1028687251 | NO_relation_14367602
+G099,DK,4,276.0,supported,digitalrealty,Digital Realty Copenhagen CPH1; Digital Realty Copenhagen CPH2; Interxion CPH02; Interxion CPH03,538,608,DK_way_25629568 | DK_way_941798564 | DK_way_1094485846 | DK_relation_2171258
+G100,DK,2,6.0,supported,?; digiplex,,653,657,DK_way_134874582 | DK_way_912393044
+G101,CH,3,182.0,supported,digitalrealty,Digital Realty ZUR1; Digital Realty ZUR2; Digital Realty ZUR3,344,394,CH_way_43916978 | CH_way_852039405 | CH_way_1084042553
+G102,CH,2,86.0,supported,equinix,Equinix ZRH5,275,287,CH_way_489130425 | CH_way_637078719
+G103,CH,2,1.0,supported,netrics; northc,Datacube Biel; NorthC Biel data center,654,655,CH_way_699247420 | CH_way_1081882891
+G104,PT,2,100.0,supported,nos,NOS Imopolis I; NOS Imopolis II,480,491,PT_way_193317921 | PT_way_193317940
+G105,PT,3,12.0,supported,?,,137,141,PT_way_1205572867 | PT_way_1205572869 | PT_way_1205572870
+G106,HU,2,250.0,supported,atw,,270,322,HU_node_1530992851 | HU_node_9753176163
+G107,GR,3,68.0,supported,athens,Athens 1; Athens 2; Athens 3,1174,1178,GR_way_1219002657 | GR_way_1219002658 | GR_way_1219002659

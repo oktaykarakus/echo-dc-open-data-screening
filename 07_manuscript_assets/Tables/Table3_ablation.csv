@@ -1,0 +1,11 @@
+Alternative specification,Linearised weight removed,Spearman ρ,Top-decile overlap (of 122),Top-20 overlap,Median |Δrank|,Records leaving top decile
+"Road accessibility removed (density, nearest distance)",0.250,0.958,93,8,60,29
+"Anchors removed (count, diversity, nearest distance)",0.250,0.975,108,14,40,14
+Urban compactness removed,0.125,0.990,111,17,26,11
+Heat removed (Hotmaps and HDD),0.167,0.992,111,19,22,11
+HDD removed,0.083,0.996,114,19,14,8
+Hotmaps heat removed,0.083,0.999,117,18,9,5
+Population density removed from Opportunity,0.083 / 0.125,0.999,119,18,10,3
+Population density removed from Feasibility,0.083 / 0.125,0.992,114,17,24,8
+No percentile clipping (min–max),–,0.9955,111,15,20,11
+Clipping at 2.5th–97.5th percentiles,–,0.9993,116,19,8,6

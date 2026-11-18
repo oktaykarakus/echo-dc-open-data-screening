@@ -1,0 +1,136 @@
+{
+ "french_records": 331,
+ "missing_coordinates": 0,
+ "records_evaluated": 331,
+ "layer_features": {
+  "existing_heat_traces_total": 1035,
+  "tier1_survey_id": 842,
+  "tier2_no_id": 193,
+  "invalid_geometries_repaired": 4,
+  "centroid_only_points": 217
+ },
+ "unit_count": 276,
+ "t2500": {
+  "positive": 247,
+  "mapped_negative": 75,
+  "indeterminate": 9,
+  "eligible": 322,
+  "prevalence_eligible": 0.7671,
+  "prevalence_all_records": 0.7462,
+  "indeterminate_reason": {
+   "tier2_trace_within_t": 2,
+   "centroid_within_5km_only": 7
+  },
+  "concentration": {
+   "25": {
+    "nonempty_blocks_eligible": 66,
+    "largest_block_share_eligible": 0.239,
+    "top3_share_eligible": 0.382,
+    "blocks_with_positive": 43,
+    "largest_block_share_positives": 0.312
+   },
+   "50": {
+    "nonempty_blocks_eligible": 48,
+    "largest_block_share_eligible": 0.286,
+    "top3_share_eligible": 0.491,
+    "blocks_with_positive": 33,
+    "largest_block_share_positives": 0.364
+   },
+   "100": {
+    "nonempty_blocks_eligible": 37,
+    "largest_block_share_eligible": 0.41,
+    "top3_share_eligible": 0.571,
+    "blocks_with_positive": 26,
+    "largest_block_share_positives": 0.429
+   }
+  },
+  "campus_units": {
+   "units": 276,
+   "positive": 212,
+   "mapped_negative": 56,
+   "indeterminate": 8,
+   "units_with_mixed_member_status": 0
+  },
+  "distance_quantiles_m_tier1": {
+   "0.1": 34.0,
+   "0.25": 123.0,
+   "0.5": 525.0,
+   "0.75": 2518.0,
+   "0.9": 6563.0
+  },
+  "variant_tier2_as_existing": {
+   "positive": 249,
+   "mapped_negative": 75,
+   "indeterminate": 7
+  }
+ },
+ "t1000": {
+  "positive": 194,
+  "mapped_negative": 117,
+  "indeterminate": 20,
+  "eligible": 311,
+  "prevalence_eligible": 0.6238,
+  "prevalence_all_records": 0.5861,
+  "indeterminate_reason": {
+   "tier2_trace_within_t": 3,
+   "centroid_within_5km_only": 17
+  },
+  "concentration": {
+   "25": {
+    "nonempty_blocks_eligible": 66,
+    "largest_block_share_eligible": 0.235,
+    "top3_share_eligible": 0.379,
+    "blocks_with_positive": 32,
+    "largest_block_share_positives": 0.371
+   },
+   "50": {
+    "nonempty_blocks_eligible": 48,
+    "largest_block_share_eligible": 0.283,
+    "top3_share_eligible": 0.489,
+    "blocks_with_positive": 27,
+    "largest_block_share_positives": 0.433
+   },
+   "100": {
+    "nonempty_blocks_eligible": 37,
+    "largest_block_share_eligible": 0.408,
+    "top3_share_eligible": 0.569,
+    "blocks_with_positive": 21,
+    "largest_block_share_positives": 0.505
+   }
+  },
+  "campus_units": {
+   "units": 276,
+   "positive": 163,
+   "mapped_negative": 95,
+   "indeterminate": 18,
+   "units_with_mixed_member_status": 0
+  },
+  "distance_quantiles_m_tier1": {
+   "0.1": 34.0,
+   "0.25": 123.0,
+   "0.5": 525.0,
+   "0.75": 2518.0,
+   "0.9": 6563.0
+  },
+  "variant_tier2_as_existing": {
+   "positive": 197,
+   "mapped_negative": 117,
+   "indeterminate": 17
+  }
+ },
+ "gates_t2500": {
+  "G2_eligible_ge_250": true,
+  "G2_each_class_ge_40": true,
+  "G3_prevalence_15_85": true,
+  "G4_blocks_ge_20": true,
+  "G4_largest_le_35pct": true
+ },
+ "gates_t1000": {
+  "G2_eligible_ge_250": true,
+  "G2_each_class_ge_40": true,
+  "G3_prevalence_15_85": true,
+  "G4_blocks_ge_20": true,
+  "G4_largest_le_35pct": true
+ },
+ "labels_sha256": "a93a5c3368b53ccf41b7e398d4dc77c0823d31aca658b5a907406ef1ac54e4dd"
+}
