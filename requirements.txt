@@ -1,0 +1,12 @@
+# Versions used to produce the stored results (Python 3.9.6, macOS arm64)
+pandas==2.3.1
+numpy==2.0.2
+scipy==1.13.1
+matplotlib==3.9.4
+pyproj==3.6.1
+geopandas==1.0.1
+shapely==2.0.7
+pyogrio==0.11.0
+pytest>=7
+# only for 01_baseline_scoring/src/b3_run_all.py (parsing raw .osm.pbf files):
+# osmium==4.3.2

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the associated article and this repository."
+title: "ECHO-DC open-data screening for data-centre waste-heat reuse: analysis code and derived data"
+authors:
+  - family-names: "Turvey"
+    given-names: "Isobelle"
+  - family-names: "Karakuş"
+    given-names: "Oktay"
+  - family-names: "Eyüpoğlu"
+    given-names: "Can"
+license: MIT
+abstract: "Analysis code and derived data for the study of open-data geospatial screening (ECHO-DC) for data-centre waste-heat reuse. Data files are under ODbL 1.0; see LICENSE-DATA.md."
+# repository-code: to be added when the repository is published
+# preferred-citation: to be added when the article is published
