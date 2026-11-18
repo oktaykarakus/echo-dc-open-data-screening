@@ -1,0 +1,109 @@
+{
+ "merge_dropped_ids": [
+  "CZ_node_9956577119"
+ ],
+ "B0": {
+  "weights": {
+   "equal": {
+    "opp": {
+     "norm_heat_sum_2p5km": 0.16666666666666666,
+     "norm_pop_density_2p5km": 0.16666666666666666,
+     "norm_hdd_2024": 0.16666666666666666,
+     "norm_anchor_count_2p5km": 0.16666666666666666,
+     "norm_anchor_diversity_2p5km": 0.16666666666666666,
+     "norm_nearest_anchor_distance_m": 0.16666666666666666
+    },
+    "feas": {
+     "norm_urban_compactness_2p5km": 0.25,
+     "norm_major_road_density_2p5km": 0.25,
+     "norm_nearest_major_road_distance_m": 0.25,
+     "norm_pop_density_2p5km": 0.25
+    }
+   },
+   "literature_informed": {
+    "opp": {
+     "norm_heat_sum_2p5km": 0.35,
+     "norm_pop_density_2p5km": 0.2,
+     "norm_hdd_2024": 0.15,
+     "norm_anchor_count_2p5km": 0.15,
+     "norm_anchor_diversity_2p5km": 0.1,
+     "norm_nearest_anchor_distance_m": 0.05
+    },
+    "feas": {
+     "norm_urban_compactness_2p5km": 0.35,
+     "norm_major_road_density_2p5km": 0.3,
+     "norm_nearest_major_road_distance_m": 0.2,
+     "norm_pop_density_2p5km": 0.15
+    }
+   },
+   "entropy": {
+    "opp": {
+     "norm_heat_sum_2p5km": 0.15312075713424061,
+     "norm_pop_density_2p5km": 0.17750953357848903,
+     "norm_hdd_2024": 0.15249971303534723,
+     "norm_anchor_count_2p5km": 0.15235009394096413,
+     "norm_anchor_diversity_2p5km": 0.14143896294942143,
+     "norm_nearest_anchor_distance_m": 0.22308093936153753
+    },
+    "feas": {
+     "norm_urban_compactness_2p5km": 0.2543014578522932,
+     "norm_major_road_density_2p5km": 0.3173865974135724,
+     "norm_nearest_major_road_distance_m": 0.24645518160344812,
+     "norm_pop_density_2p5km": 0.1818567631306863
+    }
+   }
+  }
+ },
+ "B0QA": {
+  "weights": {
+   "equal": {
+    "opp": {
+     "norm_heat_sum_2p5km": 0.16666666666666666,
+     "norm_pop_density_2p5km": 0.16666666666666666,
+     "norm_hdd_2024": 0.16666666666666666,
+     "norm_anchor_count_2p5km": 0.16666666666666666,
+     "norm_anchor_diversity_2p5km": 0.16666666666666666,
+     "norm_nearest_anchor_distance_m": 0.16666666666666666
+    },
+    "feas": {
+     "norm_urban_compactness_2p5km": 0.25,
+     "norm_major_road_density_2p5km": 0.25,
+     "norm_nearest_major_road_distance_m": 0.25,
+     "norm_pop_density_2p5km": 0.25
+    }
+   },
+   "literature_informed": {
+    "opp": {
+     "norm_heat_sum_2p5km": 0.35,
+     "norm_pop_density_2p5km": 0.2,
+     "norm_hdd_2024": 0.15,
+     "norm_anchor_count_2p5km": 0.15,
+     "norm_anchor_diversity_2p5km": 0.1,
+     "norm_nearest_anchor_distance_m": 0.05
+    },
+    "feas": {
+     "norm_urban_compactness_2p5km": 0.35,
+     "norm_major_road_density_2p5km": 0.3,
+     "norm_nearest_major_road_distance_m": 0.2,
+     "norm_pop_density_2p5km": 0.15
+    }
+   },
+   "entropy": {
+    "opp": {
+     "norm_heat_sum_2p5km": 0.15312075713424061,
+     "norm_pop_density_2p5km": 0.17750953357848903,
+     "norm_hdd_2024": 0.15249971303534723,
+     "norm_anchor_count_2p5km": 0.15235009394096413,
+     "norm_anchor_diversity_2p5km": 0.14143896294942143,
+     "norm_nearest_anchor_distance_m": 0.22308093936153753
+    },
+    "feas": {
+     "norm_urban_compactness_2p5km": 0.2555408267496728,
+     "norm_major_road_density_2p5km": 0.31893341936497466,
+     "norm_nearest_major_road_distance_m": 0.24278268983486104,
+     "norm_pop_density_2p5km": 0.18274306405049154
+    }
+   }
+  }
+ }
+}

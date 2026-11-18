@@ -1,0 +1,515 @@
+{
+ "B0": {
+  "tag": "B0",
+  "lit_vs_recovered_earlydraft_formula": {
+   "variant": "early-draft formula (like-for-like with map)",
+   "n_recovered": 1216,
+   "n_matched": 1216,
+   "mean_abs_err": 0.002771463815789473,
+   "median_abs_err": 0.0010000000000000009,
+   "max_abs_err": 0.12929999999999997,
+   "p95_abs_err": 0.00814999999999999,
+   "share_within_0.005": 0.9021381578947368,
+   "share_within_0.02": 0.9860197368421053,
+   "spearman_rank": 0.9989891751732418,
+   "spearman_score": 0.9989887825778213,
+   "top10pct_n": 122,
+   "top10pct_overlap": 120,
+   "top10pct_overlap_share": 0.9836065573770492,
+   "top20_overlap": 19,
+   "top20_same_position": 5,
+   "opp_exact_share": 1.0,
+   "feas_mean_abs_err": 0.004864884868421052,
+   "feas_max_abs_err": 0.1869,
+   "feas_within_0.005": 0.772203947368421
+  },
+  "lit_vs_recovered_final_formula": {
+   "variant": "final-notebook formula",
+   "n_recovered": 1216,
+   "n_matched": 1216,
+   "mean_abs_err": 0.002773190789473683,
+   "median_abs_err": 0.0010000000000000009,
+   "max_abs_err": 0.12919999999999998,
+   "p95_abs_err": 0.00814999999999999,
+   "share_within_0.005": 0.9013157894736842,
+   "share_within_0.02": 0.9860197368421053,
+   "spearman_rank": 0.9989860718017389,
+   "spearman_score": 0.9989872792518768,
+   "top10pct_n": 122,
+   "top10pct_overlap": 120,
+   "top10pct_overlap_share": 0.9836065573770492,
+   "top20_overlap": 19,
+   "top20_same_position": 5,
+   "opp_exact_share": 1.0,
+   "feas_mean_abs_err": 0.004864884868421052,
+   "feas_max_abs_err": 0.1869,
+   "feas_within_0.005": 0.772203947368421
+  },
+  "road_composite_0.30D+0.20R": {
+   "mean_abs_err": 0.004865564456136967,
+   "max_abs_err": 0.18685434024098677,
+   "pearson": 0.99261733656333,
+   "spearman": 0.9928914190018722,
+   "share_within_0.01": 0.9103618421052632
+  },
+  "entropy_weights": {
+   "opp_max_abs_diff": 0.0,
+   "feas_max_abs_diff": 0.005389068359479637,
+   "feas_reconstructed": {
+    "norm_urban_compactness_2p5km": 0.2543014578522932,
+    "norm_major_road_density_2p5km": 0.3173865974135724,
+    "norm_nearest_major_road_distance_m": 0.24645518160344812,
+    "norm_pop_density_2p5km": 0.1818567631306863
+   },
+   "feas_original": {
+    "norm_urban_compactness_2p5km": 0.2555491130537456,
+    "norm_major_road_density_2p5km": 0.32063578392706704,
+    "norm_nearest_major_road_distance_m": 0.24106611324396848,
+    "norm_pop_density_2p5km": 0.1827489897752189
+   }
+  },
+  "scenario_rank_corr": {
+   "eq_lit": 0.994,
+   "eq_ent": 0.9987,
+   "lit_ent": 0.9922,
+   "orig": {
+    "eq_lit": 0.9939,
+    "eq_ent": 0.9987,
+    "lit_ent": 0.9923
+   }
+  },
+  "top_decile": {
+   "cutoff": 122,
+   "robust_all_three": 111,
+   "orig_robust": 110,
+   "orig_cutoff": 122
+  },
+  "top20_equal": {
+   "overlap": 20,
+   "opp_exact": 20,
+   "mean_abs_feas_diff": 0.0029199999999999946,
+   "mean_abs_score_diff": 0.0014299999999999925,
+   "median_abs_rank_shift_of_orig_top20": 0.5,
+   "max_new_rank_of_orig_top20": 20
+  },
+  "four_cases": [
+   {
+    "case": "Equinix PA10",
+    "facility_id": "FR_way_1121454054",
+    "orig_opp": 0.8017,
+    "new_opp": 0.8017,
+    "orig_feas": 0.89712,
+    "new_feas": 0.8969,
+    "orig_score": 0.8481,
+    "new_score": 0.848,
+    "orig_rank": 73,
+    "new_rank": 70
+   },
+   {
+    "case": "Telia HDC",
+    "facility_id": "FI_way_640329703",
+    "orig_opp": 0.8611,
+    "new_opp": 0.8611,
+    "orig_feas": 0.6172,
+    "new_feas": 0.6196,
+    "orig_score": 0.729,
+    "new_score": 0.7305,
+    "orig_rank": 222,
+    "new_rank": 222
+   },
+   {
+    "case": "Meta Odense Data center",
+    "facility_id": "DK_way_940299764",
+    "orig_opp": 0.4459,
+    "new_opp": 0.4459,
+    "orig_feas": 0.2629,
+    "new_feas": 0.2625,
+    "orig_score": 0.3424,
+    "new_score": 0.3421,
+    "orig_rank": 951,
+    "new_rank": 951
+   },
+   {
+    "case": "NorthC Datacenter Aalsmeer",
+    "facility_id": "NL_node_2765259404",
+    "orig_opp": 0.558,
+    "new_opp": 0.558,
+    "orig_feas": 0.4713,
+    "new_feas": 0.4715,
+    "orig_score": 0.5128,
+    "new_score": 0.513,
+    "orig_rank": 711,
+    "new_rank": 707
+   }
+  ],
+  "describe_equal": {
+   "opportunity_score_equal": {
+    "count": 1216.0,
+    "mean": 0.5833,
+    "std": 0.2029,
+    "min": 0.0,
+    "25%": 0.4598,
+    "50%": 0.6141,
+    "75%": 0.7328,
+    "max": 0.9299
+   },
+   "feasibility_score_equal": {
+    "count": 1216.0,
+    "mean": 0.5019,
+    "std": 0.2318,
+    "min": 0.0,
+    "25%": 0.3119,
+    "50%": 0.5271,
+    "75%": 0.6638,
+    "max": 0.9988
+   },
+   "echo_dc_score_equal": {
+    "count": 1216.0,
+    "mean": 0.5331,
+    "std": 0.2124,
+    "min": 0.0,
+    "25%": 0.3742,
+    "50%": 0.5676,
+    "75%": 0.6842,
+    "max": 0.9424
+   }
+  },
+  "describe_orig_table9B": {
+   "": [
+    "Opportunity Score",
+    "Feasibility Score",
+    "ECHO-DC Baseline Score"
+   ],
+   "count": [
+    "1216",
+    "1216",
+    "1216"
+   ],
+   "mean": [
+    "0.5833",
+    "0.5019",
+    "0.5332"
+   ],
+   "std": [
+    "0.2029",
+    "0.2303",
+    "0.2116"
+   ],
+   "min": [
+    "0.0000",
+    "0.0000",
+    "0.0000"
+   ],
+   "25%": [
+    "0.4598",
+    "0.3180",
+    "0.3735"
+   ],
+   "50%": [
+    "0.6141",
+    "0.5236",
+    "0.5660"
+   ],
+   "75%": [
+    "0.7328",
+    "0.6631",
+    "0.6848"
+   ],
+   "max": [
+    "0.9299",
+    "0.9988",
+    "0.9401"
+   ]
+  },
+  "quadrants": {
+   "opp_median": 0.6141,
+   "feas_median": 0.52705,
+   "orig_opp_median": 0.6141,
+   "orig_feas_median": 0.5236,
+   "HH": 470,
+   "HL": 138,
+   "LH": 138,
+   "LL": 470,
+   "orig": [
+    468,
+    140,
+    140,
+    468
+   ]
+  },
+  "country_mean_abs_diff": 0.002580000000000001,
+  "country_rank_order_spearman": 0.993984962406015
+ },
+ "B0QA": {
+  "tag": "B0QA",
+  "lit_vs_recovered_earlydraft_formula": {
+   "variant": "early-draft formula (like-for-like with map)",
+   "n_recovered": 1216,
+   "n_matched": 1216,
+   "mean_abs_err": 0.00286669407894737,
+   "median_abs_err": 0.0012999999999999678,
+   "max_abs_err": 0.12839999999999996,
+   "p95_abs_err": 0.008099999999999996,
+   "share_within_0.005": 0.9013157894736842,
+   "share_within_0.02": 0.9860197368421053,
+   "spearman_rank": 0.9989908770221304,
+   "spearman_score": 0.9989933759053048,
+   "top10pct_n": 122,
+   "top10pct_overlap": 120,
+   "top10pct_overlap_share": 0.9836065573770492,
+   "top20_overlap": 19,
+   "top20_same_position": 5,
+   "opp_exact_share": 1.0,
+   "feas_mean_abs_err": 0.0050676809210526315,
+   "feas_max_abs_err": 0.18580000000000002,
+   "feas_within_0.005": 0.7557565789473685
+  },
+  "lit_vs_recovered_final_formula": {
+   "variant": "final-notebook formula",
+   "n_recovered": 1216,
+   "n_matched": 1216,
+   "mean_abs_err": 0.0028682565789473692,
+   "median_abs_err": 0.0012000000000000621,
+   "max_abs_err": 0.12839999999999996,
+   "p95_abs_err": 0.008099999999999996,
+   "share_within_0.005": 0.9013157894736842,
+   "share_within_0.02": 0.9860197368421053,
+   "spearman_rank": 0.9989908169568754,
+   "spearman_score": 0.9989920478287576,
+   "top10pct_n": 122,
+   "top10pct_overlap": 120,
+   "top10pct_overlap_share": 0.9836065573770492,
+   "top20_overlap": 19,
+   "top20_same_position": 5,
+   "opp_exact_share": 1.0,
+   "feas_mean_abs_err": 0.0050676809210526315,
+   "feas_max_abs_err": 0.18580000000000002,
+   "feas_within_0.005": 0.7557565789473685
+  },
+  "road_composite_0.30D+0.20R": {
+   "mean_abs_err": 0.005067747560230214,
+   "max_abs_err": 0.18582448302214036,
+   "pearson": 0.9926275497142095,
+   "spearman": 0.992878337369099,
+   "share_within_0.01": 0.9054276315789473
+  },
+  "entropy_weights": {
+   "opp_max_abs_diff": 0.0,
+   "feas_max_abs_diff": 0.0017165765908925545,
+   "feas_reconstructed": {
+    "norm_urban_compactness_2p5km": 0.2555408267496728,
+    "norm_major_road_density_2p5km": 0.31893341936497466,
+    "norm_nearest_major_road_distance_m": 0.24278268983486104,
+    "norm_pop_density_2p5km": 0.18274306405049154
+   },
+   "feas_original": {
+    "norm_urban_compactness_2p5km": 0.2555491130537456,
+    "norm_major_road_density_2p5km": 0.32063578392706704,
+    "norm_nearest_major_road_distance_m": 0.24106611324396848,
+    "norm_pop_density_2p5km": 0.1827489897752189
+   }
+  },
+  "scenario_rank_corr": {
+   "eq_lit": 0.994,
+   "eq_ent": 0.9987,
+   "lit_ent": 0.9923,
+   "orig": {
+    "eq_lit": 0.9939,
+    "eq_ent": 0.9987,
+    "lit_ent": 0.9923
+   }
+  },
+  "top_decile": {
+   "cutoff": 122,
+   "robust_all_three": 112,
+   "orig_robust": 110,
+   "orig_cutoff": 122
+  },
+  "top20_equal": {
+   "overlap": 20,
+   "opp_exact": 20,
+   "mean_abs_feas_diff": 0.0030349999999999934,
+   "mean_abs_score_diff": 0.0014949999999999963,
+   "median_abs_rank_shift_of_orig_top20": 0.5,
+   "max_new_rank_of_orig_top20": 20
+  },
+  "four_cases": [
+   {
+    "case": "Equinix PA10",
+    "facility_id": "FR_way_1121454054",
+    "orig_opp": 0.8017,
+    "new_opp": 0.8017,
+    "orig_feas": 0.89712,
+    "new_feas": 0.8975,
+    "orig_score": 0.8481,
+    "new_score": 0.8482,
+    "orig_rank": 73,
+    "new_rank": 70
+   },
+   {
+    "case": "Telia HDC",
+    "facility_id": "FI_way_640329703",
+    "orig_opp": 0.8611,
+    "new_opp": 0.8611,
+    "orig_feas": 0.6172,
+    "new_feas": 0.6203,
+    "orig_score": 0.729,
+    "new_score": 0.7308,
+    "orig_rank": 222,
+    "new_rank": 221
+   },
+   {
+    "case": "Meta Odense Data center",
+    "facility_id": "DK_way_940299764",
+    "orig_opp": 0.4459,
+    "new_opp": 0.4459,
+    "orig_feas": 0.2629,
+    "new_feas": 0.2637,
+    "orig_score": 0.3424,
+    "new_score": 0.3429,
+    "orig_rank": 951,
+    "new_rank": 950
+   },
+   {
+    "case": "NorthC Datacenter Aalsmeer",
+    "facility_id": "NL_node_2765259404",
+    "orig_opp": 0.558,
+    "new_opp": 0.558,
+    "orig_feas": 0.4713,
+    "new_feas": 0.4725,
+    "orig_score": 0.5128,
+    "new_score": 0.5135,
+    "orig_rank": 711,
+    "new_rank": 707
+   }
+  ],
+  "describe_equal": {
+   "opportunity_score_equal": {
+    "count": 1216.0,
+    "mean": 0.5833,
+    "std": 0.2029,
+    "min": 0.0,
+    "25%": 0.4598,
+    "50%": 0.6141,
+    "75%": 0.7328,
+    "max": 0.9299
+   },
+   "feasibility_score_equal": {
+    "count": 1216.0,
+    "mean": 0.5026,
+    "std": 0.2316,
+    "min": 0.0,
+    "25%": 0.3131,
+    "50%": 0.5278,
+    "75%": 0.6642,
+    "max": 0.9988
+   },
+   "echo_dc_score_equal": {
+    "count": 1216.0,
+    "mean": 0.5335,
+    "std": 0.2123,
+    "min": 0.0,
+    "25%": 0.3744,
+    "50%": 0.5679,
+    "75%": 0.6846,
+    "max": 0.9424
+   }
+  },
+  "describe_orig_table9B": {
+   "": [
+    "Opportunity Score",
+    "Feasibility Score",
+    "ECHO-DC Baseline Score"
+   ],
+   "count": [
+    "1216",
+    "1216",
+    "1216"
+   ],
+   "mean": [
+    "0.5833",
+    "0.5019",
+    "0.5332"
+   ],
+   "std": [
+    "0.2029",
+    "0.2303",
+    "0.2116"
+   ],
+   "min": [
+    "0.0000",
+    "0.0000",
+    "0.0000"
+   ],
+   "25%": [
+    "0.4598",
+    "0.3180",
+    "0.3735"
+   ],
+   "50%": [
+    "0.6141",
+    "0.5236",
+    "0.5660"
+   ],
+   "75%": [
+    "0.7328",
+    "0.6631",
+    "0.6848"
+   ],
+   "max": [
+    "0.9299",
+    "0.9988",
+    "0.9401"
+   ]
+  },
+  "quadrants": {
+   "opp_median": 0.6141,
+   "feas_median": 0.5277499999999999,
+   "orig_opp_median": 0.6141,
+   "orig_feas_median": 0.5236,
+   "HH": 470,
+   "HL": 138,
+   "LH": 138,
+   "LL": 470,
+   "orig": [
+    468,
+    140,
+    140,
+    468
+   ]
+  },
+  "country_mean_abs_diff": 0.0027400000000000002,
+  "country_rank_order_spearman": 0.993984962406015
+ },
+ "road_stage": {
+  "nearest_mean": 704.9595171001725,
+  "nearest_median": 369.23498842519416,
+  "nearest_max": 20301.731942747578,
+  "dens2p5_mean": 1.4806122532894737,
+  "dens2p5_median": 1.32485,
+  "dens2p5_max": 4.7677,
+  "len2p5_mean": 29.025097039473682,
+  "len10_mean": 295.90112171052635,
+  "orig": {
+   "nearest_mean": 703.16,
+   "nearest_median": 363.78,
+   "nearest_max": 20301.73,
+   "dens2p5_mean": 1.484067,
+   "dens2p5_median": 1.31875,
+   "dens2p5_max": 4.6869,
+   "len2p5_mean": 29.092783,
+   "len10_mean": 295.454471
+  },
+  "nl20": {
+   "dist_median_abs_diff_m": 0.00022644115324510494,
+   "dist_within_1m": 20,
+   "class_same": 20,
+   "len_median_abs_rel": 0.006215226949294867,
+   "len_max_abs_rel": 0.12008047462406024,
+   "n": 20,
+   "dist_spearman": 1.0,
+   "len_spearman": 1.0
+  },
+  "feature_count_ratio_overall": 0.9433466501454401
+ }
+}

@@ -1,0 +1,957 @@
+id_a,id_b,distance_m,name_a,name_b,operator_a,operator_b,same_operator,same_name
+DE_way_881246010,DE_relation_11982077,0.0,,VegaSystems NCPB,,VegaSystems,False,False
+CH_way_699247420,CH_way_1081882891,1.3,Datacube Biel,NorthC Biel data center,Netrics AG,,False,False
+IT_way_1125063250,IT_way_1125369577,2.9,,,,,False,True
+IT_way_1125063250,IT_way_1125063251,3.1,,,,,False,True
+DE_way_723038882,DE_way_1094348766,4.4,Hetzner Online GmbH - NBG1,,Hetzner Online GmbH,,False,False
+IT_way_1125369577,IT_way_1125369579,5.5,,,,,False,True
+DK_way_134874582,DK_way_912393044,5.9,,,,DigiPlex,False,True
+IT_way_1125063251,IT_way_1125369577,6.0,,,,,False,True
+DE_way_130064188,DE_way_130064190,7.0,Dernbach 1,Dernbach 1,GasLINE,GasLINE,True,True
+FR_node_6213121089,FR_way_313238933,7.1,Etix Vendée #2,Etix Vendée #2,,,False,True
+PT_way_1205572869,PT_way_1205572870,7.5,,,,,False,True
+GB_node_11902288339,GB_way_1161721011,7.9,AWS Bracknell Data Centre,Amazon Web Services,Amazon Web Services,Amazon Web Services,True,False
+IT_way_1125063250,IT_way_1125369579,8.4,,,,,False,True
+DE_way_130064180,DE_way_130064190,9.2,Dernbach 1,Dernbach 1,GasLINE,GasLINE,True,True
+NO_way_1028687251,NO_relation_14367602,9.3,,STACK Infrastructure OSL04,,Stack Infrastructure,False,False
+PT_way_1205572867,PT_way_1205572869,9.4,,,,,False,True
+ES_way_1075858825,ES_way_1075858826,9.6,centro de datos trasbase Negratín,,,,False,False
+NL_way_263802879,NL_way_280128049,9.9,Datacenter Almere,,NorthC,,False,False
+DE_way_686613449,DE_way_881246010,10.3,VegaSystems GmbH & Co. KG,,,,False,False
+DE_way_686613449,DE_relation_11982077,10.3,VegaSystems GmbH & Co. KG,VegaSystems NCPB,,VegaSystems,False,False
+PT_node_12331077835,PT_way_770046636,10.5,Centro de Computação Avançada do Minho,Datacenter de Riba d'Ave,Fundação para a Ciência e Tecnologia,REN;NOS,False,False
+GB_way_665572144,GB_way_702784280,10.7,,Equinix LD10,,Equinix,False,False
+NL_node_2738247230,NL_way_57864798,11.4,Databarn Amsterdam,,Databarn Amsterdam B.V.,,False,False
+IT_way_1125063251,IT_way_1125369579,11.5,,,,,False,True
+PT_way_1205572867,PT_way_1205572870,11.7,,,,,False,True
+FR_way_1342103499,FR_way_1342103500,11.9,Centre de Calculs et de Données LyonTech-la Doua,Centre de Calculs et de Données LyonTech-la Doua,Université Claude Bernard - Lyon 1,Université Claude Bernard - Lyon 1,True,True
+FR_way_1342103498,FR_way_1342103499,11.9,Centre de Calculs et de Données LyonTech-la Doua,Centre de Calculs et de Données LyonTech-la Doua,Université Claude Bernard - Lyon 1,Université Claude Bernard - Lyon 1,True,True
+NL_way_1093524165,NL_way_1093524166,12.7,Equinix AM3,Equinix,Equinix,Equinix,True,False
+HU_node_1530992851,HU_node_9379430388,13.2,,BIX,ATW,ISZT - BUDAPEST INTERNET EXCHANGE,False,False
+CH_node_11097428175,CH_way_793496138,14.0,RZ CAMPUS,,Bund,,False,False
+NL_way_57866665,NL_way_891596749,14.3,,Equinix AM8,,Equinix,False,False
+NL_way_1093524165,NL_way_1093524167,14.6,Equinix AM3,Equinix AM3,Equinix,Equinix,True,True
+FR_way_1342103499,FR_way_1342103501,15.0,Centre de Calculs et de Données LyonTech-la Doua,Centre de Calculs et de Données LyonTech-la Doua,Université Claude Bernard - Lyon 1,Université Claude Bernard - Lyon 1,True,True
+DE_way_129919031,DE_way_129919032,15.1,Dernbach 2,,GasLINE,GasLINE,True,False
+FR_way_1288320747,FR_way_1342103499,15.3,Centre de Calculs et de Données LyonTech-la Doua,Centre de Calculs et de Données LyonTech-la Doua,Université Claude Bernard - Lyon 1,Université Claude Bernard - Lyon 1,True,True
+DE_way_606528332,DE_way_1062506404,15.6,Hetzner – Rechenzentrumspark Falkenstein,,Hetzner Online GmbH,,False,False
+DE_way_129919031,DE_way_129919034,15.7,Dernbach 2,,GasLINE,GasLINE,True,False
+DE_way_130064180,DE_way_130064188,16.2,Dernbach 1,Dernbach 1,GasLINE,GasLINE,True,True
+FR_node_12150464472,FR_way_69633445,16.8,Telehouse THM1,Free Pro - Datacenter Marseille (MAR02),Telehouse,Free Pro (Ex. Jaguar Network - DCForData),False,False
+DE_way_194023609,DE_way_1304045627,17.1,,,,,False,True
+FR_way_1288320747,FR_way_1342103500,17.8,Centre de Calculs et de Données LyonTech-la Doua,Centre de Calculs et de Données LyonTech-la Doua,Université Claude Bernard - Lyon 1,Université Claude Bernard - Lyon 1,True,True
+FR_way_1342103498,FR_way_1342103501,17.8,Centre de Calculs et de Données LyonTech-la Doua,Centre de Calculs et de Données LyonTech-la Doua,Université Claude Bernard - Lyon 1,Université Claude Bernard - Lyon 1,True,True
+NL_way_1093524141,NL_way_1093524165,17.8,Equinix,Equinix AM3,Equinix,Equinix,True,False
+GB_node_11902392009,GB_way_1122158384,18.2,AWS Swindon Data Centre,AWS Swindon Data Centre,Amazon Web Services,Amazon Web Services,True,True
+NL_way_273121433,NL_way_1205462692,19.1,,NorthC Datacenter Rotterdam Waalhaven,,NorthC,False,False
+FR_way_1342103500,FR_way_1342103501,20.6,Centre de Calculs et de Données LyonTech-la Doua,Centre de Calculs et de Données LyonTech-la Doua,Université Claude Bernard - Lyon 1,Université Claude Bernard - Lyon 1,True,True
+FR_way_1288320747,FR_way_1342103498,20.7,Centre de Calculs et de Données LyonTech-la Doua,Centre de Calculs et de Données LyonTech-la Doua,Université Claude Bernard - Lyon 1,Université Claude Bernard - Lyon 1,True,True
+FR_node_12097993555,FR_way_159863825,20.8,Datacenter Martha,Digital Realty MRS3,,Digital Realty,False,False
+DE_way_129919031,DE_way_129919033,21.7,Dernbach 2,Dernbach 3,GasLINE,GasLINE,True,False
+FR_way_149301089,FR_way_149302427,22.2,,,Bouygues Télécom,Bouygues Télécom,True,True
+IT_way_1210747123,IT_way_1210747124,22.3,,,,,False,True
+IT_way_1210747122,IT_way_1210747123,22.4,,,,,False,True
+NL_way_482532123,NL_way_1093524157,22.7,Equinix AM4,Equinix AM3,,Equinix,False,False
+IT_way_1210747124,IT_way_1210747125,22.7,,,,,False,True
+NL_way_1093524166,NL_way_1093524167,22.8,Equinix,Equinix AM3,Equinix,Equinix,True,False
+DE_way_129919033,DE_way_129919034,23.5,Dernbach 3,,GasLINE,GasLINE,True,False
+FR_way_1342103498,FR_way_1342103500,23.8,Centre de Calculs et de Données LyonTech-la Doua,Centre de Calculs et de Données LyonTech-la Doua,Université Claude Bernard - Lyon 1,Université Claude Bernard - Lyon 1,True,True
+FR_node_6121968632,FR_way_79891578,24.0,,,,SNCF,False,True
+FR_node_6102460998,FR_way_48199846,24.5,SFR Netcenter Strasbourg,Datadock,SFR,,False,False
+DE_way_30092556,DE_way_295385404,24.5,T-Systems Magdeburg,RZ,T-Systems,,False,False
+NL_way_57865369,NL_way_1346509047,24.5,,Equinix Amsterdam AM8,,Equinix,False,False
+NL_way_455499803,NL_relation_3590806,24.8,QTS Eemshaven Netherlands Data Center,,Quality Technology Services,,False,False
+PL_way_939340882,PL_way_1005973518,25.2,T-Mobile Warszawa-Szlachecka,,,,False,False
+NL_way_57866665,NL_way_1346509047,25.4,,Equinix Amsterdam AM8,,Equinix,False,False
+DE_way_129919032,DE_way_129919034,25.7,,,GasLINE,GasLINE,True,True
+DE_way_607098496,DE_way_1040002048,26.2,Interxion FRA12,,Interxion,,False,False
+NL_way_1093524141,NL_way_1093524167,26.3,Equinix,Equinix AM3,Equinix,Equinix,True,False
+FR_node_3979838931,FR_way_128632388,26.3,LyonIX 1 IN2P3,Extension centre de calcul IN2P3,,IN2P3,False,False
+DE_way_1040002048,DE_way_1040002049,27.0,,,,,False,True
+GB_way_37943653,GB_relation_18217492,27.0,Pulsant Edinburgh South Gyle SC-1,Pulsant Edinburgh SC-1,Pulsant,,False,False
+DE_way_129919027,DE_way_129919034,27.8,,,GasLINE,GasLINE,True,True
+NL_way_1093524141,NL_way_1093524166,28.6,Equinix,Equinix,Equinix,Equinix,True,True
+IT_node_12075162382,IT_way_1210747121,28.8,Microsoft,,Microsoft,,False,False
+NL_way_273119903,NL_way_273121433,29.0,,,,,False,True
+GB_node_11161995738,GB_way_26794336,29.1,Centerprise International Newport,Vantage Data Centers - CWL1,,Vantage Data Centers,False,False
+DE_way_48013156,DE_way_326823358,29.1,,Interxion FRA5,,Interxion,False,False
+FR_way_91286607,FR_way_91288538,29.1,Datacenter IBM,Datacenter IBM,IBM,IBM,True,True
+FR_way_70206291,FR_way_70207931,29.4,Datacenter Bouygues Télécom,Datacenter Bouygues Télécom,Bouygues Télécom,Bouygues Télécom,True,True
+FR_node_9403059298,FR_way_700526670,29.4,,Telehouse 3,OpenStreetMap France,Telehouse,False,False
+DE_way_48018740,DE_way_48018741,29.8,iNTERWERK Rechenzentrum,Interwerk Rechenzentrum,,Interwerk,False,False
+FR_node_6289858502,FR_way_116113997,30.0,Sungard AS IT,Sungard AS IT,,Sungard AS,False,True
+NL_way_441605807,NL_way_1093524163,30.0,Equinix AM3,Equinix AM3,Equinix,Equinix,True,True
+FR_way_1288320747,FR_way_1342103501,30.3,Centre de Calculs et de Données LyonTech-la Doua,Centre de Calculs et de Données LyonTech-la Doua,Université Claude Bernard - Lyon 1,Université Claude Bernard - Lyon 1,True,True
+DE_way_169017126,DE_way_1040002049,30.9,Interxion FRA9,,Interxion,,False,False
+DE_way_377998104,DE_way_606528332,31.5,,Hetzner – Rechenzentrumspark Falkenstein,,Hetzner Online GmbH,False,False
+NL_way_273119903,NL_way_1205462692,31.7,,NorthC Datacenter Rotterdam Waalhaven,,NorthC,False,False
+FR_way_551480870,FR_way_551480895,32.6,OVHcloud Gravelines,OVHcloud Gravelines,,,False,True
+NL_way_295731026,NL_way_1090189550,32.7,Digital Realty AMS17,,Digital Realty,,False,False
+FR_way_226246636,FR_way_226247994,32.8,,,EDF,EDF,True,True
+GB_node_8325036723,GB_way_28073975,33.9,Serverhouse,Astrohouse,Serverhouse,University of Southampton,False,False
+NL_node_2765259404,NL_way_271576404,34.3,NorthC Datacenter Aalsmeer,,NorthC,,False,False
+DE_way_723038882,DE_way_1094348761,34.3,Hetzner Online GmbH - NBG1,,Hetzner Online GmbH,,False,False
+FR_way_160165248,FR_way_160165252,34.4,,,SFR,SFR,True,True
+FR_way_83943560,FR_way_83944350,34.5,,,Bouygues Télécom,Bouygues Télécom,True,True
+DE_way_1062506403,DE_way_1316627597,35.3,,,,,False,True
+FI_way_610260931,FI_way_1077698708,35.3,,,,,False,True
+DE_way_129919027,DE_way_129919033,35.4,,Dernbach 3,GasLINE,GasLINE,True,False
+FI_way_610260931,FI_way_610260932,35.6,,,,,False,True
+FR_way_226246780,FR_way_226247994,35.7,,,EDF,EDF,True,True
+FI_way_1077698708,FI_way_1238398882,35.7,,,,,False,True
+FI_way_610260932,FI_way_610260933,36.0,,,,,False,True
+DE_way_48013154,DE_way_168961561,36.2,Interxion FRA6,DigitalRealty FRA1,,Interxion,False,False
+FR_way_81282298,FR_way_81283176,36.4,,,Bouygues Télécom,Bouygues Télécom,True,True
+NL_way_891596749,NL_way_1346509047,36.6,Equinix AM8,Equinix Amsterdam AM8,Equinix,Equinix,True,False
+DE_way_129919032,DE_way_129919033,36.7,,Dernbach 3,GasLINE,GasLINE,True,False
+DE_way_1316627597,DE_way_1316627599,37.0,,,,,False,True
+DE_way_176018511,DE_way_176018516,37.5,,,,,False,True
+DE_way_176018513,DE_way_176018515,37.5,,,,,False,True
+DE_way_176018511,DE_way_176018513,37.5,,,,,False,True
+DE_way_1062506403,DE_way_1062506404,37.6,,,,,False,True
+DE_way_176018515,DE_way_377998104,37.6,,,,,False,True
+DE_way_432584964,DE_way_1094348767,37.7,,,,,False,True
+DE_way_1094348761,DE_way_1094348766,37.8,,,,,False,True
+DE_way_432584964,DE_way_1094348766,38.1,,,,,False,True
+NL_way_1093524163,NL_way_1093524166,38.1,Equinix AM3,Equinix,Equinix,Equinix,True,False
+GR_way_1219002658,GR_way_1219002659,38.5,Athens 1,Athens 2,,,False,False
+FI_way_459879213,FI_way_1238398882,38.7,Hetzner data center - HEL1,,Hetzner Finland Oy,,False,False
+FR_way_80148463,FR_way_176779630,39.0,OVHcloud Roubaix - RBX5,OVHcloud Roubaix - RBX3,,,False,False
+NL_way_723864747,NL_way_1138948050,39.1,,Google Datacenter Middenmeer,,Google,False,False
+FR_node_6174610289,FR_way_113714402,39.5,Bouygues Telecom Montigny-le-Bretonneux,Datacenter Bouygues Télécom,,Bouygues Télécom,False,False
+DE_way_42311840,DE_way_145174885,39.5,,,,,False,True
+DE_way_30092556,DE_way_115774259,39.6,T-Systems Magdeburg,,T-Systems,,False,False
+FR_way_481746975,FR_way_944210675,39.8,Nexeren,Nexeren,Nexeren,Nexeren,True,True
+DE_way_377998104,DE_way_1062506404,40.3,,,,,False,True
+GB_way_996865179,GB_way_996865180,40.3,,,,,False,True
+DE_way_387918535,DE_way_1031000203,40.5,aixit GmbH,Verizon,,Verizon,False,False
+DE_way_86339088,DE_way_145174886,41.6,I.T.E.N.O.S. Frankfurt - B,I.T.E.N.O.S. Frankfurt - C,,,False,False
+FR_way_73120395,FR_way_847461128,41.7,Equinix PA4,Equinix PA8X,Equinix,Equinix,True,False
+DE_way_432584964,DE_way_723038882,41.8,,Hetzner Online GmbH - NBG1,,Hetzner Online GmbH,False,False
+DE_way_86339088,DE_way_145174932,41.9,I.T.E.N.O.S. Frankfurt - B,,,,False,False
+FR_way_920174789,FR_way_1060567996,42.0,Equinix,Equinix,Equinix,Equinix,True,True
+DE_way_129919027,DE_way_129919031,42.1,,Dernbach 2,GasLINE,GasLINE,True,False
+FR_way_49292264,FR_way_49292266,42.5,,,Bouygues Télécom,Bouygues Télécom,True,True
+FR_way_42016630,FR_way_1099624280,43.2,Data4 Campus Paris Saclay,,Data4,,False,False
+DE_way_173975695,DE_way_1293351084,43.2,,Destination Earth Data Bridge,,,False,False
+NL_way_482532123,NL_way_1093524141,43.9,Equinix AM4,Equinix,,Equinix,False,False
+NL_way_435698610,NL_way_814210482,44.1,AMS06,Microsoft Datacenter West Europe,Microsoft,Microsoft,True,False
+DE_way_84268716,DE_way_1062506407,44.3,,,,,False,True
+IT_way_1210747122,IT_way_1210747124,44.7,,,,,False,True
+NL_way_776593777,NL_way_1220520621,44.8,,Equinix AM7,,Equinix,False,False
+NL_way_441605807,NL_way_1093524157,44.9,Equinix AM3,Equinix AM3,Equinix,Equinix,True,True
+IT_way_1210747123,IT_way_1210747125,45.0,,,,,False,True
+FR_way_73003053,FR_way_73005029,45.3,Datacenter Atos,Datacenter Atos,Atos,Atos,True,True
+DE_way_48013154,DE_way_48013155,45.6,Interxion FRA6,Interxion FRA2,,Interxion,False,False
+FI_way_459879213,FI_way_1077698708,46.0,Hetzner data center - HEL1,,Hetzner Finland Oy,,False,False
+GB_way_87850564,GB_way_87850741,46.7,,,,,False,True
+DE_way_98916098,DE_way_1267104292,47.3,Equinix FR8.1,Equinix FR8.2,Equinix,Equinix,True,False
+GB_way_37943663,GB_relation_18217492,47.5,Pulsant Edinburgh South Gyle SC-1,Pulsant Edinburgh SC-1,Pulsant,,False,False
+FR_node_12097993555,FR_way_159862898,48.0,Datacenter Martha,Digital Realty MRS2,,Digital Realty,False,False
+NL_way_57865369,NL_way_57866665,48.3,,,,,False,True
+GB_way_838655599,GB_way_838655600,48.9,,,Ark Data Centres,Ark Data Centres,True,True
+DE_way_84268716,DE_way_176018516,48.9,,,,,False,True
+GB_way_838655598,GB_way_838655599,48.9,,,Ark Data Centres,Ark Data Centres,True,True
+DE_way_606528332,DE_way_1062506403,49.8,Hetzner – Rechenzentrumspark Falkenstein,,Hetzner Online GmbH,,False,False
+FR_way_226247994,FR_way_226250681,50.2,,Datacenter EDF,EDF,EDF,True,False
+NL_way_1093524163,NL_way_1093524165,50.3,Equinix AM3,Equinix AM3,Equinix,Equinix,True,True
+IE_way_37682016,IE_way_702455910,50.4,Equinix Dublin DB1,BT Application Hosting,Equinix,BT Ireland,False,False
+DE_way_115774245,DE_way_115774259,50.5,,,,,False,True
+DE_way_326082814,DE_way_403874334,50.6,Interxion FRA10,Interxion FRA11,Interxion,Interxion,True,False
+NL_way_1093524141,NL_way_1093524157,51.1,Equinix,Equinix AM3,Equinix,Equinix,True,False
+DE_way_607098496,DE_way_822085523,51.4,Interxion FRA12,Interxion FRA16,Interxion,Interxion,True,False
+NL_way_441605807,NL_way_1093524166,51.9,Equinix AM3,Equinix,Equinix,Equinix,True,False
+DE_way_173170495,DE_way_499619543,52.4,CyrusOne FRA1,CyrusOne FRA2,CyrusOne,CyrusOne,True,False
+DE_way_48017518,DE_way_168961561,52.5,Interxion FRA3,DigitalRealty FRA1,Interxion,Interxion,True,False
+DE_way_607098496,DE_way_1040002049,53.2,Interxion FRA12,,Interxion,,False,False
+DE_way_129919027,DE_way_129919032,53.4,,,GasLINE,GasLINE,True,True
+FR_way_320306631,FR_way_421253670,53.5,Data4 Marcoussis,CNRS,,,False,False
+DE_way_145174885,DE_way_145174886,53.6,,I.T.E.N.O.S. Frankfurt - C,,,False,False
+DE_way_403874334,DE_way_607098498,53.8,Interxion FRA11,Interxion FRA13,Interxion,Interxion,True,False
+FR_way_159862898,FR_way_159863825,54.0,Digital Realty MRS2,Digital Realty MRS3,Digital Realty,Digital Realty,True,False
+FR_way_226246636,FR_way_226250681,54.0,,Datacenter EDF,EDF,EDF,True,False
+IE_way_547351129,IE_way_691934423,54.2,Digital Realty DUB4,Digital Realty DUB3,Digital Realty,Digital Realty,True,False
+FR_node_6289858502,FR_way_116118031,54.3,Sungard AS IT,Sungard AS IT,,Sungard AS,False,True
+DE_way_619486957,DE_way_749551415,54.6,Equinix FR2.6,Equinix FR9,Equinix,Equinix,True,False
+BE_way_106054206,BE_way_453714808,54.7,Google Data Center,,Google,,False,False
+DE_way_1062433549,DE_relation_13018876,56.2,,NTT Global Datacenters Frankfurt 4,,NTT,False,False
+NL_way_57865369,NL_way_891596749,56.5,,Equinix AM8,,Equinix,False,False
+NL_way_435698611,NL_way_814210482,56.7,AMS06,Microsoft Datacenter West Europe,Microsoft,Microsoft,True,False
+DE_way_26225757,DE_way_26225758,57.4,,Kyndryl Data Center,,,False,False
+DE_way_38754135,DE_way_38754141,57.6,,Kyndryl Data Center,,Kyndryl Deutschland GmbH,False,False
+FI_node_10648255815,FI_node_10648294221,57.8,CSC – IT Center for Science,LUMI (supercomputer),CSC,EuroHPC/CSC,False,False
+DE_way_169017126,DE_way_1040002048,57.9,Interxion FRA9,,Interxion,,False,False
+NL_way_282381349,NL_way_776593777,58.0,Equinix AM7,,Equinix,,False,False
+DE_way_145174886,DE_way_145174932,58.1,I.T.E.N.O.S. Frankfurt - C,,,,False,False
+FR_way_38354559,FR_way_80148463,58.4,OVHcloud Roubaix - RBX1,OVHcloud Roubaix - RBX5,,,False,False
+NL_way_482532123,NL_way_1093524165,58.5,Equinix AM4,Equinix AM3,,Equinix,False,False
+FR_node_7902392228,FR_node_9002117313,59.1,Salle Technique France Télévisions,Salle Technique France Télévisions,France Télévisions,France Télévisions,True,True
+GB_way_257754194,GB_way_258625769,59.2,Equinix LD8,Equinix LD8,Equinix,Equinix,True,True
+IT_node_12075162382,IT_way_1210747122,59.2,Microsoft,,Microsoft,,False,False
+GR_way_1219002657,GR_way_1219002659,59.6,Athens 3,Athens 2,,,False,False
+DE_way_176647402,DE_way_613862765,59.8,Interxion FRA8,Interxion FRA14,Interxion,Interxion,True,False
+IE_way_68337058,IE_way_68337079,60.1,Verizon Data Center,Vodafone Data Center,Verizon,Vodafone,False,False
+NL_way_1093524163,NL_way_1093524167,60.2,Equinix AM3,Equinix AM3,Equinix,Equinix,True,True
+NL_way_1093524157,NL_way_1093524165,60.2,Equinix AM3,Equinix AM3,Equinix,Equinix,True,True
+FR_node_6212483563,FR_way_84607738,60.3,ELB Group - DATACENTER LYON 3,Euclyde DC5,,Euclyde,False,False
+NL_way_441605807,NL_way_1093524165,60.4,Equinix AM3,Equinix AM3,Equinix,Equinix,True,True
+FR_way_63979423,FR_way_63983178,60.5,Interxion PAR3,Interxion PAR5,Interxion,Interxion,True,False
+FR_way_234729371,FR_relation_8812014,60.6,OVHcloud Roubaix - RBX4,OVHcloud Roubaix - RBX2,,,False,False
+GB_way_458603045,GB_way_458603189,60.9,Whitesands Cable Landing Station,ESAT 1 Cable Landing Station,Level3 Communications,BT Ireland,False,False
+NL_way_1093524157,NL_way_1093524166,60.9,Equinix AM3,Equinix,Equinix,Equinix,True,False
+IE_way_538103967,IE_way_1293518358,60.9,Digital Realty Dublin DUB3,Digital Realty Dublin DUB4,Digital Realty,Digital Realty,True,False
+DE_way_499619544,DE_way_887871067,61.0,Digital Realty FRA30,Digital Realty FRA31,Digital Realty,Digital Realty,True,False
+DE_way_887871067,DE_way_887871068,61.3,Digital Realty FRA31,Digital Realty FRA32,Digital Realty,Digital Realty,True,False
+DE_way_208484274,DE_way_622117974,61.4,,,,,False,True
+DE_node_4019998661,DE_way_967735675,61.8,Informationstechnikzentrum Bund (ITZBund),Digital Realty FRA29,,Digital Realty,False,False
+NL_way_1093524141,NL_way_1093524163,62.3,Equinix,Equinix AM3,Equinix,Equinix,True,False
+IT_node_12075162382,IT_way_1210747123,62.3,Microsoft,,Microsoft,,False,False
+DE_way_115774259,DE_way_295385404,63.0,,RZ,,,False,False
+DE_way_48013134,DE_way_326082813,63.1,Interxion FRA4,Interxion FRA7,Interxion,Interxion,True,False
+DE_way_48017518,DE_way_169017126,63.1,Interxion FRA3,Interxion FRA9,Interxion,Interxion,True,False
+NL_way_482532123,NL_way_1093524166,63.7,Equinix AM4,Equinix,,Equinix,False,False
+BE_node_12214044389,BE_node_12214044390,63.8,Digital realty Brussels BRU4,Digital realty Brussels BRU3,Digital Realty,Digital Realty,True,False
+NL_way_441605807,NL_way_482532123,64.5,Equinix AM3,Equinix AM4,Equinix,,False,False
+NL_way_441605807,NL_way_1093524141,64.6,Equinix AM3,Equinix,Equinix,Equinix,True,False
+DE_way_333163639,DE_way_1304045627,65.0,,,,,False,True
+DE_way_88875247,DE_way_88875303,65.5,,,NTT Global Data Centers,NTT Global Data Centers,True,True
+IE_way_47924345,IE_way_47924347,65.9,,,,,False,True
+DE_way_764604919,DE_way_1220064079,66.3,maincubes FRANKFURT-01,,maincubes,,False,False
+PL_node_2978103914,PL_way_466665870,66.5,3S Data Center DC 1,3S Data Center DC 2,3S Data Center S.A.,3S Data Center S.A.,True,False
+NL_way_1093524157,NL_way_1093524163,66.5,Equinix AM3,Equinix AM3,Equinix,Equinix,True,True
+FR_way_226246780,FR_way_226250681,67.2,,Datacenter EDF,EDF,EDF,True,False
+IT_way_1210747122,IT_way_1210747125,67.4,,,,,False,True
+DE_way_326082814,DE_way_607098496,67.4,Interxion FRA10,Interxion FRA12,Interxion,Interxion,True,False
+DE_way_176018515,DE_way_606528332,67.8,,Hetzner – Rechenzentrumspark Falkenstein,,Hetzner Online GmbH,False,False
+GR_way_1219002657,GR_way_1219002658,67.8,Athens 3,Athens 1,,,False,False
+DE_way_403874334,DE_way_822085523,68.0,Interxion FRA11,Interxion FRA16,Interxion,Interxion,True,False
+FR_way_320306630,FR_way_421253671,68.1,,,data4,data4,True,True
+DE_way_88875270,DE_way_88875337,68.4,,,NTT Global Data Centers,NTT Global Data Centers,True,True
+FR_way_226246636,FR_way_226246780,68.5,,,EDF,EDF,True,True
+DE_way_1062433549,DE_way_1062433550,68.6,,,,,False,True
+DE_way_176647402,DE_way_1040002049,68.8,Interxion FRA8,,Interxion,,False,False
+FR_way_116113997,FR_way_116118031,68.9,Sungard AS IT,Sungard AS IT,Sungard AS,Sungard AS,True,True
+FR_way_1099624277,FR_way_1099624279,69.0,,,,,False,True
+DE_way_759989363,DE_relation_1314773,69.0,,,Global Switch,TE Connectivety,False,True
+DE_way_176647402,DE_way_326082814,69.1,Interxion FRA8,Interxion FRA10,Interxion,Interxion,True,False
+FR_way_38354559,FR_way_176779630,69.3,OVHcloud Roubaix - RBX1,OVHcloud Roubaix - RBX3,,,False,False
+FR_way_146091133,FR_way_1342264087,69.4,,,data4,,False,True
+DE_way_169017126,DE_way_176647402,69.6,Interxion FRA9,Interxion FRA8,Interxion,Interxion,True,False
+NL_way_482532123,NL_way_1093524167,70.0,Equinix AM4,Equinix AM3,,Equinix,False,False
+GB_way_49602062,GB_way_49602063,70.0,Pulsant Maidenhead,Pulsant Maidenhead,Pulsant,Pulsant,True,True
+IE_way_68337029,IE_way_1186696253,70.3,Eir Data Center,Digital Realty DUB11,Eir,Digital Realty,False,False
+DE_way_176018516,DE_way_1062506409,70.5,,,,,False,True
+FR_way_1099624278,FR_way_1099624283,70.9,,,,,False,True
+DE_way_48013155,DE_way_168961561,70.9,Interxion FRA2,DigitalRealty FRA1,Interxion,Interxion,True,False
+GB_way_447245008,GB_way_447320367,70.9,Centurylink London 1,Centurylink London 5,Centurylink,Centurylink,True,False
+FI_way_610260932,FI_way_1077698708,70.9,,,,,False,True
+DE_way_48017518,DE_way_613862765,71.0,Interxion FRA3,Interxion FRA14,Interxion,Interxion,True,False
+FI_way_610260931,FI_way_1238398882,71.0,,,,,False,True
+FI_way_459879213,FI_way_610260931,71.3,Hetzner data center - HEL1,,Hetzner Finland Oy,,False,False
+FI_way_610260931,FI_way_610260933,71.6,,,,,False,True
+DE_way_168961561,DE_way_326082813,71.9,DigitalRealty FRA1,Interxion FRA7,Interxion,Interxion,True,False
+DE_way_48013154,DE_way_326082813,71.9,Interxion FRA6,Interxion FRA7,,Interxion,False,False
+IT_node_12075162382,IT_way_1210747124,72.3,Microsoft,,Microsoft,,False,False
+DE_way_1062506403,DE_way_1316627599,72.3,,,,,False,True
+FR_node_6289527565,FR_relation_1227851,72.4,Alphalink Telco Center,Equinix PA7,,Equinix,False,False
+DE_way_326082814,DE_way_1040002048,72.4,Interxion FRA10,,Interxion,,False,False
+DE_way_194023609,DE_way_333163639,72.5,,,,,False,True
+GB_way_147532741,GB_way_403124345,72.5,Lloyds Banking Group Copley,,,,False,False
+DE_way_1062506404,DE_way_1316627597,73.0,,,,,False,True
+FR_way_1030533210,FR_way_1084581417,73.9,PAR8,PAR9,Interxion,Interxion,True,False
+NL_way_441605807,NL_way_1093524167,74.0,Equinix AM3,Equinix AM3,Equinix,Equinix,True,True
+NL_way_1093524157,NL_way_1093524167,74.1,Equinix AM3,Equinix AM3,Equinix,Equinix,True,True
+DE_way_967401206,DE_relation_13018876,74.2,,NTT Global Datacenters Frankfurt 4,,NTT,False,False
+GB_way_37943653,GB_way_37943663,74.5,Pulsant Edinburgh South Gyle SC-1,Pulsant Edinburgh South Gyle SC-1,Pulsant,Pulsant,True,True
+NL_way_57852902,NL_way_57853463,74.6,Equinix AM1,Equinix AM2,Equinix,Equinix,True,False
+IE_way_37682016,IE_way_51336797,74.7,Equinix Dublin DB1,Amazon DUB-2,Equinix,Amazon Web Services,False,False
+DE_way_1266882484,DE_way_1266882485,74.8,Digital Realty,Digital Realty,Digital Realty,Digital Realty,True,True
+DE_way_326823358,DE_way_1040002048,74.9,Interxion FRA5,,Interxion,,False,False
+DE_way_176018511,DE_way_176018515,74.9,,,,,False,True
+DE_way_48013155,DE_way_48013156,74.9,Interxion FRA2,,Interxion,,False,False
+DE_way_176018513,DE_way_377998104,75.0,,,,,False,True
+DE_way_176018513,DE_way_176018516,75.0,,,,,False,True
+GB_way_460244923,GB_way_460244928,75.1,CGG,Digital Realty,,Digital Realty,False,False
+SE_way_726566209,SE_way_1156469042,75.2,EcoDataCenter,,,,False,False
+GB_way_206625800,GB_way_206625804,75.3,Telehouse North,Telehouse East,Telehouse,Telehouse,True,False
+AT_way_714122239,AT_way_1251362833,75.4,B,C,,,False,False
+IT_way_1269297685,IT_way_1269297686,75.5,,,,,False,True
+FR_way_146091133,FR_way_320306630,75.5,,,data4,data4,True,True
+GB_node_7778067710,GB_way_26794336,75.6,Next Generation Data,Vantage Data Centers - CWL1,Next Generation Data,Vantage Data Centers,False,False
+FR_way_1084581417,FR_way_1180419925,75.8,PAR9,,Interxion,,False,False
+DE_way_1094348766,DE_way_1094348767,75.8,,,,,False,True
+DE_way_432584964,DE_way_1094348761,76.0,,,,,False,True
+DE_way_759986149,DE_relation_13018876,76.1,,NTT Global Datacenters Frankfurt 4,,NTT,False,False
+GB_way_375842477,GB_way_375842478,76.3,Six Degrees Data Centre,Six Degrees Data Centre,Six Degrees,Six Degrees,True,True
+DE_way_326823358,DE_way_1040002049,76.3,Interxion FRA5,,Interxion,,False,False
+FR_way_1180419924,FR_way_1180419925,76.8,,,,,False,True
+GB_node_7778067710,GB_node_11161995738,76.9,Next Generation Data,Centerprise International Newport,Next Generation Data,,False,False
+FR_way_1121454054,FR_way_1121454055,77.1,Equinix PA10,Equinix PA9X,Equinix,Equinix,True,False
+FR_way_160165252,FR_way_160165278,77.5,,,SFR,Bouygues Télécom,False,True
+DE_way_822085523,DE_way_1040002048,77.6,Interxion FRA16,,Interxion,,False,False
+DE_way_176018515,DE_way_1062506404,77.9,,,,,False,True
+DE_way_377998104,DE_way_1062506403,78.0,,,,,False,True
+GB_way_706624302,GB_way_706624303,78.4,,Equinix LD9,,Equinix,False,False
+FR_way_146091115,FR_way_146091140,78.4,,,data4,data4,True,True
+DE_way_176647402,DE_way_1040002048,78.4,Interxion FRA8,,Interxion,,False,False
+FR_way_1030533210,FR_way_1180419924,78.6,PAR8,,Interxion,,False,False
+FR_way_700652111,FR_relation_1227851,78.8,Le Prologue,Equinix PA7,SFR,Equinix,False,False
+IE_way_51336797,IE_way_702455910,78.9,Amazon DUB-2,BT Application Hosting,Amazon Web Services,BT Ireland,False,False
+DE_way_723038882,DE_way_1094348767,79.4,Hetzner Online GmbH - NBG1,,Hetzner Online GmbH,,False,False
+DE_way_169017126,DE_way_613862765,80.1,Interxion FRA9,Interxion FRA14,Interxion,Interxion,True,False
+GB_way_147532741,GB_way_403124342,80.3,Lloyds Banking Group Copley,,,,False,False
+DE_way_84268716,DE_way_176018511,80.5,,,,,False,True
+NL_way_482532123,NL_way_1093524163,80.6,Equinix AM4,Equinix AM3,,Equinix,False,False
+DE_way_88875270,DE_way_88875303,80.6,,,NTT Global Data Centers,NTT Global Data Centers,True,True
+GB_way_206625804,GB_way_497956675,81.1,Telehouse East,Telehouse North Two,Telehouse,Telehouse,True,False
+DE_way_172856848,DE_way_764604919,81.1,Vantage Data Center (FRA1),maincubes FRANKFURT-01,Vantage Data Centers,maincubes,False,False
+DE_way_172856848,DE_way_1220064079,81.4,Vantage Data Center (FRA1),,Vantage Data Centers,,False,False
+DE_way_326823358,DE_way_607098496,81.5,Interxion FRA5,Interxion FRA12,Interxion,Interxion,True,False
+GB_way_34160179,GB_way_206625804,81.6,Telehouse West,Telehouse East,Telehouse,Telehouse,True,False
+FR_way_42016630,FR_way_421253670,81.7,Data4 Campus Paris Saclay,CNRS,Data4,,False,False
+FI_way_846760920,FI_way_1246864464,81.8,,,Yandex,,False,True
+FR_way_146091136,FR_way_146091140,81.9,,,data4,data4,True,True
+GB_way_34160179,GB_way_157178049,82.1,Telehouse West,Global Switch London East,Telehouse,Global Switch,False,False
+GB_way_459600800,GB_way_705065014,82.2,Virtus London 10,Virtus London 3,Virtus,Virtus,True,False
+DE_way_326082814,DE_way_822085523,82.3,Interxion FRA10,Interxion FRA16,Interxion,Interxion,True,False
+FR_way_421253670,FR_way_1099624278,82.9,CNRS,,,,False,False
+FR_way_1122298171,FR_way_1273311891,83.0,,,data4,data4,True,True
+FR_way_146091115,FR_way_146091133,83.0,,,data4,data4,True,True
+DE_way_48013155,DE_way_326823358,83.2,Interxion FRA2,Interxion FRA5,Interxion,Interxion,True,False
+DE_way_1062433550,DE_way_1062433551,83.3,,Digital Realty FRA33,,Digital Realty,False,False
+FR_way_160165248,FR_way_160165278,83.6,,,SFR,Bouygues Télécom,False,True
+DE_way_88875362,DE_relation_1314773,83.7,,,,TE Connectivety,False,True
+DE_way_169017126,DE_way_607098496,84.1,Interxion FRA9,Interxion FRA12,Interxion,Interxion,True,False
+DE_way_606528332,DE_way_1316627597,84.7,Hetzner – Rechenzentrumspark Falkenstein,,Hetzner Online GmbH,,False,False
+NO_way_1164840308,NO_relation_14367602,85.0,,STACK Infrastructure OSL04,,Stack Infrastructure,False,False
+DK_way_25629568,DK_way_1094485846,85.1,Digital Realty Copenhagen CPH1,Digital Realty Copenhagen CPH2,Digital Realty,Digital Realty,True,False
+NO_way_1028687251,NO_way_1164840308,85.5,,,,,False,True
+FR_way_1099624277,FR_way_1099624283,86.0,,,,,False,True
+DE_way_88875303,DE_way_88875337,86.3,,,NTT Global Data Centers,NTT Global Data Centers,True,True
+CH_way_489130425,CH_way_637078719,86.3,Equinix ZRH5,Equinix ZRH5,"Equinix, Inc.","Equinix, Inc.",True,True
+NO_way_1028687251,NO_way_1164840309,86.4,,,,,False,True
+DE_way_967401206,DE_way_1062433549,86.7,,,,,False,True
+FR_way_1099624278,FR_way_1099624279,86.8,,,,,False,True
+DE_way_48013134,DE_way_168961561,86.8,Interxion FRA4,DigitalRealty FRA1,Interxion,Interxion,True,False
+DE_way_326082814,DE_way_1040002049,86.9,Interxion FRA10,,Interxion,,False,False
+DE_node_9258436545,DE_node_9258436546,87.1,InterXion DUS2,InterXion DUS1,Interxion,Interxion,True,False
+DE_way_403874334,DE_way_607098496,87.1,Interxion FRA11,Interxion FRA12,Interxion,Interxion,True,False
+DE_way_48013134,DE_way_48017518,87.2,Interxion FRA4,Interxion FRA3,Interxion,Interxion,True,False
+DE_way_607098498,DE_way_822085523,87.2,Interxion FRA13,Interxion FRA16,Interxion,Interxion,True,False
+IT_node_12075162382,IT_way_1210747125,87.5,Microsoft,,Microsoft,,False,False
+IT_way_1210747121,IT_way_1210747122,87.5,,,,,False,True
+FR_way_42016630,FR_way_1099624278,87.8,Data4 Campus Paris Saclay,,Data4,,False,False
+FR_way_320306631,FR_way_1342264087,88.1,Data4 Marcoussis,,,,False,False
+GB_way_87850427,GB_way_87850564,88.1,,,,,False,True
+DE_way_48013154,DE_way_48017518,88.1,Interxion FRA6,Interxion FRA3,,Interxion,False,False
+DE_way_168961561,DE_way_169017126,88.3,DigitalRealty FRA1,Interxion FRA9,Interxion,Interxion,True,False
+DE_way_169017126,DE_way_326823358,89.0,Interxion FRA9,Interxion FRA5,Interxion,Interxion,True,False
+GB_way_574135468,GB_way_996865180,89.3,Ark Data Centres,,Ark Data Centres,,False,False
+GB_way_87850427,GB_way_87850741,89.3,,,,,False,True
+GB_way_27618472,GB_way_27618478,89.7,,Equinix LD3,,Equinix,False,False
+DE_way_30092556,DE_way_115774245,89.9,T-Systems Magdeburg,,T-Systems,,False,False
+NO_way_1164840309,NO_relation_14367602,89.9,,STACK Infrastructure OSL04,,Stack Infrastructure,False,False
+FR_way_126666046,FR_way_126667399,90.3,SM4,SM3,Euro Information,Euro Information,True,False
+IT_way_1210747121,IT_way_1210747123,90.8,,,,,False,True
+GB_way_459572486,GB_way_705065014,91.0,VIRTUS Slough London 3 and 4,Virtus London 3,VIRTUS,Virtus,False,False
+GB_way_665572148,GB_way_702784280,91.2,CyrusOne London 1,Equinix LD10,CyrusOne,Equinix,False,False
+FR_way_421253670,FR_way_1099624279,91.7,CNRS,,,,False,False
+DE_way_42311840,DE_way_145174886,91.8,,I.T.E.N.O.S. Frankfurt - C,,,False,False
+DE_way_1047444549,DE_way_1265263013,91.9,Equinix FR11,Equinix FR13,Equinix,Equinix,True,False
+NL_way_881474215,NL_way_956325143,92.2,,Google Datacenter Eemshaven,,Google,False,False
+DE_way_176018516,DE_way_1062506407,92.4,,,,,False,True
+GB_way_665572144,GB_way_665572148,92.6,,CyrusOne London 1,,CyrusOne,False,False
+FR_way_421253671,FR_way_1099624281,92.7,,,data4,data4,True,True
+DE_way_84268716,DE_way_1062506409,93.3,,,,,False,True
+DE_way_1145623809,DE_way_1192381985,93.6,Vantage Data Center FRA2,Vantage Data Center FRA22,Vantage Data Centers,Vantage Data Centers,True,False
+FR_way_421253670,FR_way_1342264087,93.6,CNRS,,,,False,False
+DE_way_48017518,DE_way_1040002049,94.0,Interxion FRA3,,Interxion,,False,False
+GB_way_225909388,GB_way_705064992,94.4,Equinix LD11x,Equinix LD12,Equinix,Equinix,True,False
+FR_node_8074063731,FR_way_150382252,94.5,dc2scale Vélizy,DC2SCALE Vélizy Latécoère,dc2scale,dc2scale,True,False
+GB_way_28073975,GB_way_28074414,95.0,Astrohouse,SCC,University of Southampton,SCC,False,False
+GB_way_838655599,GB_way_838655601,95.1,,,Ark Data Centres,Ark Data Centres,True,True
+DE_way_86339088,DE_way_145174885,95.1,I.T.E.N.O.S. Frankfurt - B,,,,False,False
+DE_way_176647402,DE_way_607098496,95.2,Interxion FRA8,Interxion FRA12,Interxion,Interxion,True,False
+AT_way_714122239,AT_way_714122240,95.3,B,A,,,False,False
+DE_way_176018511,DE_way_1062506409,95.7,,,,,False,True
+FR_node_6289632564,FR_node_8074063731,95.8,Cogent Paris 2,dc2scale Vélizy,Cogentco,dc2scale,False,False
+CH_way_43916978,CH_way_852039405,96.0,Digital Realty ZUR1,Digital Realty ZUR2,Digital Realty,Digital Realty,True,False
+FR_way_146091115,FR_way_421253671,96.5,,,data4,data4,True,True
+DE_way_580201100,DE_way_1234079003,96.6,,,NTT Global Data Centers,NTT Global Data Centers,True,True
+IE_way_709143741,IE_way_1004745825,96.6,EdgeConneX,EdgeConneX,EdgeConneX,EdgeConneX,True,True
+FR_way_80144821,FR_way_80148463,96.7,OVHcloud Roubaix - RBX6,OVHcloud Roubaix - RBX5,,,False,False
+FR_node_7902413338,FR_node_7902421304,96.8,Salle technique Groupe M6,Salle technique Groupe M6,Groupe M6,Groupe M6,True,True
+DE_node_4231017085,DE_way_700575943,97.0,TelemaxX IPC2,,TelemaxX Telekommunikation GmbH,,False,False
+NL_way_583963691,NL_way_723863903,97.6,AMS07,AMS08,Microsoft,Microsoft,True,False
+GB_way_206625800,GB_way_497956675,97.7,Telehouse North,Telehouse North Two,Telehouse,Telehouse,True,False
+GB_way_838655598,GB_way_838655600,97.8,,,Ark Data Centres,Ark Data Centres,True,True
+NL_way_723863903,NL_way_723863905,97.9,AMS08,AMS09,Microsoft,Microsoft,True,False
+GB_way_34160179,GB_way_206625800,98.7,Telehouse West,Telehouse North,Telehouse,Telehouse,True,False
+GB_way_460244927,GB_way_460244928,98.7,Digital Realty,Digital Realty,Digital Realty,Digital Realty,True,True
+IT_way_1210747121,IT_way_1210747124,98.9,,,,,False,True
+NL_way_583963691,NL_way_583963763,99.7,AMS07,AMS07,Microsoft,Microsoft,True,True
+NL_way_435698610,NL_way_435698611,99.9,AMS06,AMS06,Microsoft,Microsoft,True,True
+DE_way_613862765,DE_way_1040002049,100.0,Interxion FRA14,,Interxion,,False,False
+FR_way_80144821,FR_way_234729371,100.1,OVHcloud Roubaix - RBX6,OVHcloud Roubaix - RBX4,,,False,False
+FR_way_146091136,FR_way_1099624279,100.2,,,data4,,False,True
+GB_way_838655600,GB_way_838655601,100.4,,,Ark Data Centres,Ark Data Centres,True,True
+PT_way_193317921,PT_way_193317940,100.4,NOS Imopolis II,NOS Imopolis I,NOS,NOS,True,False
+FR_way_102453433,FR_way_102465235,100.5,OPCORE DC6-6,OPCORE DC6-3,,,False,False
+FR_way_79145624,FR_way_1141021688,100.7,Colt Paris 3,Colt Paris 3,Colt,Colt,True,True
+IT_node_10206899831,IT_node_10206899878,100.9,ECMWF - Centro Meteo Europeo,Supercalcolatore Leonardo - Rete EuroHPC,ECMWF,Cineca,False,False
+DE_way_145174885,DE_way_145174932,100.9,,,,,False,True
+DE_way_88875243,DE_way_88875337,101.4,,,,NTT Global Data Centers,False,True
+FR_node_6016440346,FR_way_700652111,101.5,TelecityGroup Paris Courbevoie,Le Prologue,,SFR,False,False
+NL_way_452352449,NL_way_956325143,102.1,,Google Datacenter Eemshaven,,Google,False,False
+FR_way_72995274,FR_way_72996473,102.2,Orange - Aubervilliers,Datacenter Completel,Orange,Completel,False,False
+NL_way_282381349,NL_way_1220520621,102.8,Equinix AM7,Equinix AM7,Equinix,Equinix,True,True
+CH_way_43916956,CH_way_43916978,103.3,GLB2,Digital Realty ZUR1,green.ch,Digital Realty,False,False
+FI_way_459879213,FI_way_610260932,103.5,Hetzner data center - HEL1,,Hetzner Finland Oy,,False,False
+FR_way_320306630,FR_way_1099624281,103.6,,,data4,data4,True,True
+DE_way_48013156,DE_way_1040002048,104.0,,,,,False,True
+GB_way_699790674,GB_way_1305758728,104.1,Kao Data KLON-01,Kao Data KLON-02,Kao Data,Kao Data,True,False
+DE_way_326082814,DE_way_607098498,104.3,Interxion FRA10,Interxion FRA13,Interxion,Interxion,True,False
+DE_way_48013156,DE_way_1040002049,104.5,,,,,False,True
+DE_way_403874334,DE_way_1040002048,104.6,Interxion FRA11,,Interxion,,False,False
+DE_way_822085523,DE_way_1040002049,104.6,Interxion FRA16,,Interxion,,False,False
+DE_way_48017518,DE_way_176647402,104.9,Interxion FRA3,Interxion FRA8,Interxion,Interxion,True,False
+FR_way_1099624279,FR_way_1342264087,104.9,,,,,False,True
+FR_way_42016630,FR_way_320306631,105.0,Data4 Campus Paris Saclay,Data4 Marcoussis,Data4,,False,False
+DE_way_176018513,DE_way_606528332,105.0,,Hetzner – Rechenzentrumspark Falkenstein,,Hetzner Online GmbH,False,False
+FR_node_8297362166,FR_node_8297551605,105.1,Datacenter RTE,Datacenter EDF,RTE,EDF,False,False
+GB_way_45131691,GB_way_706624302,105.1,,,,,False,True
+FI_way_610260932,FI_way_1238398882,106.6,,,,,False,True
+FR_way_146091115,FR_way_1122298171,106.7,,,data4,data4,True,True
+FR_way_1084581417,FR_way_1180419924,106.8,PAR9,,Interxion,,False,False
+FI_way_610260933,FI_way_1077698708,106.9,,,,,False,True
+FR_node_8074063731,FR_relation_5888279,107.0,dc2scale Vélizy,SFR,dc2scale,SFR,False,False
+DE_way_48017518,DE_way_326082813,107.4,Interxion FRA3,Interxion FRA7,Interxion,Interxion,True,False
+FR_way_42742505,FR_way_463443856,107.8,Equinix PA3,Equinix PA2,Equinix,Equinix,True,False
+FR_way_159863825,FR_way_1117375128,108.1,Digital Realty MRS3,Digital Realty MRS4,Digital Realty,Digital Realty,True,False
+NL_way_452352449,NL_way_452352450,108.3,,,,,False,True
+NL_way_57853387,NL_way_282381349,108.4,Equinix AM11,Equinix AM7,Equinix,Equinix,True,False
+FR_way_76296417,FR_way_76329433,108.4,Cogent Toulouse,Fullsave Toulouse,Cogent,,False,False
+FR_way_42742505,FR_way_1121454055,108.5,Equinix PA3,Equinix PA9X,Equinix,Equinix,True,False
+FR_way_73005728,FR_way_724757970,108.8,Interxion PAR2 - Bâtiment 501,,Interxion,GTT,False,False
+DE_way_48013156,DE_way_607098496,109.0,,Interxion FRA12,,Interxion,False,False
+FR_way_1030533210,FR_way_1180419925,109.0,PAR8,,Interxion,,False,False
+FR_way_421253670,FR_way_1099624280,109.2,CNRS,,,,False,False
+DE_way_169017126,DE_way_326082814,109.2,Interxion FRA9,Interxion FRA10,Interxion,Interxion,True,False
+FR_way_1099624277,FR_way_1099624278,109.2,,,,,False,True
+GB_way_81633882,GB_way_459600800,109.3,Logicalis Slough,Virtus London 10,,Virtus,False,False
+DE_way_1062506404,DE_way_1316627599,109.9,,,,,False,True
+DE_way_48013134,DE_way_48013154,109.9,Interxion FRA4,Interxion FRA6,Interxion,,False,False
+DE_way_1062433550,DE_relation_13018876,110.0,,NTT Global Datacenters Frankfurt 4,,NTT,False,False
+DE_way_48013155,DE_way_169017126,110.7,Interxion FRA2,Interxion FRA9,Interxion,Interxion,True,False
+IE_way_438036943,IE_way_438036944,110.9,Microsoft DUB03 / DUB04,Microsoft DUB05,Microsoft,Microsoft,True,False
+FR_way_146091115,FR_way_320306630,111.0,,,data4,data4,True,True
+DE_way_48013154,DE_way_169017126,111.4,Interxion FRA6,Interxion FRA9,,Interxion,False,False
+IT_way_1210747121,IT_way_1210747125,111.4,,,,,False,True
+DE_node_4019998661,DE_way_499619544,111.9,Informationstechnikzentrum Bund (ITZBund),Digital Realty FRA30,,Digital Realty,False,False
+DE_way_176018515,DE_way_176018516,112.4,,,,,False,True
+DE_way_176018511,DE_way_377998104,112.5,,,,,False,True
+FR_way_320306631,FR_way_1099624280,112.5,Data4 Marcoussis,,,,False,False
+FR_way_42742505,FR_way_1121454054,112.6,Equinix PA3,Equinix PA10,Equinix,Equinix,True,False
+GB_way_838655597,GB_way_838655599,112.8,,,Ark Data Centres,Ark Data Centres,True,True
+FR_way_159862898,FR_way_1117375128,112.8,Digital Realty MRS2,Digital Realty MRS4,Digital Realty,Digital Realty,True,False
+GB_way_838655598,GB_way_838655601,112.8,,,Ark Data Centres,Ark Data Centres,True,True
+DE_way_48013155,DE_way_48017518,113.1,Interxion FRA2,Interxion FRA3,Interxion,Interxion,True,False
+FR_way_1099624279,FR_way_1099624283,113.1,,,,,False,True
+GB_way_838655597,GB_way_838655598,113.2,,,Ark Data Centres,Ark Data Centres,True,True
+DE_way_377998104,DE_way_1316627597,113.3,,,,,False,True
+FR_way_38354559,FR_way_80144821,113.4,OVHcloud Roubaix - RBX1,OVHcloud Roubaix - RBX6,,,False,False
+DE_way_115774245,DE_way_295385404,113.4,,RZ,,,False,False
+GB_way_225909384,GB_way_705064992,113.5,Telefonica Data Centre,Equinix LD12,Telefonica,Equinix,False,False
+NL_way_893800401,NL_way_906834712,113.5,Interxion AMS1 - AMS4,Gyro Center,Interxion,Gyro Center,False,False
+DE_way_1094348761,DE_way_1094348767,113.6,,,,,False,True
+DE_way_48013156,DE_way_169017126,113.7,,Interxion FRA9,,Interxion,False,False
+DE_way_887871067,DE_way_967735675,113.8,Digital Realty FRA31,Digital Realty FRA29,Digital Realty,Digital Realty,True,False
+FR_node_6016440346,FR_relation_1227851,114.0,TelecityGroup Paris Courbevoie,Equinix PA7,,Equinix,False,False
+IE_way_37682585,IE_way_825144681,114.0,Amazon Web Services,Amazon Web Services,Amazon Web Services,Amazon Web Services,True,True
+DE_way_326823358,DE_way_822085523,114.4,Interxion FRA5,Interxion FRA16,Interxion,Interxion,True,False
+FR_way_146091133,FR_way_146091140,114.7,,,data4,data4,True,True
+DE_way_168961561,DE_way_1040002049,114.7,DigitalRealty FRA1,,Interxion,,False,False
+DE_way_176018513,DE_way_1062506404,115.3,,,,,False,True
+DE_way_176018515,DE_way_1062506403,115.5,,,,,False,True
+DE_way_380134092,DE_way_619486957,115.7,Equinix FR2,Equinix FR2.6,Equinix,Equinix,True,False
+DE_way_84268716,DE_way_176018513,115.8,,,,,False,True
+IE_way_68337136,IE_way_697659634,116.0,Amazon Web Services,Amazon Web Services,Amazon Web Services,Amazon Web Services,True,True
+FR_way_146091133,FR_way_421253671,116.2,,,data4,data4,True,True
+DE_way_48013155,DE_way_326082813,116.5,Interxion FRA2,Interxion FRA7,Interxion,Interxion,True,False
+GB_way_712277376,GB_way_735444062,116.9,Equinix LD6,Equinix LD7,Equinix,Equinix,True,False
+DE_way_48013154,DE_way_48013156,117.0,Interxion FRA6,,,,False,False
+FR_way_146091136,FR_way_1099624277,117.2,,,data4,,False,True
+IE_way_28352291,IE_way_460117003,117.4,Amazon Web Services,Amazon Web Services,Amazon Web Services,Amazon Web Services,True,True
+DE_way_88875243,DE_way_580201100,118.2,,,,NTT Global Data Centers,False,True
+DE_way_48013154,DE_way_326823358,118.4,Interxion FRA6,Interxion FRA5,,Interxion,False,False
+IE_way_709123322,IE_way_743741623,118.5,Microsoft DUB09,Microsoft DUB10,Microsoft,Microsoft,True,False
+GB_way_225909390,GB_way_705064992,118.7,Equinix LD4,Equinix LD12,Equinix,Equinix,True,False
+GB_way_705085805,GB_way_705085806,118.8,Virtus London6,Virtus London5,Virtus,Virtus,True,False
+DE_way_759986149,DE_way_1062433549,118.9,,,,,False,True
+DE_way_176647402,DE_way_403874334,119.6,Interxion FRA8,Interxion FRA11,Interxion,Interxion,True,False
+FR_way_134884282,FR_way_843508896,119.8,CNAF Sophia-Antipolis,Euclyde DC3,CNAF,Euclyde,False,False
+DE_way_1062506407,DE_way_1062506409,120.0,,,,,False,True
+DE_way_28994179,DE_way_620369478,120.3,Equinix FR4,Equinix FR6,Equinix,Equinix,True,False
+IE_way_538906747,IE_way_709103324,120.6,Microsoft DUB07,Microsoft DUB08,Microsoft,Microsoft,True,False
+FR_way_146091140,FR_way_1122298171,120.6,,,data4,data4,True,True
+DE_way_499619543,DE_way_887871068,120.7,CyrusOne FRA2,Digital Realty FRA32,CyrusOne,Digital Realty,False,False
+DE_way_48017518,DE_way_1040002048,121.0,Interxion FRA3,,Interxion,,False,False
+DE_way_613862765,DE_way_1040002048,121.0,Interxion FRA14,,Interxion,,False,False
+CH_way_852039405,CH_way_1084042553,121.3,Digital Realty ZUR2,Digital Realty ZUR3,Digital Realty,Digital Realty,True,False
+DE_way_606528332,DE_way_1316627599,121.4,Hetzner – Rechenzentrumspark Falkenstein,,Hetzner Online GmbH,,False,False
+IE_way_743741624,IE_way_1003210055,121.7,Microsoft DUB12,Microsoft DUB13,Microsoft,Microsoft,True,False
+DE_way_48013155,DE_way_1040002049,122.0,Interxion FRA2,,Interxion,,False,False
+DE_way_499619544,DE_way_887871068,122.3,Digital Realty FRA30,Digital Realty FRA32,Digital Realty,Digital Realty,True,False
+DE_way_168961561,DE_way_326823358,122.6,DigitalRealty FRA1,Interxion FRA5,Interxion,Interxion,True,False
+GB_way_225909388,GB_way_225909390,122.6,Equinix LD11x,Equinix LD4,Equinix,Equinix,True,False
+IE_way_37596453,IE_way_697470448,122.6,Amazon Web Services,Amazon Web Services,Amazon Web Services,Amazon Web Services,True,True
+FR_way_80144821,FR_way_80150630,122.9,OVHcloud Roubaix - RBX6,OVHcloud Roubaix - RBX7,,,False,False
+FR_way_146091140,FR_way_1273311891,123.0,,,data4,data4,True,True
+IE_way_28352285,IE_way_684685208,123.2,,Amazon Web Services,,Amazon Web Services,False,False
+DE_way_168961561,DE_way_613862765,123.2,DigitalRealty FRA1,Interxion FRA14,Interxion,Interxion,True,False
+FR_node_3979838931,FR_way_1288320747,123.3,LyonIX 1 IN2P3,Centre de Calculs et de Données LyonTech-la Doua,,Université Claude Bernard - Lyon 1,False,False
+DE_way_499619544,DE_way_967735675,123.6,Digital Realty FRA30,Digital Realty FRA29,Digital Realty,Digital Realty,True,False
+GB_way_45131691,GB_way_706624303,123.9,,Equinix LD9,,Equinix,False,False
+FR_way_146091136,FR_way_1342264087,124.2,,,data4,,False,True
+DE_way_176018511,DE_way_1062506407,124.7,,,,,False,True
+NL_way_452352451,NL_way_956325143,124.7,,Google Datacenter Eemshaven,,Google,False,False
+DE_way_173170495,DE_way_887871068,124.9,CyrusOne FRA1,Digital Realty FRA32,CyrusOne,Digital Realty,False,False
+FR_node_12097993555,FR_way_1117375128,125.4,Datacenter Martha,Digital Realty MRS4,,Digital Realty,False,False
+GB_way_403124342,GB_way_403124345,125.5,,,,,False,True
+IE_way_68337136,IE_way_1047598884,125.7,Amazon Web Services,Amazon Web Services,Amazon Web Services,Amazon Web Services,True,True
+DE_way_88875268,DE_way_1234079003,125.9,,,,NTT Global Data Centers,False,True
+DE_way_403874334,DE_way_1040002049,126.4,Interxion FRA11,,Interxion,,False,False
+DE_way_176018513,DE_way_1062506409,126.9,,,,,False,True
+DE_way_607098496,DE_way_607098498,126.9,Interxion FRA12,Interxion FRA13,Interxion,Interxion,True,False
+IE_way_1107158568,IE_way_1182712205,128.1,Microsoft DUB14,Microsoft DUB15,Microsoft,Microsoft,True,False
+GB_way_574135468,GB_way_996865179,128.6,Ark Data Centres,,Ark Data Centres,,False,False
+GB_node_8325036723,GB_way_28074414,128.7,Serverhouse,SCC,Serverhouse,SCC,False,False
+DE_way_326082814,DE_way_613862765,128.9,Interxion FRA10,Interxion FRA14,Interxion,Interxion,True,False
+FR_way_102453433,FR_way_102467679,129.3,OPCORE DC6-6,OPCORE DC6-6,,,False,True
+ES_way_734439671,ES_way_734439672,129.4,,,,,False,True
+DE_way_48013156,DE_way_168961561,129.6,,DigitalRealty FRA1,,Interxion,False,False
+FR_way_320306630,FR_way_1342264087,129.9,,,data4,,False,True
+GB_way_705085807,GB_way_838801558,130.3,Virtus London7,Virtus London8,Virtus,Virtus,True,False
+FR_way_1099624278,FR_way_1099624280,130.9,,,,,False,True
+DE_way_42311840,DE_way_145174932,131.4,,,,,False,True
+GB_way_838655597,GB_way_1164817477,131.9,,,Ark Data Centres,,False,True
+NL_way_57853387,NL_way_776593777,131.9,Equinix AM11,,Equinix,,False,False
+GB_way_838655597,GB_way_838655600,132.2,,,Ark Data Centres,Ark Data Centres,True,True
+NL_way_588634808,NL_way_700854459,132.6,d’ROOT,QTS Datacenter,Bytesnet,,False,False
+DE_way_48013154,DE_way_1040002049,132.6,Interxion FRA6,,,,False,False
+DE_way_42311840,DE_way_86339088,132.7,,I.T.E.N.O.S. Frankfurt - B,,,False,False
+DE_node_4019998661,DE_way_887871067,133.2,Informationstechnikzentrum Bund (ITZBund),Digital Realty FRA31,,Digital Realty,False,False
+FR_way_80148463,FR_way_80150630,133.2,OVHcloud Roubaix - RBX5,OVHcloud Roubaix - RBX7,,,False,False
+IE_way_68337136,IE_way_1108073464,133.5,Amazon Web Services,Amazon Web Services,Amazon Web Services,Amazon Web Services,True,True
+SE_way_1152538065,SE_way_1152538066,134.2,Microsoft,Microsoft,Microsoft,Microsoft,True,True
+DE_way_48013134,DE_way_613862765,134.2,Interxion FRA4,Interxion FRA14,Interxion,Interxion,True,False
+GB_way_460010262,GB_way_460010263,134.5,Pulsant Milton Keynes SE-1,,Pulsant,,False,False
+DE_way_48017518,DE_way_326823358,134.5,Interxion FRA3,Interxion FRA5,Interxion,Interxion,True,False
+DE_way_887871068,DE_way_967735675,134.8,Digital Realty FRA32,Digital Realty FRA29,Digital Realty,Digital Realty,True,False
+GB_way_81633700,GB_way_787209399,134.8,Rackspace London Slough (LON3),VIRTUS LONDON9,Rackspace,,False,False
+GB_way_838655600,GB_relation_6796887,135.1,,Datum Farnborough Data Centre,Ark Data Centres,Datum,False,False
+FR_way_320306631,FR_way_1099624278,135.2,Data4 Marcoussis,,,,False,False
+FR_way_320306631,FR_way_1099624279,135.5,Data4 Marcoussis,,,,False,False
+DE_way_169017126,DE_way_822085523,135.5,Interxion FRA9,Interxion FRA16,Interxion,Interxion,True,False
+DE_way_176647402,DE_way_822085523,135.6,Interxion FRA8,Interxion FRA16,Interxion,Interxion,True,False
+FR_way_80144821,FR_way_176779630,135.6,OVHcloud Roubaix - RBX6,OVHcloud Roubaix - RBX3,,,False,False
+FR_way_80469752,FR_way_980368572,135.8,SFR Netcenter Vénissieux,,SFR,,False,False
+FR_node_3979838931,FR_way_1342103498,136.0,LyonIX 1 IN2P3,Centre de Calculs et de Données LyonTech-la Doua,,Université Claude Bernard - Lyon 1,False,False
+DE_way_48013156,DE_way_822085523,136.2,,Interxion FRA16,,Interxion,False,False
+FR_way_80144821,FR_relation_8812014,137.1,OVHcloud Roubaix - RBX6,OVHcloud Roubaix - RBX2,,,False,False
+DE_way_48013155,DE_way_1040002048,137.1,Interxion FRA2,,Interxion,,False,False
+FR_way_149298432,FR_way_149301089,137.4,,,SFR,Bouygues Télécom,False,True
+FR_way_146091133,FR_way_146091136,137.5,,,data4,data4,True,True
+FR_node_3979838931,FR_way_1342103499,137.6,LyonIX 1 IN2P3,Centre de Calculs et de Données LyonTech-la Doua,,Université Claude Bernard - Lyon 1,False,False
+FI_way_459879213,FI_way_610260933,137.9,Hetzner data center - HEL1,,Hetzner Finland Oy,,False,False
+GB_way_225909390,GB_way_712277376,138.0,Equinix LD4,Equinix LD6,Equinix,Equinix,True,False
+GB_way_574135457,GB_way_996865180,139.0,Ark Data Centres,,Ark Data Centres,,False,False
+FR_way_149298432,FR_way_149302427,139.2,,,SFR,Bouygues Télécom,False,True
+DE_way_168961561,DE_way_1040002048,139.4,DigitalRealty FRA1,,Interxion,,False,False
+FR_way_128632388,FR_way_1288320747,139.8,Extension centre de calcul IN2P3,Centre de Calculs et de Données LyonTech-la Doua,IN2P3,Université Claude Bernard - Lyon 1,False,False
+DE_way_28994179,DE_way_1267104292,139.9,Equinix FR4,Equinix FR8.2,Equinix,Equinix,True,False
+DK_way_25629568,DK_relation_2171258,139.9,Digital Realty Copenhagen CPH1,Interxion CPH02,Digital Realty,,False,False
+FR_node_3979838931,FR_way_1342103500,140.1,LyonIX 1 IN2P3,Centre de Calculs et de Données LyonTech-la Doua,,Université Claude Bernard - Lyon 1,False,False
+DE_way_759986149,DE_way_1062433550,140.2,,,,,False,True
+DK_way_1094485846,DK_relation_2171258,140.7,Digital Realty Copenhagen CPH2,Interxion CPH02,Digital Realty,,False,False
+IE_way_68337079,IE_way_1108073465,141.4,Vodafone Data Center,Amazon Web Services,Vodafone,Amazon Web Services,False,False
+DE_way_176018511,DE_way_606528332,142.3,,Hetzner – Rechenzentrumspark Falkenstein,,Hetzner Online GmbH,False,False
+FI_way_610260933,FI_way_1238398882,142.6,,,,,False,True
+SE_way_1225367739,SE_way_1346239617,142.9,Microsoft,Microsoft,Microsoft,Microsoft,True,True
+IE_way_743741623,IE_way_743741624,143.5,Microsoft DUB10,Microsoft DUB12,Microsoft,Microsoft,True,False
+DE_way_607098496,DE_way_613862765,143.9,Interxion FRA12,Interxion FRA14,Interxion,Interxion,True,False
+DE_way_88875247,DE_way_88875270,144.0,,,NTT Global Data Centers,NTT Global Data Centers,True,True
+FR_way_146091140,FR_way_1342264087,144.8,,,data4,,False,True
+FR_way_146091115,FR_way_1342264087,144.9,,,data4,,False,True
+DE_way_176647402,DE_way_326823358,145.1,Interxion FRA8,Interxion FRA5,Interxion,Interxion,True,False
+GB_way_447245005,GB_way_447245008,145.3,NTT Slough,Centurylink London 1,,Centurylink,False,False
+DE_way_759986149,DE_way_967401206,145.3,,,,,False,True
+GB_way_1164817477,GB_relation_6796887,145.4,,Datum Farnborough Data Centre,,Datum,False,False
+FR_way_146091133,FR_way_320306631,145.6,,Data4 Marcoussis,data4,,False,False
+DE_way_326082814,DE_way_326823358,145.8,Interxion FRA10,Interxion FRA5,Interxion,Interxion,True,False
+FR_way_72996440,FR_way_73007043,146.9,Digital Realty Paris PAR5,Equinix PA5,Digital Realty,Equinix,False,False
+DE_way_48017518,DE_way_607098496,147.2,Interxion FRA3,Interxion FRA12,Interxion,Interxion,True,False
+FR_way_146091115,FR_way_146091136,147.2,,,data4,data4,True,True
+DE_way_88875247,DE_way_88875337,147.3,,,NTT Global Data Centers,NTT Global Data Centers,True,True
+GB_way_787209296,GB_way_984002529,147.5,,,,,False,True
+DE_way_168961561,DE_way_176647402,148.7,DigitalRealty FRA1,Interxion FRA8,Interxion,Interxion,True,False
+IT_node_10206899878,IT_way_1115952168,149.0,Supercalcolatore Leonardo - Rete EuroHPC,,Cineca,,False,False
+DE_way_607098498,DE_way_1040002048,149.2,Interxion FRA13,,Interxion,,False,False
+DE_way_48013134,DE_way_169017126,149.8,Interxion FRA4,Interxion FRA9,Interxion,Interxion,True,False
+GB_way_574135457,GB_way_574135468,150.0,Ark Data Centres,Ark Data Centres,Ark Data Centres,Ark Data Centres,True,True
+DE_way_176018516,DE_way_377998104,150.0,,,,,False,True
+DE_way_88875243,DE_way_1234079003,150.3,,,,NTT Global Data Centers,False,True
+GB_way_157178049,GB_way_196783604,150.3,Global Switch London East,Global Switch London North,Global Switch,Global Switch,True,False
+DE_way_377998104,DE_way_1316627599,150.3,,,,,False,True
+FR_way_421253670,FR_way_1099624283,150.6,CNRS,,,,False,False
+DE_way_176018515,DE_way_1316627597,150.8,,,,,False,True
+GB_way_447245008,GB_way_447245009,150.8,Centurylink London 1,Kao Data KLON-06,Centurylink,Kao Data,False,False
+FR_node_6289527565,FR_way_700652111,151.0,Alphalink Telco Center,Le Prologue,,SFR,False,False
+DE_way_48013156,DE_way_48017518,151.3,,Interxion FRA3,,Interxion,False,False
+DE_way_88875362,DE_way_759989363,151.4,,,,Global Switch,False,True
+DE_way_1062433549,DE_way_1062433551,151.9,,Digital Realty FRA33,,Digital Realty,False,False
+FR_way_42016630,FR_way_1099624283,152.0,Data4 Campus Paris Saclay,,Data4,,False,False
+FR_node_3979838931,FR_way_1342103501,152.0,LyonIX 1 IN2P3,Centre de Calculs et de Données LyonTech-la Doua,,Université Claude Bernard - Lyon 1,False,False
+GB_way_735444063,GB_way_1313579347,152.0,China Mobile Slough,VIRTUS London 11,,,False,False
+AT_way_714122240,AT_way_1251362833,152.0,A,C,,,False,False
+DE_way_84268716,DE_way_176018515,152.2,,,,,False,True
+FR_way_421253670,FR_way_1099624277,152.7,CNRS,,,,False,False
+DE_way_176018511,DE_way_1062506404,152.8,,,,,False,True
+DE_way_176018513,DE_way_1062506403,153.0,,,,,False,True
+FR_way_42016630,FR_way_1099624279,153.0,Data4 Campus Paris Saclay,,Data4,,False,False
+DE_way_169017126,DE_way_403874334,153.2,Interxion FRA9,Interxion FRA11,Interxion,Interxion,True,False
+DE_way_1118500773,DE_way_1265942209,153.3,InterXion FRA17,InterXion FRA18,Interxion,Interxion,True,False
+DE_way_48013134,DE_way_48013155,154.0,Interxion FRA4,Interxion FRA2,Interxion,Interxion,True,False
+DE_way_48013154,DE_way_1040002048,154.1,Interxion FRA6,,,,False,False
+DE_way_48013155,DE_way_607098496,154.2,Interxion FRA2,Interxion FRA12,Interxion,Interxion,True,False
+FR_way_128632388,FR_way_1342103498,154.7,Extension centre de calcul IN2P3,Centre de Calculs et de Données LyonTech-la Doua,IN2P3,Université Claude Bernard - Lyon 1,False,False
+DK_way_436766762,DK_way_699063632,154.8,Google Data Center Fredericia,,Google,,False,False
+FR_way_128632388,FR_way_1342103499,154.8,Extension centre de calcul IN2P3,Centre de Calculs et de Données LyonTech-la Doua,IN2P3,Université Claude Bernard - Lyon 1,False,False
+FR_way_150382252,FR_relation_5888279,155.0,DC2SCALE Vélizy Latécoère,SFR,dc2scale,SFR,False,False
+DE_way_967401206,DE_way_1062433550,155.3,,,,,False,True
+FR_way_128632388,FR_way_1342103500,155.6,Extension centre de calcul IN2P3,Centre de Calculs et de Données LyonTech-la Doua,IN2P3,Université Claude Bernard - Lyon 1,False,False
+FR_way_80150630,FR_way_176779630,155.8,OVHcloud Roubaix - RBX7,OVHcloud Roubaix - RBX3,,,False,False
+FR_way_72996473,FR_way_73003053,157.2,Datacenter Completel,Datacenter Atos,Completel,Atos,False,False
+FR_way_146091115,FR_way_1273311891,157.3,,,data4,data4,True,True
+DE_way_48013134,DE_way_749252262,157.3,Interxion FRA4,Interxion FRA15,Interxion,Interxion,True,False
+GB_way_459572486,GB_way_459600800,157.4,VIRTUS Slough London 3 and 4,Virtus London 10,VIRTUS,Virtus,False,False
+FR_node_6016440346,FR_node_6289527565,157.4,TelecityGroup Paris Courbevoie,Alphalink Telco Center,,,False,False
+GB_way_838655597,GB_relation_6796887,157.7,,Datum Farnborough Data Centre,Ark Data Centres,Datum,False,False
+DE_way_88875270,DE_way_88875362,157.8,,,NTT Global Data Centers,,False,True
+DE_way_48013154,DE_way_613862765,158.0,Interxion FRA6,Interxion FRA14,,Interxion,False,False
+DE_way_169017126,DE_way_326082813,158.5,Interxion FRA9,Interxion FRA7,Interxion,Interxion,True,False
+FR_way_1099624278,FR_way_1342264087,158.9,,,,,False,True
+GB_way_34160179,GB_way_497956675,158.9,Telehouse West,Telehouse North Two,Telehouse,Telehouse,True,False
+DE_way_380134092,DE_way_749551415,159.4,Equinix FR2,Equinix FR9,Equinix,Equinix,True,False
+DE_way_28994179,DE_way_98916098,159.4,Equinix FR4,Equinix FR8.1,Equinix,Equinix,True,False
+DE_way_176018513,DE_way_1062506407,159.5,,,,,False,True
+GB_node_12292494768,GB_way_37943653,159.5,,Pulsant Edinburgh South Gyle SC-1,Lloyds Banking Group,Pulsant,False,False
+NL_way_452352449,NL_way_452352451,159.7,,,,,False,True
+GB_way_157178049,GB_way_206625800,160.4,Global Switch London East,Telehouse North,Global Switch,Telehouse,False,False
+DE_way_176018515,DE_way_1062506409,160.6,,,,,False,True
+IE_way_709143741,IE_relation_16056450,160.9,EdgeConneX,Edgeconnex Dublin,EdgeConneX,EdgeConneX,True,False
+DE_way_326082813,DE_way_749252262,161.2,Interxion FRA7,Interxion FRA15,Interxion,Interxion,True,False
+GB_way_574135457,GB_way_996865179,161.5,Ark Data Centres,,Ark Data Centres,,False,False
+FR_way_146091133,FR_way_421253670,162.2,,CNRS,data4,,False,False
+GB_way_447245005,GB_way_447245009,162.4,NTT Slough,Kao Data KLON-06,,Kao Data,False,False
+NL_node_2745067310,NL_way_269242083,162.5,Digital Realty (AMS6),EdgeConnex Amsterdam,Digital Realty,EdgeConneX,False,False
+FR_way_146091133,FR_way_1099624279,162.5,,,data4,,False,True
+GB_way_393243674,GB_way_735444062,162.9,Iron Mountain London LON-1,Equinix LD7,Iron Mountain,Equinix,False,False
+FR_node_6289632564,FR_way_150382252,163.0,Cogent Paris 2,DC2SCALE Vélizy Latécoère,Cogentco,dc2scale,False,False
+NL_way_57853387,NL_way_1220520621,163.3,Equinix AM11,Equinix AM7,Equinix,Equinix,True,False
+GB_way_157178049,GB_way_206625804,163.4,Global Switch London East,Telehouse East,Global Switch,Telehouse,False,False
+NL_way_270720089,NL_way_435698611,163.4,AMS05,AMS06,Microsoft,Microsoft,True,False
+DE_way_168961561,DE_way_607098496,163.8,DigitalRealty FRA1,Interxion FRA12,Interxion,Interxion,True,False
+DE_way_48017518,DE_way_326082814,163.8,Interxion FRA3,Interxion FRA10,Interxion,Interxion,True,False
+DE_way_168961578,DE_way_822085523,164.1,,Interxion FRA16,,Interxion,False,False
+NL_way_270720089,NL_way_957632962,164.2,AMS05,AMS12,Microsoft,Microsoft,True,False
+FR_way_72996473,FR_way_73005029,164.6,Datacenter Completel,Datacenter Atos,Completel,Atos,False,False
+DE_node_4019998661,DE_way_981463618,165.4,Informationstechnikzentrum Bund (ITZBund),Colt FRA74,,Colt,False,False
+IE_way_1047598884,IE_way_1108073464,165.5,Amazon Web Services,Amazon Web Services,Amazon Web Services,Amazon Web Services,True,True
+DE_way_88875337,DE_way_580201100,165.6,,,NTT Global Data Centers,NTT Global Data Centers,True,True
+DE_way_168961578,DE_way_607098498,165.8,,Interxion FRA13,,Interxion,False,False
+FR_way_421253671,FR_way_1122298171,166.0,,,data4,data4,True,True
+NL_way_270720089,NL_way_957632961,167.0,AMS05,AMS11,Microsoft,Microsoft,True,False
+DE_way_88875243,DE_way_88875303,167.1,,,,NTT Global Data Centers,False,True
+IE_way_37596447,IE_way_37596453,167.2,Amazon Web Services,Amazon Web Services,Amazon Web Services,Amazon Web Services,True,True
+NL_way_452352449,NL_way_881474215,167.6,,,,,False,True
+CH_way_43916956,CH_way_852039405,167.7,GLB2,Digital Realty ZUR2,green.ch,Digital Realty,False,False
+DE_way_326823358,DE_way_403874334,167.8,Interxion FRA5,Interxion FRA11,Interxion,Interxion,True,False
+FR_way_72995274,FR_way_73005029,167.9,Orange - Aubervilliers,Datacenter Atos,Orange,Atos,False,False
+NL_way_881474214,NL_way_881474215,168.0,,,,,False,True
+GB_way_981640451,GB_way_981640535,168.0,Evolution @ Agecroft Commerce Park,Evolution @ Agecroft Commerce Park,,,False,True
+DE_way_326823358,DE_way_613862765,169.0,Interxion FRA5,Interxion FRA14,Interxion,Interxion,True,False
+DE_way_1053522066,DE_way_1251320340,169.1,,,,,False,True
+GB_way_460244923,GB_way_460244927,169.3,CGG,Digital Realty,,Digital Realty,False,False
+DE_way_88875243,DE_way_88875270,169.4,,,,NTT Global Data Centers,False,True
+GB_way_458775806,GB_way_458775807,169.4,TAT14 Cable Landing Station,,BT,Vodafone,False,False
+FR_way_128632388,FR_way_1342103501,169.6,Extension centre de calcul IN2P3,Centre de Calculs et de Données LyonTech-la Doua,IN2P3,Université Claude Bernard - Lyon 1,False,False
+GB_way_838655599,GB_relation_6796887,170.0,,Datum Farnborough Data Centre,Ark Data Centres,Datum,False,False
+GB_way_81633882,GB_way_705065014,170.1,Logicalis Slough,Virtus London 3,,Virtus,False,False
+GB_node_12292494768,GB_relation_18217492,170.2,,Pulsant Edinburgh SC-1,Lloyds Banking Group,,False,False
+NO_way_1164840308,NO_way_1164840309,171.0,,,,,False,True
+GB_way_459613192,GB_way_706624302,171.3,,,,,False,True
+FR_way_1099624277,FR_way_1342264087,171.4,,,,,False,True
+FR_way_146091140,FR_way_1099624279,171.8,,,data4,,False,True
+IE_way_47923380,IE_way_1186696253,172.0,Amazon Web Services DUB10/50/51,Digital Realty DUB11,Amazon Web Services,Digital Realty,False,False
+GB_way_574135468,GB_way_574135471,172.1,Ark Data Centres,Ark Data Centres,Ark Data Centres,Ark Data Centres,True,True
+FR_way_38354559,FR_relation_8812014,172.3,OVHcloud Roubaix - RBX1,OVHcloud Roubaix - RBX2,,,False,False
+NL_way_881474214,NL_way_956325143,173.0,,Google Datacenter Eemshaven,,Google,False,False
+DE_way_48013156,DE_way_176647402,173.2,,Interxion FRA8,,Interxion,False,False
+DE_way_326082813,DE_way_613862765,173.2,Interxion FRA7,Interxion FRA14,Interxion,Interxion,True,False
+DE_way_176647402,DE_way_607098498,173.4,Interxion FRA8,Interxion FRA13,Interxion,Interxion,True,False
+FR_way_102453250,FR_way_102467679,173.7,OPCORE DC6-5,OPCORE DC6-6,,,False,False
+DE_way_607098498,DE_way_1040002049,173.8,Interxion FRA13,,Interxion,,False,False
+NL_way_1309108236,NL_way_1309108238,173.8,DELTA Fiber,DELTA Fiber,,,False,True
+DE_way_88875303,DE_way_580201100,173.9,,,NTT Global Data Centers,NTT Global Data Centers,True,True
+FR_way_42016630,FR_way_1342264087,174.2,Data4 Campus Paris Saclay,,Data4,,False,False
+FR_way_146091140,FR_way_421253671,174.4,,,data4,data4,True,True
+DE_way_48013156,DE_way_326082814,174.4,,Interxion FRA10,,Interxion,False,False
+FR_way_146091136,FR_way_421253670,174.5,,CNRS,data4,,False,False
+FR_way_146091140,FR_way_320306630,174.5,,,data4,data4,True,True
+DE_node_4019998661,DE_way_887871068,174.7,Informationstechnikzentrum Bund (ITZBund),Digital Realty FRA32,,Digital Realty,False,False
+FR_way_38354559,FR_way_234729371,175.0,OVHcloud Roubaix - RBX1,OVHcloud Roubaix - RBX4,,,False,False
+GB_way_45131691,GB_way_459613192,175.2,,,,,False,True
+DE_way_48013154,DE_way_607098496,175.8,Interxion FRA6,Interxion FRA12,,Interxion,False,False
+DE_way_48013155,DE_way_613862765,175.9,Interxion FRA2,Interxion FRA14,Interxion,Interxion,True,False
+FI_way_323686447,FI_way_748868810,176.5,,,Google Inc.,Google Inc.,True,True
+IT_way_524879451,IT_way_1024899085,176.6,,,SUPERNAP Italia,SUPERNAP Italia,True,True
+DE_way_88875247,DE_way_580201100,176.8,,,NTT Global Data Centers,NTT Global Data Centers,True,True
+FR_way_320306630,FR_way_320306631,177.2,,Data4 Marcoussis,data4,,False,False
+DE_way_48013154,DE_way_176647402,177.4,Interxion FRA6,Interxion FRA8,,Interxion,False,False
+DE_way_88875243,DE_way_88875268,177.6,,,,,False,True
+GB_way_81633700,GB_way_81633882,178.0,Rackspace London Slough (LON3),Logicalis Slough,Rackspace,,False,False
+FR_way_146091133,FR_way_1099624281,178.4,,,data4,data4,True,True
+NL_way_881474215,NL_way_881474216,178.4,,,,,False,True
+FR_way_70206291,FR_way_849203405,179.3,Datacenter Bouygues Télécom,Bâtiment Data Center,Bouygues Télécom,MBDA France,False,False
+DE_way_403874334,DE_way_613862765,179.4,Interxion FRA11,Interxion FRA14,Interxion,Interxion,True,False
+DE_way_176018516,DE_way_606528332,179.7,,Hetzner – Rechenzentrumspark Falkenstein,,Hetzner Online GmbH,False,False
+DE_way_48013155,DE_way_176647402,180.3,Interxion FRA2,Interxion FRA8,Interxion,Interxion,True,False
+DE_way_48013134,DE_way_1040002049,180.6,Interxion FRA4,,Interxion,,False,False
+FR_way_126667399,FR_way_875153822,181.1,SM3,Centre de données,Euro Information,,False,False
+GB_way_459572486,GB_way_665572148,181.3,VIRTUS Slough London 3 and 4,CyrusOne London 1,VIRTUS,CyrusOne,False,False
+GB_way_705064992,GB_way_712277376,181.3,Equinix LD12,Equinix LD6,Equinix,Equinix,True,False
+IE_way_518701317,IE_way_1187438482,181.6,Meta Clonee 1 Data Center,Meta Clonee 2 Data Center,Meta,Meta,True,False
+CH_way_43916978,CH_way_1084042553,181.7,Digital Realty ZUR1,Digital Realty ZUR3,Digital Realty,Digital Realty,True,False
+DE_way_499619543,DE_way_887871067,181.8,CyrusOne FRA2,Digital Realty FRA31,CyrusOne,Digital Realty,False,False
+DE_way_1053522066,DE_way_1251320341,182.0,,,,,False,True
+FR_way_421253671,FR_way_1342264087,183.3,,,data4,,False,True
+NO_way_935092287,NO_way_1161764012,183.6,Green Mountain Ytre Enebakk,Green Mountain Ytre Enebakk,,,False,True
+DE_way_88875270,DE_relation_1314773,183.6,,,NTT Global Data Centers,TE Connectivety,False,True
+FR_way_146091136,FR_way_1273311891,183.7,,,data4,data4,True,True
+DE_way_173170495,DE_way_887871067,183.8,CyrusOne FRA1,Digital Realty FRA31,CyrusOne,Digital Realty,False,False
+GB_way_225909384,GB_way_712277376,184.8,Telefonica Data Centre,Equinix LD6,Telefonica,Equinix,False,False
+DE_way_622117974,DE_way_720877720,185.0,,,,,False,True
+DE_way_48013134,DE_way_176647402,185.1,Interxion FRA4,Interxion FRA8,Interxion,Interxion,True,False
+FR_way_80148463,FR_way_234729371,185.4,OVHcloud Roubaix - RBX5,OVHcloud Roubaix - RBX4,,,False,False
+FR_way_149298432,FR_way_650560924,185.8,,Bouygues Telecom,SFR,,False,False
+DE_way_326082813,DE_way_1040002049,186.3,Interxion FRA7,,Interxion,,False,False
+FR_way_146091136,FR_way_1099624278,186.7,,,data4,,False,True
+FR_way_146091115,FR_way_1099624281,186.8,,,data4,data4,True,True
+CH_way_43916956,CH_way_1084042553,187.1,GLB2,Digital Realty ZUR3,green.ch,Digital Realty,False,False
+FR_way_38354559,FR_way_80150630,187.1,OVHcloud Roubaix - RBX1,OVHcloud Roubaix - RBX7,,,False,False
+FR_way_72995274,FR_way_73003053,187.2,Orange - Aubervilliers,Datacenter Atos,Orange,Atos,False,False
+FR_node_7902398865,FR_node_7902546622,187.7,Salle technique Eurosport,Salle technique Groupe CANAL,Eurosport,Groupe CANAL,False,False
+DE_way_176018515,DE_way_1316627599,187.8,,,,,False,True
+NL_way_456832369,NL_way_973134619,187.9,Digital Realty (AMS8),Digital Realty (AMS10),Digital Realty,Digital Realty,True,False
+NL_way_452352450,NL_way_956325143,188.1,,Google Datacenter Eemshaven,,Google,False,False
+DE_way_1062433551,DE_relation_13018876,188.2,Digital Realty FRA33,NTT Global Datacenters Frankfurt 4,Digital Realty,NTT,False,False
+DE_way_176018513,DE_way_1316627597,188.3,,,,,False,True
+DE_way_326082813,DE_way_326823358,188.4,Interxion FRA7,Interxion FRA5,Interxion,Interxion,True,False
+DE_way_48013156,DE_way_326082813,188.9,,Interxion FRA7,,Interxion,False,False
+FR_way_146091133,FR_way_1122298171,189.0,,,data4,data4,True,True
+DE_way_84268716,DE_way_377998104,189.0,,,,,False,True
+IE_way_819286957,IE_way_1187438483,189.8,Meta Clonee 5 Data Center,Meta Clonee 6 Data Center,Meta,Meta,True,False
+DE_way_613862765,DE_way_822085523,190.2,Interxion FRA14,Interxion FRA16,Interxion,Interxion,True,False
+DE_way_176018516,DE_way_1062506404,190.3,,,,,False,True
+DE_way_176018511,DE_way_1062506403,190.5,,,,,False,True
+FR_way_1099624279,FR_way_1099624280,191.2,,,,,False,True
+FR_node_6289632564,FR_relation_5888279,191.6,Cogent Paris 2,SFR,Cogentco,SFR,False,False
+GB_way_665572148,GB_way_705065014,191.6,CyrusOne London 1,Virtus London 3,CyrusOne,Virtus,False,False
+DE_way_48013156,DE_way_613862765,193.4,,Interxion FRA14,,Interxion,False,False
+DE_way_48013156,DE_way_403874334,193.8,,Interxion FRA11,,Interxion,False,False
+IE_way_28352291,IE_way_684685208,194.1,Amazon Web Services,Amazon Web Services,Amazon Web Services,Amazon Web Services,True,True
+FR_way_1099624280,FR_way_1342264087,194.4,,,,,False,True
+FR_way_1099624280,FR_way_1099624283,194.4,,,,,False,True
+FR_way_42016630,FR_way_1099624277,194.5,Data4 Campus Paris Saclay,,Data4,,False,False
+FR_way_75757106,FR_way_75758209,195.2,Zayo Montpellier,,Zayo,SFR,False,False
+DE_way_48013155,DE_way_822085523,195.3,Interxion FRA2,Interxion FRA16,Interxion,Interxion,True,False
+DE_way_176018515,DE_way_1062506407,195.4,,,,,False,True
+NL_way_583963691,NL_way_723863905,195.5,AMS07,AMS09,Microsoft,Microsoft,True,False
+DK_way_25629568,DK_way_941798564,195.8,Digital Realty Copenhagen CPH1,Interxion CPH03,Digital Realty,,False,False
+FR_way_70207931,FR_way_849203405,195.9,Datacenter Bouygues Télécom,Bâtiment Data Center,Bouygues Télécom,MBDA France,False,False
+DE_way_377998104,DE_way_1062506409,195.9,,,,,False,True
+NL_way_452352451,NL_way_881474214,196.2,,,,,False,True
+DE_way_759986149,DE_way_1062433551,196.2,,Digital Realty FRA33,,Digital Realty,False,False
+DE_way_88875303,DE_relation_1314773,196.5,,,NTT Global Data Centers,TE Connectivety,False,True
+FR_way_146091136,FR_way_1099624283,197.1,,,data4,,False,True
+IE_way_28352285,IE_way_460117003,197.3,,Amazon Web Services,,Amazon Web Services,False,False
+NL_way_583963763,NL_way_723863903,197.3,AMS07,AMS08,Microsoft,Microsoft,True,False
+DE_way_168961561,DE_way_326082814,197.5,DigitalRealty FRA1,Interxion FRA10,Interxion,Interxion,True,False
+GB_node_12292494768,GB_way_37943663,197.7,,Pulsant Edinburgh South Gyle SC-1,Lloyds Banking Group,Pulsant,False,False
+FR_way_463443856,FR_way_1121454054,197.8,Equinix PA2,Equinix PA10,Equinix,Equinix,True,False
+IE_way_23610623,IE_way_713340741,197.9,,,,,False,True
+DE_way_48017518,DE_way_822085523,198.6,Interxion FRA3,Interxion FRA16,Interxion,Interxion,True,False
+GB_way_447245005,GB_way_447320367,198.7,NTT Slough,Centurylink London 5,,Centurylink,False,False
+FR_way_146091140,FR_way_1099624277,199.1,,,data4,,False,True
+FR_way_146091136,FR_way_320306631,199.7,,Data4 Marcoussis,data4,,False,False
+GB_way_705085805,GB_way_705085807,200.2,Virtus London6,Virtus London7,Virtus,Virtus,True,False
+PT_way_1205572870,PT_way_1205573357,200.8,,,,,False,True
+DE_way_326823358,DE_way_607098498,200.8,Interxion FRA5,Interxion FRA13,Interxion,Interxion,True,False
+FR_way_80148463,FR_relation_8812014,200.8,OVHcloud Roubaix - RBX5,OVHcloud Roubaix - RBX2,,,False,False
+PT_way_1205572869,PT_way_1205573357,201.0,,,,,False,True
+GB_way_44610344,GB_way_254132701,201.1,Morgan Stanley Data Centre,Redcentric London West Data Centre,Morgan Stanley,Redcentric,False,False
+FR_way_146091136,FR_way_1122298171,201.1,,,data4,data4,True,True
+DE_way_208484274,DE_way_720877720,201.4,,,,,False,True
+DE_way_168961578,DE_way_403874334,201.4,,Interxion FRA11,,Interxion,False,False
+IE_way_68337058,IE_way_1108073465,201.5,Verizon Data Center,Amazon Web Services,Verizon,Amazon Web Services,False,False
+FR_way_320306631,FR_way_1099624277,201.5,Data4 Marcoussis,,,,False,False
+GB_way_705085806,GB_way_838801558,202.6,Virtus London5,Virtus London8,Virtus,Virtus,True,False
+DE_way_169017126,DE_way_607098498,202.6,Interxion FRA9,Interxion FRA13,Interxion,Interxion,True,False
+GB_way_81633700,GB_way_459600800,202.8,Rackspace London Slough (LON3),Virtus London 10,Rackspace,Virtus,False,False
+GB_way_665572144,GB_way_705065014,202.9,,Virtus London 3,,Virtus,False,False
+DE_way_88875268,DE_way_580201100,203.1,,,,NTT Global Data Centers,False,True
+FR_way_320306631,FR_way_1099624283,203.9,Data4 Marcoussis,,,,False,False
+DE_way_88875303,DE_way_88875362,204.3,,,NTT Global Data Centers,,False,True
+GB_way_225909384,GB_way_225909390,204.3,Telefonica Data Centre,Equinix LD4,Telefonica,Equinix,False,False
+IE_way_68337058,IE_way_697659634,206.4,Verizon Data Center,Amazon Web Services,Verizon,Amazon Web Services,False,False
+BE_node_12214044389,BE_way_30450893,206.4,Digital realty Brussels BRU4,COLT,Digital Realty,,False,False
+GB_way_225909384,GB_way_225909388,206.7,Telefonica Data Centre,Equinix LD11x,Telefonica,Equinix,False,False
+DE_way_48013134,DE_way_326823358,207.4,Interxion FRA4,Interxion FRA5,Interxion,Interxion,True,False
+DE_way_620369478,DE_way_1267104292,207.5,Equinix FR6,Equinix FR8.2,Equinix,Equinix,True,False
+DE_way_48013134,DE_way_1040002048,207.6,Interxion FRA4,,Interxion,,False,False
+GB_way_838655597,GB_way_838655601,207.7,,,Ark Data Centres,Ark Data Centres,True,True
+NL_way_452352450,NL_way_881474216,207.8,,,,,False,True
+DE_way_48013155,DE_way_326082814,207.9,Interxion FRA2,Interxion FRA10,Interxion,Interxion,True,False
+IE_way_926894444,IE_way_1112223803,208.0,Amazon Web Services,Amazon Web Services,Amazon Web Services,Amazon Web Services,True,True
+DE_way_88875247,DE_relation_1314773,208.3,,,NTT Global Data Centers,TE Connectivety,False,True
+IE_way_1112223803,IE_way_1112223804,208.6,Amazon Web Services,Amazon Web Services,Amazon Web Services,Amazon Web Services,True,True
+FR_way_320306630,FR_way_1122298171,208.7,,,data4,data4,True,True
+DE_way_88875243,DE_way_88875247,209.5,,,,NTT Global Data Centers,False,True
+IE_way_868909749,IE_way_1003210053,210.3,CyrusOne DUB1,,CyrusOne,,False,False
+PT_way_1205572867,PT_way_1205573357,210.4,,,,,False,True
+NL_way_452352451,NL_way_881474215,210.6,,,,,False,True
+GB_way_838655598,GB_relation_6796887,210.8,,Datum Farnborough Data Centre,Ark Data Centres,Datum,False,False
+FR_way_1099624283,FR_way_1342264087,210.8,,,,,False,True
+BE_way_453714808,BE_way_825181660,211.1,,,,,False,True
+FR_way_320306630,FR_way_421253670,211.2,,CNRS,data4,,False,False
+DE_way_326082813,DE_way_1040002048,211.3,Interxion FRA7,,Interxion,,False,False
+DE_way_168961578,DE_way_607098496,211.3,,Interxion FRA12,,Interxion,False,False
+NL_way_435698611,NL_way_957632962,211.4,AMS06,AMS12,Microsoft,Microsoft,True,False
+DE_way_48017518,DE_way_403874334,211.5,Interxion FRA3,Interxion FRA11,Interxion,Interxion,True,False
+NL_way_452352450,NL_way_881474215,211.9,,,,,False,True
+FR_way_146091136,FR_way_320306630,212.0,,,data4,data4,True,True
+GB_way_702784280,GB_way_705065014,212.0,Equinix LD10,Virtus London 3,Equinix,Virtus,False,False
+DE_way_176647402,DE_way_326082813,212.2,Interxion FRA8,Interxion FRA7,Interxion,Interxion,True,False
+FR_way_80150630,FR_way_234729371,212.9,OVHcloud Roubaix - RBX7,OVHcloud Roubaix - RBX4,,,False,False
+DE_way_86339088,DE_way_387918535,213.1,I.T.E.N.O.S. Frankfurt - B,aixit GmbH,,,False,False
+DE_way_168961561,DE_way_822085523,213.5,DigitalRealty FRA1,Interxion FRA16,Interxion,Interxion,True,False
+FR_way_73005728,FR_way_73007043,213.7,Interxion PAR2 - Bâtiment 501,Equinix PA5,Interxion,Equinix,False,False
+FR_way_146091115,FR_way_1099624279,213.9,,,data4,,False,True
+DE_way_145174932,DE_way_387918535,214.1,,aixit GmbH,,,False,False
+FR_way_463443856,FR_way_1121454055,215.1,Equinix PA2,Equinix PA9X,Equinix,Equinix,True,False
+DE_way_48013134,DE_way_48013156,216.3,Interxion FRA4,,Interxion,,False,False
+NL_way_270720089,NL_way_814210482,218.0,AMS05,Microsoft Datacenter West Europe,Microsoft,Microsoft,True,False
+DE_way_48013154,DE_way_326082814,218.9,Interxion FRA6,Interxion FRA10,,Interxion,False,False
+DE_way_499619543,DE_way_967735675,219.1,CyrusOne FRA2,Digital Realty FRA29,CyrusOne,Digital Realty,False,False
+IE_way_513703429,IE_way_709103324,219.1,Microsoft DUB06,Microsoft DUB08,Microsoft,Microsoft,True,False
+DE_way_759986149,DE_way_1266882484,219.4,,Digital Realty,,Digital Realty,False,False
+GB_way_447245009,GB_way_447320367,219.6,Kao Data KLON-06,Centurylink London 5,Kao Data,Centurylink,False,False
+DE_way_84268716,DE_way_606528332,220.0,,Hetzner – Rechenzentrumspark Falkenstein,,Hetzner Online GmbH,False,False
+DE_way_499619544,DE_way_981463618,220.6,Digital Realty FRA30,Colt FRA74,Digital Realty,Colt,False,False
+DE_way_606528332,DE_way_1062506409,221.2,Hetzner – Rechenzentrumspark Falkenstein,,Hetzner Online GmbH,,False,False
+FR_way_146091133,FR_way_1099624277,221.5,,,data4,,False,True
+GB_way_705085806,GB_way_705085807,221.7,Virtus London5,Virtus London7,Virtus,Virtus,True,False
+GB_way_838655600,GB_way_1164817477,221.7,,,Ark Data Centres,,False,True
+BE_node_12214044390,BE_way_30450893,222.2,Digital realty Brussels BRU3,COLT,Digital Realty,,False,False
+FR_way_176779630,FR_way_234729371,222.3,OVHcloud Roubaix - RBX3,OVHcloud Roubaix - RBX4,,,False,False
+DE_way_48013154,DE_way_822085523,222.4,Interxion FRA6,Interxion FRA16,,Interxion,False,False
+IE_way_460117003,IE_way_684685208,222.6,Amazon Web Services,Amazon Web Services,Amazon Web Services,Amazon Web Services,True,True
+IE_way_47923380,IE_way_47924356,223.0,Amazon Web Services DUB10/50/51,Amazon Web Services,Amazon Web Services,Amazon Web Services,True,False
+DE_way_48013156,DE_way_607098498,223.3,,Interxion FRA13,,Interxion,False,False
+IE_way_697659634,IE_way_1047598884,223.5,Amazon Web Services,Amazon Web Services,Amazon Web Services,Amazon Web Services,True,True
+DE_way_88875270,DE_way_580201100,223.6,,,NTT Global Data Centers,NTT Global Data Centers,True,True
+DE_way_88875247,DE_way_759989363,223.7,,,NTT Global Data Centers,Global Switch,False,True
+FR_way_102465235,FR_way_102467679,224.3,OPCORE DC6-3,OPCORE DC6-6,,,False,False
+FR_way_146091140,FR_way_421253670,224.7,,CNRS,data4,,False,False
+DE_way_176018513,DE_way_1316627599,225.3,,,,,False,True
+DE_way_176018511,DE_way_1316627597,225.8,,,,,False,True
+DE_way_88875337,DE_way_88875362,226.0,,,NTT Global Data Centers,,False,True
+GB_way_34160179,GB_way_196783604,226.1,Telehouse West,Global Switch London North,Telehouse,Global Switch,False,False
+GB_way_838655599,GB_way_1164817477,226.4,,,Ark Data Centres,,False,True
+DE_way_967735675,DE_way_981463618,226.6,Digital Realty FRA29,Colt FRA74,Digital Realty,Colt,False,False
+DE_way_1062433551,DE_way_1266882484,226.9,Digital Realty FRA33,Digital Realty,Digital Realty,Digital Realty,True,False
+FR_way_146091133,FR_way_1099624278,227.1,,,data4,,False,True
+FR_way_146091115,FR_way_320306631,227.6,,Data4 Marcoussis,data4,,False,False
+FR_way_146091133,FR_way_1273311891,227.7,,,data4,data4,True,True
+DE_way_176018516,DE_way_1062506403,227.9,,,,,False,True
+IT_node_10206899831,IT_way_1115952168,228.3,ECMWF - Centro Meteo Europeo,,ECMWF,,False,False
+DE_way_168961561,DE_way_749252262,228.4,DigitalRealty FRA1,Interxion FRA15,Interxion,Interxion,True,False
+DE_way_84268716,DE_way_1062506404,228.9,,,,,False,True
+DK_way_941798564,DK_relation_2171258,230.2,Interxion CPH03,Interxion CPH02,,,False,False
+IE_way_68337079,IE_way_697659634,230.2,Vodafone Data Center,Amazon Web Services,Vodafone,Amazon Web Services,False,False
+FR_way_73007043,FR_way_724757970,231.1,Equinix PA5,,Equinix,GTT,False,False
+DE_way_88875303,DE_way_759989363,231.5,,,NTT Global Data Centers,Global Switch,False,True
+DE_way_377998104,DE_way_1062506407,231.7,,,,,False,True
+GB_way_459572486,GB_way_665572144,231.7,VIRTUS Slough London 3 and 4,,VIRTUS,,False,False
+FR_way_1099624281,FR_way_1342264087,231.8,,,data4,,False,True
+FR_way_176779630,FR_relation_8812014,232.6,OVHcloud Roubaix - RBX3,OVHcloud Roubaix - RBX2,,,False,False
+FR_way_146091140,FR_way_320306631,232.6,,Data4 Marcoussis,data4,,False,False
+FR_way_320306630,FR_way_1099624279,232.6,,,data4,,False,True
+GB_way_838655601,GB_relation_6796887,232.7,,Datum Farnborough Data Centre,Ark Data Centres,Datum,False,False
+DE_way_48013154,DE_way_749252262,233.0,Interxion FRA6,Interxion FRA15,,Interxion,False,False
+DE_way_607098498,DE_way_613862765,233.2,Interxion FRA13,Interxion FRA14,Interxion,Interxion,True,False
+DE_way_48013134,DE_way_607098496,233.7,Interxion FRA4,Interxion FRA12,Interxion,Interxion,True,False
+IE_way_23610623,IE_way_28352291,234.1,,Amazon Web Services,,Amazon Web Services,False,False
+FR_way_146091136,FR_way_421253671,234.2,,,data4,data4,True,True
+DE_way_1062506404,DE_way_1062506409,234.6,,,,,False,True
+DE_way_168961578,DE_way_326823358,235.1,,Interxion FRA5,,Interxion,False,False
+DE_way_88875337,DE_way_1234079003,235.3,,,NTT Global Data Centers,NTT Global Data Centers,True,True
+DE_way_326082813,DE_way_607098496,235.7,Interxion FRA7,Interxion FRA12,Interxion,Interxion,True,False
+DE_way_168961578,DE_way_1040002048,236.5,,,,,False,True
+IE_way_28352285,IE_way_28352291,236.6,,Amazon Web Services,,Amazon Web Services,False,False
+GB_way_225909384,GB_way_735444062,236.6,Telefonica Data Centre,Equinix LD7,Telefonica,Equinix,False,False
+FR_way_1099624277,FR_way_1099624280,236.7,,,,,False,True
+HU_node_9379430388,HU_node_9753176163,237.5,BIX,,ISZT - BUDAPEST INTERNET EXCHANGE,ATW,False,False
+GB_way_157178049,GB_way_497956675,237.9,Global Switch London East,Telehouse North Two,Global Switch,Telehouse,False,False
+NL_way_957632961,NL_way_957632962,237.9,AMS11,AMS12,Microsoft,Microsoft,True,False
+FR_way_146091115,FR_way_421253670,237.9,,CNRS,data4,,False,False
+GB_way_459572486,GB_way_702784280,238.1,VIRTUS Slough London 3 and 4,Equinix LD10,VIRTUS,Equinix,False,False
+IE_way_697659634,IE_way_1108073464,238.3,Amazon Web Services,Amazon Web Services,Amazon Web Services,Amazon Web Services,True,True
+DE_way_1251320340,DE_way_1251320341,238.4,,,,,False,True
+DE_way_88875270,DE_way_759989363,238.4,,,NTT Global Data Centers,Global Switch,False,True
+FR_way_421253671,FR_way_1273311891,238.5,,,data4,data4,True,True
+DE_way_967401206,DE_way_1062433551,238.6,,Digital Realty FRA33,,Digital Realty,False,False
+DE_way_48013156,DE_way_168961578,239.0,,,,,False,True
+DE_way_88875247,DE_way_88875362,239.5,,,NTT Global Data Centers,,False,True
+DE_way_168961578,DE_way_326082814,239.7,,Interxion FRA10,,Interxion,False,False
+DE_way_48013155,DE_way_403874334,240.7,Interxion FRA2,Interxion FRA11,Interxion,Interxion,True,False
+DE_way_168961561,DE_way_403874334,240.8,DigitalRealty FRA1,Interxion FRA11,Interxion,Interxion,True,False
+IT_node_11822939313,IT_node_11985791319,240.9,E. D. Accounting Siena,Centro Elab. Dati Catocci Bianciardi,,Bari Bianciardi Vanni,False,False
+GB_way_447320367,GB_way_787209399,241.1,Centurylink London 5,VIRTUS LONDON9,Centurylink,,False,False
+FR_node_6102606448,FR_relation_1190245,241.2,Interxion PAR6,Digital Realty Paris PAR6,,Digital Realty,False,False
+FR_way_42016630,FR_way_146091133,241.4,Data4 Campus Paris Saclay,,Data4,data4,False,False
+GB_way_225909388,GB_way_712277376,241.4,Equinix LD11x,Equinix LD6,Equinix,Equinix,True,False
+GB_way_838655598,GB_way_1164817477,241.5,,,Ark Data Centres,,False,True
+IE_way_47923380,IE_way_68337029,242.3,Amazon Web Services DUB10/50/51,Eir Data Center,Amazon Web Services,Eir,False,False
+FR_way_320306631,FR_way_421253671,242.7,Data4 Marcoussis,,,data4,False,False
+DE_way_499619543,DE_way_499619544,242.8,CyrusOne FRA2,Digital Realty FRA30,CyrusOne,Digital Realty,False,False
+DE_way_173170495,DE_way_499619544,243.6,CyrusOne FRA1,Digital Realty FRA30,CyrusOne,Digital Realty,False,False
+GB_way_574135471,GB_way_996865180,243.6,Ark Data Centres,,Ark Data Centres,,False,False
+DE_way_48017518,DE_way_749252262,244.0,Interxion FRA3,Interxion FRA15,Interxion,Interxion,True,False
+NL_way_881474216,NL_way_956325143,244.5,,Google Datacenter Eemshaven,,Google,False,False
+FR_way_1122298171,FR_way_1342264087,245.3,,,data4,,False,True
+DE_way_98916098,DE_way_620369478,245.5,Equinix FR8.1,Equinix FR6,Equinix,Equinix,True,False
+GB_way_459613192,GB_way_706624303,245.8,,Equinix LD9,,Equinix,False,False
+DE_way_173170495,DE_way_967735675,246.0,CyrusOne FRA1,Digital Realty FRA29,CyrusOne,Digital Realty,False,False
+NL_way_435698610,NL_way_583963691,246.6,AMS06,AMS07,Microsoft,Microsoft,True,False
+GB_way_458775806,GB_way_458775808,246.7,TAT14 Cable Landing Station,,BT,Verizon,False,False
+DE_way_86339088,DE_way_1031000203,246.8,I.T.E.N.O.S. Frankfurt - B,Verizon,,Verizon,False,False
+NL_way_435698610,NL_way_723863903,247.3,AMS06,AMS08,Microsoft,Microsoft,True,False
+DE_way_88875337,DE_relation_1314773,248.0,,,NTT Global Data Centers,TE Connectivety,False,True
+FR_way_42016630,FR_way_146091136,248.4,Data4 Campus Paris Saclay,,Data4,data4,False,False
+DE_way_48013134,DE_way_326082814,248.9,Interxion FRA4,Interxion FRA10,Interxion,Interxion,True,False
+GB_way_81633882,GB_way_787209399,249.1,Logicalis Slough,VIRTUS LONDON9,,,False,False
+HU_node_1530992851,HU_node_9753176163,249.7,,,ATW,ATW,True,True
+FR_way_125557451,FR_way_153973376,249.8,Datacenter IBM,La Pointe 1,IBM,Atos,False,False
+FR_way_75758209,FR_relation_13829451,249.9,,,SFR,Bouygues Télécom,False,True

@@ -1,0 +1,317 @@
+{
+ "all_pass": true,
+ "n_checks": 61,
+ "n_failed": 0,
+ "checks": [
+  {
+   "check": "1216 original facility IDs",
+   "pass": true,
+   "detail": "1216"
+  },
+  {
+   "check": "recovered lit-score IDs == master IDs",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "analytical table IDs == original IDs (no additions/removals)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "no duplicated facility IDs after joins",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "row order preserved vs master (tie-break order)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "master columns unchanged in analytical table",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "coordinates valid (lat 34-72, lon -25-45)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "20 distinct valid country codes",
+   "pass": true,
+   "detail": "['AT', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FI', 'FR', 'GB', 'GR', 'HU', 'IE', 'IT', 'NL', 'NO', 'PL', 'PT', 'RO', 'SE']"
+  },
+  {
+   "check": "facility_id prefix matches country",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "nearest road distance finite, >0, <= 50 km (metres)",
+   "pass": true,
+   "detail": "min 10.3 max 20301.7"
+  },
+  {
+   "check": "density 2.5km in plausible km/km2 range [0,10]",
+   "pass": true,
+   "detail": "max 4.768"
+  },
+  {
+   "check": "density == length/area (km/km2) within rounding",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "buffer area 2.5 km ~ pi*2.5^2 (+-0.5%)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "road lengths monotonic in buffer size",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "all 2.5 km lengths <= pi r^2 * 10 km/km2 sanity",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "provenance column marks reconstructed roads",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0] 1216 scored rows, same IDs",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0] all 9 norm indicators finite in [0,1]",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0] equal ranks are a permutation of 1..1216",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0] equal score == sqrt((O+eps)(F+eps))",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0] equal rank monotone in score",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0] literature_informed ranks are a permutation of 1..1216",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0] literature_informed score == sqrt((O+eps)(F+eps))",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0] literature_informed rank monotone in score",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0] entropy ranks are a permutation of 1..1216",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0] entropy score == sqrt((O+eps)(F+eps))",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0] entropy rank monotone in score",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0] equal weights sum to 1 (opp,feas)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0] literature_informed weights sum to 1 (opp,feas)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0] entropy weights sum to 1 (opp,feas)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0] literature weights == 0.35/.20/.15/.15/.10/.05 and .35/.30/.20/.15",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0] equal weights: opp 1/6, feas 1/4",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0] direction: nearest-anchor norm decreases with distance",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0] direction: nearest-road norm decreases with distance",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0] direction: road-density norm increases with density",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0] direction: heat/pop/HDD/anchor-count norms increase",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0] n tied raw equal-weight scores (resolved by input order, method='first')",
+   "pass": true,
+   "detail": "2"
+  },
+  {
+   "check": "[B0QA] 1216 scored rows, same IDs",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0QA] all 9 norm indicators finite in [0,1]",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0QA] equal ranks are a permutation of 1..1216",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0QA] equal score == sqrt((O+eps)(F+eps))",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0QA] equal rank monotone in score",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0QA] literature_informed ranks are a permutation of 1..1216",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0QA] literature_informed score == sqrt((O+eps)(F+eps))",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0QA] literature_informed rank monotone in score",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0QA] entropy ranks are a permutation of 1..1216",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0QA] entropy score == sqrt((O+eps)(F+eps))",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0QA] entropy rank monotone in score",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0QA] equal weights sum to 1 (opp,feas)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0QA] literature_informed weights sum to 1 (opp,feas)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0QA] entropy weights sum to 1 (opp,feas)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0QA] literature weights == 0.35/.20/.15/.15/.10/.05 and .35/.30/.20/.15",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0QA] equal weights: opp 1/6, feas 1/4",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0QA] direction: nearest-anchor norm decreases with distance",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0QA] direction: nearest-road norm decreases with distance",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0QA] direction: road-density norm increases with density",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0QA] direction: heat/pop/HDD/anchor-count norms increase",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0QA] deterministic re-run gives identical ranks",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "[B0QA] n tied raw equal-weight scores (resolved by input order, method='first')",
+   "pass": true,
+   "detail": "2"
+  },
+  {
+   "check": "B0 vs B0-QA input differs only for merge-dropped IDs",
+   "pass": true,
+   "detail": "['CZ_node_9956577119']"
+  },
+  {
+   "check": "candidate duplicate campuses recorded (not merged)",
+   "pass": true,
+   "detail": "956 pairs <=250 m; 385 records <=100 m of another; 563 records <=250 m"
+  }
+ ],
+ "duplicates": {
+  "pairs_le_250m": 956,
+  "records_le_100m": 385,
+  "records_le_250m": 563
+ }
+}

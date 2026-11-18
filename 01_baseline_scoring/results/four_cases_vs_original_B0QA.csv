@@ -1,0 +1,5 @@
+case,facility_id,orig_opp,new_opp,orig_feas,new_feas,orig_score,new_score,orig_rank,new_rank
+Equinix PA10,FR_way_1121454054,0.8017,0.8017,0.89712,0.8975,0.8481,0.8482,73,70
+Telia HDC,FI_way_640329703,0.8611,0.8611,0.6172,0.6203,0.729,0.7308,222,221
+Meta Odense Data center,DK_way_940299764,0.4459,0.4459,0.2629,0.2637,0.3424,0.3429,951,950
+NorthC Datacenter Aalsmeer,NL_node_2765259404,0.558,0.558,0.4713,0.4725,0.5128,0.5135,711,707

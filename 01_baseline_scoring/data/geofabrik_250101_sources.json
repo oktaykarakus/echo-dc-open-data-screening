@@ -1,0 +1,142 @@
+[
+ {
+  "country": "NL",
+  "url": "https://download.geofabrik.de/europe/netherlands-250101.osm.pbf",
+  "status": 200,
+  "bytes": 1316037646,
+  "last_modified": "Thu, 02 Jan 2025 03:33:37 GMT"
+ },
+ {
+  "country": "DE",
+  "url": "https://download.geofabrik.de/europe/germany-250101.osm.pbf",
+  "status": 200,
+  "bytes": 4448961758,
+  "last_modified": "Thu, 02 Jan 2025 03:03:36 GMT"
+ },
+ {
+  "country": "FR",
+  "url": "https://download.geofabrik.de/europe/france-250101.osm.pbf",
+  "status": 200,
+  "bytes": 4699752780,
+  "last_modified": "Thu, 02 Jan 2025 03:33:37 GMT"
+ },
+ {
+  "country": "GB",
+  "url": "https://download.geofabrik.de/europe/united-kingdom-250101.osm.pbf",
+  "status": 200,
+  "bytes": 1924526462,
+  "last_modified": "Thu, 02 Jan 2025 03:42:35 GMT"
+ },
+ {
+  "country": "IE",
+  "url": "https://download.geofabrik.de/europe/ireland-and-northern-ireland-250101.osm.pbf",
+  "status": 200,
+  "bytes": 345362118,
+  "last_modified": "Thu, 02 Jan 2025 03:42:35 GMT"
+ },
+ {
+  "country": "BE",
+  "url": "https://download.geofabrik.de/europe/belgium-250101.osm.pbf",
+  "status": 200,
+  "bytes": 616776596,
+  "last_modified": "Thu, 02 Jan 2025 03:33:38 GMT"
+ },
+ {
+  "country": "ES",
+  "url": "https://download.geofabrik.de/europe/spain-250101.osm.pbf",
+  "status": 200,
+  "bytes": 1288556119,
+  "last_modified": "Thu, 02 Jan 2025 03:33:38 GMT"
+ },
+ {
+  "country": "IT",
+  "url": "https://download.geofabrik.de/europe/italy-250101.osm.pbf",
+  "status": 200,
+  "bytes": 2018787020,
+  "last_modified": "Thu, 02 Jan 2025 03:13:22 GMT"
+ },
+ {
+  "country": "PL",
+  "url": "https://download.geofabrik.de/europe/poland-250101.osm.pbf",
+  "status": 200,
+  "bytes": 1884546225,
+  "last_modified": "Thu, 02 Jan 2025 03:03:36 GMT"
+ },
+ {
+  "country": "SE",
+  "url": "https://download.geofabrik.de/europe/sweden-250101.osm.pbf",
+  "status": 200,
+  "bytes": 745763586,
+  "last_modified": "Thu, 02 Jan 2025 03:07:21 GMT"
+ },
+ {
+  "country": "FI",
+  "url": "https://download.geofabrik.de/europe/finland-250101.osm.pbf",
+  "status": 200,
+  "bytes": 655675548,
+  "last_modified": "Thu, 02 Jan 2025 03:07:20 GMT"
+ },
+ {
+  "country": "NO",
+  "url": "https://download.geofabrik.de/europe/norway-250101.osm.pbf",
+  "status": 200,
+  "bytes": 1334120403,
+  "last_modified": "Thu, 02 Jan 2025 03:07:20 GMT"
+ },
+ {
+  "country": "DK",
+  "url": "https://download.geofabrik.de/europe/denmark-250101.osm.pbf",
+  "status": 200,
+  "bytes": 456394816,
+  "last_modified": "Thu, 02 Jan 2025 03:07:20 GMT"
+ },
+ {
+  "country": "AT",
+  "url": "https://download.geofabrik.de/europe/austria-250101.osm.pbf",
+  "status": 200,
+  "bytes": 760478733,
+  "last_modified": "Thu, 02 Jan 2025 03:03:36 GMT"
+ },
+ {
+  "country": "CH",
+  "url": "https://download.geofabrik.de/europe/switzerland-250101.osm.pbf",
+  "status": 200,
+  "bytes": 481997861,
+  "last_modified": "Thu, 02 Jan 2025 03:03:36 GMT"
+ },
+ {
+  "country": "PT",
+  "url": "https://download.geofabrik.de/europe/portugal-250101.osm.pbf",
+  "status": 200,
+  "bytes": 356060135,
+  "last_modified": "Thu, 02 Jan 2025 03:33:37 GMT"
+ },
+ {
+  "country": "CZ",
+  "url": "https://download.geofabrik.de/europe/czech-republic-250101.osm.pbf",
+  "status": 200,
+  "bytes": 875357971,
+  "last_modified": "Thu, 02 Jan 2025 03:03:35 GMT"
+ },
+ {
+  "country": "HU",
+  "url": "https://download.geofabrik.de/europe/hungary-250101.osm.pbf",
+  "status": 200,
+  "bytes": 278802620,
+  "last_modified": "Thu, 02 Jan 2025 03:03:36 GMT"
+ },
+ {
+  "country": "RO",
+  "url": "https://download.geofabrik.de/europe/romania-250101.osm.pbf",
+  "status": 200,
+  "bytes": 289723825,
+  "last_modified": "Thu, 02 Jan 2025 02:40:54 GMT"
+ },
+ {
+  "country": "GR",
+  "url": "https://download.geofabrik.de/europe/greece-250101.osm.pbf",
+  "status": 200,
+  "bytes": 315851592,
+  "last_modified": "Thu, 02 Jan 2025 02:44:53 GMT"
+ }
+]

@@ -1,0 +1,182 @@
+[
+ {
+  "country": "NL",
+  "file": "netherlands-250101.osm.pbf",
+  "bytes": 1316037646,
+  "sha256": "9aee0e99fea917b8a1b8fb1339a8a979044a197822e4aec05c1bed451f919d50",
+  "replication_timestamp": "2025-01-01T21:21:00Z",
+  "replication_base_url": "https://download.geofabrik.de/europe/netherlands-updates",
+  "writing_program": "osmium/1.14.0"
+ },
+ {
+  "country": "DE",
+  "file": "germany-250101.osm.pbf",
+  "bytes": 4448961758,
+  "sha256": "1f2de44584d3d74593e689caf0fee64a1d8368862dfad135c59a66aeb653e698",
+  "replication_timestamp": "2025-01-01T21:21:00Z",
+  "replication_base_url": "https://download.geofabrik.de/europe/germany-updates",
+  "writing_program": "osmium/1.14.0"
+ },
+ {
+  "country": "FR",
+  "file": "france-250101.osm.pbf",
+  "bytes": 4699752780,
+  "sha256": "0a9790fda03e5fa21de421fb2dddf9012386d35e0d6ba57f84c82d398ca31874",
+  "replication_timestamp": "2025-01-01T21:21:00Z",
+  "replication_base_url": "https://download.geofabrik.de/europe/france-updates",
+  "writing_program": "osmium/1.14.0"
+ },
+ {
+  "country": "GB",
+  "file": "united-kingdom-250101.osm.pbf",
+  "bytes": 1924526462,
+  "sha256": "48ebe3fbdb90ae0e97c2d745fa1338dccf8f9b8c8867eef1b8e96492cb676b99",
+  "replication_timestamp": "2025-01-01T21:21:00Z",
+  "replication_base_url": "https://download.geofabrik.de/europe/united-kingdom-updates",
+  "writing_program": "osmium/1.14.0"
+ },
+ {
+  "country": "IE",
+  "file": "ireland-and-northern-ireland-250101.osm.pbf",
+  "bytes": 345362118,
+  "sha256": "a202570e54aace2f58e3904fd1519be72f8101065c27150baf9f351ac8ffe9fb",
+  "replication_timestamp": "2025-01-01T21:21:00Z",
+  "replication_base_url": "https://download.geofabrik.de/europe/ireland-and-northern-ireland-updates",
+  "writing_program": "osmium/1.14.0"
+ },
+ {
+  "country": "BE",
+  "file": "belgium-250101.osm.pbf",
+  "bytes": 616776596,
+  "sha256": "f15969966b226db83099974dfec7f1c79ec1f3a62f599bae96bf5b4bc8daae56",
+  "replication_timestamp": "2025-01-01T21:21:00Z",
+  "replication_base_url": "https://download.geofabrik.de/europe/belgium-updates",
+  "writing_program": "osmium/1.14.0"
+ },
+ {
+  "country": "ES",
+  "file": "spain-250101.osm.pbf",
+  "bytes": 1288556119,
+  "sha256": "6f1066d177d406b142a1c98f06fb13645715956497ec0cf8771567b1e83a6b4a",
+  "replication_timestamp": "2025-01-01T21:21:00Z",
+  "replication_base_url": "https://download.geofabrik.de/europe/spain-updates",
+  "writing_program": "osmium/1.14.0"
+ },
+ {
+  "country": "IT",
+  "file": "italy-250101.osm.pbf",
+  "bytes": 2018787020,
+  "sha256": "29b035cec60e751cdd636c243d8fcdd283631307e8ec58de8d1517d6138adef2",
+  "replication_timestamp": "2025-01-01T21:21:00Z",
+  "replication_base_url": "https://download.geofabrik.de/europe/italy-updates",
+  "writing_program": "osmium/1.14.0"
+ },
+ {
+  "country": "PL",
+  "file": "poland-250101.osm.pbf",
+  "bytes": 1884546225,
+  "sha256": "8647841e279fde68b87c23e883e186f8f3fc27610d5af5039af37d1bed247ac1",
+  "replication_timestamp": "2025-01-01T21:21:00Z",
+  "replication_base_url": "https://download.geofabrik.de/europe/poland-updates",
+  "writing_program": "osmium/1.14.0"
+ },
+ {
+  "country": "SE",
+  "file": "sweden-250101.osm.pbf",
+  "bytes": 745763586,
+  "sha256": "359fc5ec319c43506674582cc434ee1a5b08c8c9fac58b32ea8d1e9e0026302a",
+  "replication_timestamp": "2025-01-01T21:21:00Z",
+  "replication_base_url": "https://download.geofabrik.de/europe/sweden-updates",
+  "writing_program": "osmium/1.14.0"
+ },
+ {
+  "country": "FI",
+  "file": "finland-250101.osm.pbf",
+  "bytes": 655675548,
+  "sha256": "10726cb2a04f9b3c219d1e18fa38269d77743f367e2115b5c9c966b4869b46c2",
+  "replication_timestamp": "2025-01-01T21:21:00Z",
+  "replication_base_url": "https://download.geofabrik.de/europe/finland-updates",
+  "writing_program": "osmium/1.14.0"
+ },
+ {
+  "country": "NO",
+  "file": "norway-250101.osm.pbf",
+  "bytes": 1334120403,
+  "sha256": "47c649349fde4986ca5fe809796332e8e9f1c8b2f271d415774169644230d7ab",
+  "replication_timestamp": "2025-01-01T21:21:00Z",
+  "replication_base_url": "https://download.geofabrik.de/europe/norway-updates",
+  "writing_program": "osmium/1.14.0"
+ },
+ {
+  "country": "DK",
+  "file": "denmark-250101.osm.pbf",
+  "bytes": 456394816,
+  "sha256": "9f3bd5086828ed8bd09e4aeb01e69bb0a279a28a9bc17dc2f9bfe082288d1c75",
+  "replication_timestamp": "2025-01-01T21:21:00Z",
+  "replication_base_url": "https://download.geofabrik.de/europe/denmark-updates",
+  "writing_program": "osmium/1.14.0"
+ },
+ {
+  "country": "AT",
+  "file": "austria-250101.osm.pbf",
+  "bytes": 760478733,
+  "sha256": "7f4d2c6ab15416a303d44c8f711861f2d6b112b841793378eb7566393564352a",
+  "replication_timestamp": "2025-01-01T21:21:00Z",
+  "replication_base_url": "https://download.geofabrik.de/europe/austria-updates",
+  "writing_program": "osmium/1.14.0"
+ },
+ {
+  "country": "CH",
+  "file": "switzerland-250101.osm.pbf",
+  "bytes": 481997861,
+  "sha256": "25e5a67f6be7fb055ae0c421e8e8a18af5db6fe53888b639c40df7f0c221d146",
+  "replication_timestamp": "2025-01-01T21:21:00Z",
+  "replication_base_url": "https://download.geofabrik.de/europe/switzerland-updates",
+  "writing_program": "osmium/1.14.0"
+ },
+ {
+  "country": "PT",
+  "file": "portugal-250101.osm.pbf",
+  "bytes": 356060135,
+  "sha256": "d5dd64bf8fb511d9dfc341e0973b95ad2610deefd658db12d824caa87ac3d767",
+  "replication_timestamp": "2025-01-01T21:21:00Z",
+  "replication_base_url": "https://download.geofabrik.de/europe/portugal-updates",
+  "writing_program": "osmium/1.14.0"
+ },
+ {
+  "country": "CZ",
+  "file": "czech-republic-250101.osm.pbf",
+  "bytes": 875357971,
+  "sha256": "f17cc6291122c15b9384cdd9dd25eba21cce41c8ad85824e2bbd2da5f2a36021",
+  "replication_timestamp": "2025-01-01T21:21:00Z",
+  "replication_base_url": "https://download.geofabrik.de/europe/czech-republic-updates",
+  "writing_program": "osmium/1.14.0"
+ },
+ {
+  "country": "HU",
+  "file": "hungary-250101.osm.pbf",
+  "bytes": 278802620,
+  "sha256": "16768ca1139b2f236dd327e5f189afe5a0b747d08c679de7b3659f4bb688d791",
+  "replication_timestamp": "2025-01-01T21:21:00Z",
+  "replication_base_url": "https://download.geofabrik.de/europe/hungary-updates",
+  "writing_program": "osmium/1.14.0"
+ },
+ {
+  "country": "RO",
+  "file": "romania-250101.osm.pbf",
+  "bytes": 289723825,
+  "sha256": "42b39b3ee295ea4c618930f183301f6baf7d69374e91006d25cf3378e64feaf5",
+  "replication_timestamp": "2025-01-01T21:21:00Z",
+  "replication_base_url": "https://download.geofabrik.de/europe/romania-updates",
+  "writing_program": "osmium/1.14.0"
+ },
+ {
+  "country": "GR",
+  "file": "greece-250101.osm.pbf",
+  "bytes": 315851592,
+  "sha256": "6ffa648d5d14c651042238242c2f5c238e71e2774df21e3d533e953e11bae901",
+  "replication_timestamp": "2025-01-01T21:21:00Z",
+  "replication_base_url": "https://download.geofabrik.de/europe/greece-updates",
+  "writing_program": "osmium/1.14.0"
+ }
+]
